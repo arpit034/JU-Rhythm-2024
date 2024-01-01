@@ -47,7 +47,11 @@ body {
     font-family: "Poppins";
     background-color: #151515;
 }
-
+.foot2{
+  /* font-family: "myFont"; */
+  background: linear-gradient(0deg,#1DA0CB ,#FCEE09);
+ 
+}
 .button-49:after {
   width: 150px;
   height: 76px;
@@ -147,18 +151,18 @@ body {
   }
 }
 
-.container {
+ .container {
     max-width: 70rem;
     padding: 0 2rem;
     margin: 0 auto;
-}
+  }
 
-header {
+  header {
     width: 100%;
     height: 100vh;
     position: relative;
     overflow: hidden;
-}
+  }
 
 header:after {
     content: "";

@@ -88,14 +88,7 @@ const teamDetails = [
 
     
     },
-    {
-        name: '',
-        image: harsh,
-       year: "",
-
-      
-
-    },
+  
     {
         name: '',
         image: aditya,
@@ -106,35 +99,25 @@ const teamDetails = [
    
     {
         name: '',
-        image: anshika,
+        image: isha,
        year: "",
 
-        // linkedin: 'https://www.linkedin.com/in/',
-        // github: 'https://github.com/',
-        // twitter: 'https://twitter.com/',
-        // instagram: 'https://www.instagram.com/',
+        
 
     },
     {
         name: '',
-        image: isha,
+        image: anshika,
        year: "",
 
-        // linkedin: 'https://www.linkedin.com/in/',
-        // github: 'https://github.com/',
-        // twitter: 'https://twitter.com/',
-        // instagram: 'https://www.instagram.com/',
-
+      
     },
     {
         name: '',
         image: Sajal,
        year: "",
 
-        // linkedin: 'https://www.linkedin.com/in/',
-        // github: 'https://github.com/',
-        // twitter: 'https://twitter.com/',
-        // instagram: 'https://www.instagram.com/',
+      
 
     },
 
@@ -143,10 +126,7 @@ const teamDetails = [
         image: sajal2,
        year: "",
 
-        // linkedin: 'https://www.linkedin.com/in/',
-        // github: 'https://github.com/',
-        // twitter: 'https://twitter.com/',
-        // instagram: 'https://www.instagram.com/',
+       
 
     },
     {
@@ -154,10 +134,7 @@ const teamDetails = [
         image:Navin,
        year: "",
 
-        // linkedin: 'https://www.linkedin.com/in/',
-        // github: 'https://github.com/',
-        // twitter: 'https://twitter.com/',
-        // instagram: 'https://www.instagram.com/',
+       
 
     },
     {
@@ -165,11 +142,7 @@ const teamDetails = [
         image: sakshi,
        year: "",
 
-        // linkedin: 'https://www.linkedin.com/in/',
-        // github: 'https://github.com/',
-        // twitter: 'https://twitter.com/',
-        // instagram: 'https://www.instagram.com/',
-
+       
     },
     {
         name: '',
@@ -192,7 +165,7 @@ const Ourteam = () => {
                 <NavMenu />
             )}
             <div className="flex justify-center">
-                <div className="   md:px-12 xl:px-6">          <div className="relative pt-36 ">
+                <div className=" md:px-12 xl:px-6">          <div className="relative pt-36 ">
                     <div className="lg:w-2/3 text-center  mx-auto">
                         <h1 className="team2 text-[#FCEE09] font-bold text-12xl md:text-6xl xl:text-8xl">Our Team</h1>
 
@@ -200,7 +173,7 @@ const Ourteam = () => {
                 </div>
                     <div className="grid grid-cols-2 gap-6 sm:grid-cols-1 m-10  md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 pt-10">
                         {teamDetails.map((item) => (
-                            <div className="w-[300px] px-6 py-6  text-center bg--200 rounded-lg lg:mt-0 xl:px-10">
+                            <div className="w-[400px] px-6 py-6  text-center bg--200 rounded-lg lg:mt-0 xl:px-10">
                                 <div className="space-y-4 xl:space-y-6 ">
                                     <Image className="mx-auto  h-50 w-50 transition-transform duration-300 transform hover:scale-105 cursor-pointer" src={item.image} alt="author avatar" />
                                     <div className="space-y-2">

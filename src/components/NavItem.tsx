@@ -8,7 +8,7 @@ const NavItem = ({ href, text }: { href: any, text: string }) => {
     <NextLink href={{ pathname: href, query: { showNav: href !== '/' } }} className={` xl:ml-0 ${isActive
       ? ' font-bold text-[#FCEE09]'
       : ' team2  font-800 text-[#FCEE09]  dark:text-gray-400 text-2xl'
-      } 'hidden md:inline-block p-1 sm:px-4 sm:py-2 rounded-full hover:text-white hover: background: linear-gradient(0deg,#1DA0CB ,#FCEE09), dark:hover:bg-midnight transition-all`}>
+      } 'hidden md:inline-block p-1 sm:px-4 sm:py-2 rounded-full hover:text-white  hover:background:[#FCEE09] , dark:hover:bg-midnight transition-all`}>
 
       <span
         className={`${isActive

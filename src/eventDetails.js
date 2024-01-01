@@ -1,8 +1,8 @@
 
 import AnalyticChamp from "./images/poster/poster1.jpg";
-import cultural from "./images/poster/cultural.png";
+import cultural from "./images/poster/Cultural.png";
 import FunkFromJunk from "./images/poster/poster11.jpg";
-import media from "./images/poster/media.png";
+import media from "./images/poster/Media.png";
 import JazzOff from "./images/poster/poster13.jpg";
 import Maze from "./images/poster/poster14.jpg";
 import MockCID from "./images/poster/poster15.jpg";
@@ -24,7 +24,7 @@ import BlindTypeBattle from "./images/poster/poster3.jpg";
 import BrushOfBrush from "./images/poster/poster4.jpg";
 import BugBash from "./images/poster/poster5.jpg";
 import sports from "./images/poster/sports.png";
-import tech from "./images/poster/tech.png";
+import tech from "./images/poster/Technical.png";
 import comicComat from "./images/poster/poster8.jpg";
 
 

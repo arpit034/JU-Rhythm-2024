@@ -80,7 +80,7 @@ const images = [
     },
     {
         image: image13,
-        className: 'big'
+        className: 'small'
     },
     {
         image: image2,
@@ -96,7 +96,7 @@ const images = [
     },
     {
         image: image16,
-        className: 'big'
+        className: 'tall'
     },
     {
         image: image17,
@@ -104,7 +104,7 @@ const images = [
     },
     {
         image: image18,
-        className: 'big'
+        className: 'small'
     },
     {
         image: image19,
@@ -120,7 +120,7 @@ const images = [
     },
     {
         image: image22,
-        className: 'wide'   
+        className: 'small'   
     },
     {
         image: image23,
@@ -128,11 +128,11 @@ const images = [
     },
     {
         image: image24,
-        className: 'tall'   
+        className: 'small'   
     },
     {
         image: image25,
-        className: 'wide'   
+        className: 'tall'   
     },
     {
         image: image26,
@@ -140,7 +140,7 @@ const images = [
     },
     {
         image: image27,
-        className: 'big'   
+        className: 'tall'   
     },
     {
         image: image28,

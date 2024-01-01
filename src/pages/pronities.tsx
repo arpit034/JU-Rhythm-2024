@@ -22,7 +22,7 @@ const Pronities = () => {
             <div className="   md:px-12 xl:px-6">
                 <div className="relative pt-36 ">
                     <div className="lg:w-2/3 text-center  mx-auto">
-                        <h1 className="team2 text-white font-bold text-4xl md:text-6xl xl:text-7xl">Celebrity<span className=" team text-primary text-white"> </span>Night</h1>
+                        <h1 className="team2 text-white font-bold text-4xl md:text-6xl xl:text-7xl">Pro Nite</h1>
 
                     </div>
                 </div>
@@ -35,8 +35,8 @@ const Pronities = () => {
                     <div className=' p-3   transition-transform duration-300 transform hover:scale-105 cursor-pointer'>
                         <Image className="h-auto  max-w-full " src={pronite2} alt="" />
                     </div>
-                    <div className=' p-4   transition-transform duration-300 transform hover:scale-105 cursor-pointer'>
-                        <Image className="h-auto w max-w-full " src={pronite3} alt="" />
+                    <div className=' p-3   transition-transform duration-300 transform hover:scale-105 cursor-pointer'>
+                        <Image className="h-auto  max-w-full " src={pronite3} alt="" />
                     </div>
                 </div>
             </div>

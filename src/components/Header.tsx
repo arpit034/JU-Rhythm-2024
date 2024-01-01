@@ -14,12 +14,9 @@ const Header = () => {
                         style={{ position: 'fixed', width: '100%', height: '142vh', objectFit: 'cover', zIndex: -3, opacity: .9 }}>
                         <source src="video1.mp4" type="video/mp4" />
                     </video>
+                    
                 </div> 
                 
-                        <div className="relative h-0">
-                        <button className="button-49" role="button">Register Now</button>
-                        </div>
-                 
             </header>
 
 
