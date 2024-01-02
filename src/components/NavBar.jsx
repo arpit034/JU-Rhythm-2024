@@ -22,7 +22,7 @@ function NewNavBar() {
         <Navbar.Link href="/gallery" className='team2 text-3xl'>Gallery</Navbar.Link>
         <Navbar.Link href="/ourteam" className='team2 text-3xl'>Our Team</Navbar.Link>
         <Navbar.Link href="sponsors" className='team2 text-3xl'>Sponsors</Navbar.Link>
-        <Navbar.Link href="/technical" className='team2 text-3xl'>Contact Us</Navbar.Link>
+        <Navbar.Link href="/contactus" className='team2 text-3xl'>Contact Us</Navbar.Link>
       </Navbar.Collapse>
     </Navbar>
   );

@@ -176,9 +176,9 @@ const Gallery = () => {
     }, []);
     return (
         <>
-            <NewNavBar/>
             <section className='p-10 md:p-20'>
-                <div className="   md:px-12 xl:px-6">          <div className="relative pt-36 ">
+                <div className="   md:px-12 xl:px-6">         
+                 <div className="relative pt-12 ">
                     <div className="lg:w-2/3 md:text-center  mx-auto">
                         <h1 className=" team2 text-white font-bold text-4xl md:text-6xl xl:text-7xl ">Glimpses Of JU Rhythm</h1>
 
