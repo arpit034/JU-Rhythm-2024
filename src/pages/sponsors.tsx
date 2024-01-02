@@ -3,6 +3,7 @@ import { sponsor1, sponsor2, sponsor3, sponsor4, sponsor5, sponsor6, sponsor7, s
 import Image from 'next/image'
 import NavMenu from '@/components/NavMenu'
 import { useRouter } from 'next/router'
+import NewNavBar from '@/components/NavBar'
 const eventSponsors = [
     {
         image: sponsor1
@@ -53,7 +54,7 @@ const sponsors = () => {
     const showNav = router.query.showNav;
     return (
         <>
-            {showNav && <NavMenu />}
+           <NewNavBar/>
             <div className='bg-[#151515] pb-10'>
                 <div className="md:px-12 xl:px-6 "> <div className="relative pt-36 ">
                     <div className="lg:w-2/3 text-center  mx-auto">

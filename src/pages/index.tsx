@@ -6,16 +6,18 @@ import Pronities from './pronities';
 import Events from './events';
 import Footer from '@/components/Footer';
 import { useRouter } from 'next/router';
+import NewNavBar from '@/components/NavBar';
 
 
 
 
 export default function PreviewPage() {
   const router = useRouter();
-  const showNav = router.query.showNav;
+
   return (
 
     <>
+   <NewNavBar/>
       <Container>
         <Header />
 

@@ -1,4 +1,5 @@
-import NavMenu from '@/components/NavMenu'
+
+
 import React from 'react'
 import EventCard from '../components/EventCard.jsx'
 import AnalyticChamp from "../images/poster/poster1.jpg";
@@ -28,7 +29,7 @@ import BugBash from "../images/poster/poster5.jpg";
 import sports from "../images/poster/sports.png";
 import tech from "../images/poster/Technical.png";
 import comicComat from "../images/poster/poster8.jpg";
-
+import NewNavBar from '../components/NavBar.jsx'
 export default function Technical() {
 
   const events = [
@@ -1062,10 +1063,10 @@ export default function Technical() {
 
   return (
     <>
-  
+  <NewNavBar/>
     <div className='flex flex-col text-center justify-center gap-10 mt-6'>
       <div className='team2 text-6xl'>
-        <p className='m-6'>TECHNICAL</p>
+        <p className='m-2'>TECHNICAL</p>
         </div>
       <div className='mx-16 grid grid-cols-4 gap-10'>
       {events.map((element)=>{

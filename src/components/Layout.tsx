@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react';
 import LoadingSpinner from './LoadingSpinner';
 import NavMenu from './NavMenu';
 import Footer from './Footer';
+import NewNavBar from './NavBar';
 
 
 
@@ -36,7 +37,6 @@ const Container = (props: any) => {
         <div
             className="  overflow-hidden" // This conditional will hide the overflow on the main page with the circles. If overflow is active on blog pages, sticky sidebar doesn't work
         >
-            <NavMenu />
             {/* <SeoHead props={props} /> */}
             <main
                 className={``}

@@ -1,20 +1,20 @@
 import React from 'react'
 import Image from 'next/image';
 import { useRouter} from 'next/router'
-import NavMenu from '@/components/NavMenu';
 import technical_poster from '../images/poster/Technical.png'
 import cultural_poster from '../images/poster/cultural.png'
 import sports_poster from '../images/poster/sports.png'
 import media_poster from '../images/poster/media.png'
 import Link from 'next/link';
 import Technical from './technical';
+import NewNavBar from '@/components/NavBar';
 
 
 const Events =()=>{
 
     return (
         <>
-            <NavMenu />
+            <NewNavBar/>
            
                 <div className='bg-[#151515] flex flex-col text-center justify-center '>
                     <div className="mt-16">
@@ -35,12 +35,8 @@ const Events =()=>{
                                 <Image className="p-1 transition-transform duration-300 transform hover:scale-105 cursor-pointer" src={media_poster} alt='Technical Poster'/>
                                
                             </div>
-    
-
-                </div>
-           
-        </>
-
+                </div> 
+                </> 
     )
 }
 

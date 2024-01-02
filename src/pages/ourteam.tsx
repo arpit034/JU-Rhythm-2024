@@ -4,6 +4,7 @@ import Image from 'next/image'
 import { twitter, linkedin, github } from '../images/icons';
 import NavMenu from '@/components/NavMenu';
 import { useRouter } from 'next/router';
+import NewNavBar from '@/components/NavBar';
 
 
 const teamDetails = [
@@ -161,9 +162,7 @@ const Ourteam = () => {
     const showNav = router.query.showNav;
     return (
         <>
-            {showNav && (
-                <NavMenu />
-            )}
+            <NewNavBar/>
             <div className="flex justify-center">
                 <div className=" md:px-12 xl:px-6">          <div className="relative pt-36 ">
                     <div className="lg:w-2/3 text-center  mx-auto">

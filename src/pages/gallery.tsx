@@ -32,7 +32,8 @@ import image30 from '../images/image30.jpg';
 
 import Image from 'next/image'
 import { useRouter } from 'next/router'
-import NavMenu from '@/components/NavMenu'
+
+import NewNavBar from '@/components/NavBar';
 const images = [
     {
         image: image3,
@@ -175,7 +176,7 @@ const Gallery = () => {
     }, []);
     return (
         <>
-            {isShowNav && <NavMenu />}
+            <NewNavBar/>
             <section className='p-10 md:p-20'>
                 <div className="   md:px-12 xl:px-6">          <div className="relative pt-36 ">
                     <div className="lg:w-2/3 md:text-center  mx-auto">
