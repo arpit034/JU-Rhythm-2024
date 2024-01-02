@@ -57,7 +57,7 @@ export default function PreviewPage() {
         </section>
         <div>
           <Pronities />
-          <Events headerShown={false} />
+          <Events/>
           <Gallery />
         </div>
       </Container >

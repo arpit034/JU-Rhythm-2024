@@ -29,7 +29,7 @@ export const navItems = [
     text: 'Sponsors',
   },
   {
-    href:'/Footer',
+    href:'/technical',
     text: 'Contact Us',
 
   }
