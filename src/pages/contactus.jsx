@@ -1,9 +1,11 @@
 import React from 'react'
-
+import NewNavBar from '../components/NavBar'
 const Footer = () => {
     return (
+        <>
+        <NewNavBar/>
         <footer aria-label="Site Footer" className="foot2 ">
-            <div className='flex items-center justify-center gap-10 pt-8'>
+            <div className='flex flex-col md:flex-row items-center justify-center gap-10 pt-8'>
             <div className=" max-w-5xl  py-16 ">
                 <div className="flex justify-start text-black pb-10">
                     <h1 className='team1 text-7xl'>Contact Us </h1>
@@ -71,8 +73,13 @@ const Footer = () => {
                            </div>
                            
         
+<<<<<<< HEAD
         </footer >)
         
+=======
+        </footer >
+        </>)
+>>>>>>> d1ee207ac50b34fec0c830dd46090006b896ab2d
 }
 
 
