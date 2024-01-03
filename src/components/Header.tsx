@@ -21,8 +21,16 @@ const Header = () => {
                             <Image src={rhy} alt="logo" className=" mt-28 absolute inset-0 w-full object-contain" />  
                         </div>
                         <div className='flex justify-center gap-10 text-center'>
-                        <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl font-bold'>Guidelines</div>
-                        <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl font-bold'>Register</div>
+                        <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl font-bold'>
+                            <a href=''>{/* PDF file to download*/}
+                                Guidelines
+                            </a>
+                            </div>
+                        <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl font-bold'>
+                            <a href='/events'>
+                                Register
+                                </a>
+                                </div>
                         </div>
                         {/* <div className="relative h-0">
                             <Image src={logoText} alt="logo text" className="mx-auto w-full h-auto object-contain -mt-[100px] sm:-mt-[10px] md:-mt-[250px] lg:-mt-[300px]" />
