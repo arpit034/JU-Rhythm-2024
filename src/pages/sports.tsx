@@ -1,5 +1,5 @@
 
-
+import EventCardSports from '../components/EventCardSports'
 import React from 'react'
 import EventCard from '../components/EventCard.jsx'
 import AnalyticChamp from "../images/poster/poster1.jpg";
@@ -1071,7 +1071,7 @@ export default function Technical() {
       <div className='mx-16 grid grid-cols-4 gap-10'>
       {events.map((element)=>{
               return <div>
-                <EventCard title={element.alias} image={element.image}/>
+                <EventCardSports title={element.alias} image={element.image}/>
             </div>
         })}
         </div>

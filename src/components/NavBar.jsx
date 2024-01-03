@@ -7,9 +7,9 @@ import Image from 'next/image';
 function NewNavBar() {
     /*change the logo with a high res in 12 line*/ 
   return (
-    <Navbar fluid rounded className=' bg-transparent'>
+    <Navbar fluid rounded className=' bg-transparent '>
       <Navbar.Brand href="">
-        <Image src={logo} alt='JECRC LOGO' className='w-2/5 ml-16'/>
+        <Image src={logo} alt='JECRC LOGO' className='w-40 ml-16'/>
       </Navbar.Brand>
       <div className="flex md:order-2">
         <Navbar.Toggle />

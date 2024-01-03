@@ -22,7 +22,7 @@ const Footer = () => {
                 </p>
                 </div>
                
-               <div className='flex gap-20 text-center justify-center'>
+               <div className='flex flex-col md:flex-row gap-20 text-center justify-center'>
                     <div className="text-center sm:grid sm:justify-start sm:text-left grid-col-2  mt-7">
 
                         <p className="mt-4 text-xl  text-black-500 sm:order-first sm:mt-0">
