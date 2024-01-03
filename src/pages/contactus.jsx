@@ -73,8 +73,13 @@ const Footer = () => {
                            </div>
                            
         
+<<<<<<< HEAD
+        </footer >)
+        
+=======
         </footer >
         </>)
+>>>>>>> d1ee207ac50b34fec0c830dd46090006b896ab2d
 }
 
 

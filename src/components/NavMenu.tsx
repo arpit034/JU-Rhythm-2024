@@ -3,6 +3,7 @@ import { Dialog } from '@headlessui/react';
 import NextLink from 'next/link';
 import MobileMenu from './MobileMenu';
 import NavItem from './NavItem';
+import footer from'./Footer'
 import logo from '../images/team/jecrc.png'
 
 import { useRouter } from 'next/router';
@@ -30,7 +31,7 @@ export const navItems = [
     text: 'Sponsors',
   },
   {
-    href:'/technical',
+    href:'/footer',
     text: 'Contact Us',
 
   }
@@ -72,11 +73,11 @@ const NavMenu = () => {
         
         <div className='flex justify-start lg:w-0  transition whitespace-nowrap hover:transition duration-300 text-4xl font-bold cursor-pointer  '>
           <span className='sr-only'>LOGO</span>
-          <NextLink href={logo} passHref>
+          {/* <NextLink href={} passHref>
             <span className=' opacity-100 hover:text-lightGreen dark:hover:text-lightGreen '>
             
             </span>         
-          </NextLink>
+          </NextLink> */}
         </div> 
         <div className='-my-2 -mr-2 lg:hidden' onClick={() => handleClick()}>
           <MobileMenu />

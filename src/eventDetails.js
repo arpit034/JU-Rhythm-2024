@@ -27,7 +27,7 @@ import sports from "./images/poster/sports.png";
 import tech from "./images/poster/Technical.png";
 import comicComat from "./images/poster/poster8.jpg";
 
-const events = [
+export const events = [
   {
     "name": "",
     // alias andr show hoga poster mein

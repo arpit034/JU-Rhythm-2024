@@ -1,5 +1,5 @@
 import React from 'react'
-import { Arpit,isha,ashmit,Awez,dhruv,Nandini,Prayash,rakshita,Sajal,Sohan,Saksham,Navin,harsh,sajal2,daksh,sakshi,raj,aditya,anshika,Chaitanya} from '../images/team'
+import { Arpit,isha,ashmit,Awez,dhruv,Nandini,Prayash,rakshita,Sajal,Sohan,Saksham,Navin,harsh,sajal2,daksh,sakshi,raj,aditya,anshika,Chaitanya, shrishti} from '../images/team'
 import Image from 'next/image'
 import { twitter, linkedin, github } from '../images/icons';
 import NavMenu from '@/components/NavMenu';
@@ -69,6 +69,14 @@ const teamDetails = [
     },
     {
         name: '',
+        image: shrishti,
+       year: "",
+
+      
+
+    },
+    {
+        name: '',
         image: Saksham,
        year: "",
 
@@ -97,6 +105,7 @@ const teamDetails = [
 
 
     },
+
    
     {
         name: '',
