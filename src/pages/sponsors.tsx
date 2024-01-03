@@ -1,5 +1,20 @@
 import React from 'react'
-import { sponsor1, sponsor2, sponsor3, sponsor4, sponsor5, sponsor6, sponsor7, sponsor8 } from '../images/sponsors'
+import{ sponsor1,
+    sponsor2,
+    sponsor3,
+    sponsor4,
+    sponsor5,
+    sponsor6,
+    sponsor7,
+    sponsor8,
+    sponsor9,
+    sponsor10,
+    sponsor11,
+    sponsor12,
+    sponsor13,
+    sponsor14,
+    sponsor15,
+    sponsor16, } from '../images/sponsors'
 import Image from 'next/image'
 import NavMenu from '@/components/NavMenu'
 import { useRouter } from 'next/router'
@@ -30,23 +45,33 @@ const eventSponsors = [
     {
         image: sponsor8
     },
+    {
+        image: sponsor9
+    },
+    {
+        image: sponsor10
+    },
+    {
+        image: sponsor11
+    },
+    {
+        image: sponsor12
+    },
+    {
+        image: sponsor13
+    },
+    {
+        image: sponsor14
+    },
+    {
+        image: sponsor15
+    },
+    {
+        image: sponsor16
+    },
   
 
-    // {
-    //     image: sponsor12
-    // },
-    // {
-    //     image: sponsor13
-    // },
-    // {
-    //     image: sponsor14
-    // },
-    // {
-    //     image: sponsor15
-    // },
-    // {
-    //     image: sponsor16
-    // },
+   
 
 ]
 const sponsors = () => {

@@ -1,4 +1,5 @@
 import Arpit from './Arpit_Sharma.png';
+import shrishti from './Shrishti_Mishra.png';
 import sajal2 from './Sajal_Goyal.png';
  import ashmit from './Ashmit_Singh.png';
  import Awez from './Awez_Khan.png';
@@ -24,4 +25,4 @@ import Navin from './Navin_Jain.png';
 
 // import mash from './mash.jpg';
 // import profile from './download.png'
-export { Arpit,isha,ashmit,Awez,dhruv,Nandini,Prayash,rakshita,Sajal,Sohan,Saksham,Navin,harsh,sajal2,daksh,sakshi,raj,aditya,anshika,Chaitanya}
+export { Arpit,isha,ashmit,Awez,dhruv,Nandini,Prayash,rakshita,Sajal,Sohan,Saksham,Navin,harsh,sajal2,daksh,sakshi,raj,aditya,anshika,Chaitanya,shrishti}
