@@ -8,10 +8,7 @@ import Footer from '@/components/Footer';
 import { useRouter } from 'next/router';
 import NewNavBar from '@/components/NavBar';
 import Image from 'next/image';
-import technical_poster from '../images/poster/Technical.png'
-import cultural_poster from '../images/poster/cultural.png'
-import sports_poster from '../images/poster/sports.png'
-import media_poster from '../images/poster/media.png'
+
 
 
 
@@ -86,24 +83,24 @@ export default function PreviewPage() {
                                    
                                <div>
                                 <a href='/technical'>
-                                <Image src={technical_poster} className="p-1 transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster'/>
+                                <Image src='https://i.postimg.cc/dVhb3xHN/Technical.png' className="p-1 transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </a>
                                 </div>
 
                                 <div>
                                 <a href='/cultural'>
-                                <Image src={cultural_poster} className="p-1 transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster'/>
+                                <Image src='https://i.postimg.cc/h4rW5xQs/Cultural.png' className="p-1 transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </a>
                                 </div>
                                 <div>
                                 <a href='/sports'>
-                                <Image src={sports_poster} className="p-1 transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster'/>
+                                <Image src='https://i.postimg.cc/CLxTT1jg/Sports.png' className="p-1 transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </a>
                                 </div>
                                 
                                 <div>
                                 <a href='/Media'>
-                                <Image src={media_poster} className="p-1 transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster'/>
+                                <Image src='https://i.postimg.cc/jd3VsbXJ/Media.png' className="p-1 transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </a>
                                 </div>
 
