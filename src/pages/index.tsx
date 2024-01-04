@@ -15,7 +15,6 @@ import media_poster from '../images/poster/media.png'
 
 
 
-
 export default function PreviewPage() {
   const router = useRouter();
 
@@ -25,10 +24,6 @@ export default function PreviewPage() {
    <NewNavBar/>
    <Header />
   
-        
-        
-
-
         <section className='mt-20 md:mt-8  back '>
           <div className="shadow">
 

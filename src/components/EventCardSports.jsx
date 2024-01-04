@@ -7,7 +7,7 @@ export default function EventsCardSports(props) {
     <div>
         <div className='flex flex-col border-2 rounded-xl'>
             <div>
-            <Image className="p-2" src={props.image} alt={props.alias}/>
+            <Image className="p-2" src={props.image} alt={props.alias} width={400} height={100}/>
             <p className='team2 text-3xl'>{props.title}</p>
             </div>
             <div className='flex gap-6 p-4 text-center justify-center'>

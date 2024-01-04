@@ -5,7 +5,7 @@ const Footer = () => {
         <>
         <NewNavBar/>
         <footer aria-label="Site Footer" className="foot2 ">
-            <div className='flex flex-col md:flex-row items-center justify-center gap-10 pt-8'>
+            <div className='flex flex-col md:flex-row items-center justify-center gap-10 pt-2'>
             <div className=" max-w-5xl  py-16 ">
                 <div className="flex justify-start text-black pb-10">
                     <h1 className='team1 text-7xl'>Contact Us </h1>
@@ -61,14 +61,16 @@ const Footer = () => {
                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3562.023087626716!2d75.87491107521937!3d26.775533976729168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396dc892b8f05399%3A0x43fbca7105eca800!2sJECRC%20University!5e0!3m2!1sen!2sin!4v1704211855400!5m2!1sen!2sin" width="480" height="400"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                            </div>
                         </div>
-                           <div className="flex justify-center text-black mt-4 text-2xl pt-6">
+
+
+                        <div className="flex justify-center text-black text-lg">
                             <p className="text-100px  text-white sm:order-first sm:mt-0">
                              &copy; Copyright JU-RHYTHM 2024. All Rights Reserved
                             </p>
                            </div>
-                            <div className="flex justify-center text-black mt-8 text-2xl py-1">
+                            <div className="flex justify-center text-black mt-8 text-xl">
                             <p className="text-100px text-white sm:order-first sm:mt-0">
-                              Devloped and designed by Arpit Sharma || Devansh Verma 
+                              Devloped and designed by <a href='https://github.com/SANJAY-KUMAR-7'>Sanjay Kumar</a> || Arpit Sharma || Devansh Verma 
                             </p>
                            </div>
                            

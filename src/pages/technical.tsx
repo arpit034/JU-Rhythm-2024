@@ -519,7 +519,7 @@ export default function Technical() {
       <div className='team2 text-6xl'>
         <p className='m-2'>TECHNICAL</p>
         </div>
-      <div className='mx-16 grid grid-cols-4 gap-10'>
+      <div className='flex flex-col mx-16 md:grid md:grid-cols-4 gap-10'>
       {events.map((element)=>{
               return <div>
                 <EventCard title={element.alias} image={element.image}/>

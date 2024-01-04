@@ -56,14 +56,14 @@ const Footer = () => {
                     <div>
                   
                     </div>
-                            <div className="flex justify-center text-black mt-4 text-2xl">
+                            <div className="flex justify-center text-black mt-16 text-lg">
                             <p className="text-100px  text-white sm:order-first sm:mt-0">
                              &copy; Copyright JU-RHYTHM 2024. All Rights Reserved
                             </p>
                            </div>
-                            <div className="flex justify-center text-black mt-8 text-2xl">
+                            <div className="flex justify-center text-black mt-8 text-xl">
                             <p className="text-100px text-white sm:order-first sm:mt-0">
-                              Devloped and designed by Arpit Sharma || Devansh Verma 
+                              Devloped and designed by <a href='https://github.com/SANJAY-KUMAR-7'>Sanjay Kumar</a> || Arpit Sharma || Devansh Verma 
                             </p>
                            </div>
             </div>

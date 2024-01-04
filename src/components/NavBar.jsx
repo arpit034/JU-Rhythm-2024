@@ -1,6 +1,6 @@
 
 'use client';
-
+import { ChevronDown } from 'lucide-react';
 import { Button, Navbar } from 'flowbite-react';
 import Image from 'next/image';
 
@@ -9,7 +9,7 @@ function NewNavBar() {
   return (
     <Navbar fluid rounded className=' bg-transparent '>
       <Navbar.Brand href="">
-        <Image src="https://i.postimg.cc/Hk1ytJ5H/UNI-LOGO-1.png" alt='JECRC LOGO' className='w-40 ml-16'/>
+        <Image src="https://i.postimg.cc/Hk1ytJ5H/UNI-LOGO-1.png" width={100} height={100} alt='JECRC LOGO' className='w-40 ml-16'/>
       </Navbar.Brand>
       <div className="flex md:order-2">
         <Navbar.Toggle />
@@ -18,7 +18,22 @@ function NewNavBar() {
         <Navbar.Link href="/" className='team2 text-3xl'>
           Home
         </Navbar.Link>
-        <Navbar.Link href="/events" className='team2 text-3xl'>Event</Navbar.Link>
+        
+          <div className="group float-left">
+              <div className='flex justify-center items-center gap-2'>
+              <Navbar.Link href="/events" className='team2 text-3xl'>Events </Navbar.Link>
+             <ChevronDown className='text-white'/>
+             </div>
+            <div className="hidden dropdown-content absolute px-4 backdrop-blur-sm flex-colz-[1] min-w-160px group-hover:inline-block">
+              <Navbar.Link href="/Media" className='team2 text-xl w-full'>Media</Navbar.Link>
+              <Navbar.Link href="/sports" className='team2 text-xl w-full'>Sports</Navbar.Link>
+              <Navbar.Link href="/cultural" className='team2 text-xl w-full'>Cultural</Navbar.Link>
+              <Navbar.Link href="/technical" className='team2 text-xl w-full'>Technical</Navbar.Link>
+            </div>
+          </div> 
+          
+          
+          
         <Navbar.Link href="/gallery" className='team2 text-3xl'>Gallery</Navbar.Link>
         <Navbar.Link href="/ourteam" className='team2 text-3xl'>Our Team</Navbar.Link>
         <Navbar.Link href="sponsors" className='team2 text-3xl'>Sponsors</Navbar.Link>

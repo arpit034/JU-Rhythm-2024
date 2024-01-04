@@ -18,23 +18,9 @@ const Header = () => {
                 <div className="flex items-center justify-center">
                     <div className="relative w-full max-w-screen-md md:mt-0 sm:mt-10">
                         <div className="relative h-0 pb-[80%] md:pb-[65%] mt-[180px] md:-mt-10 ">
-                            <Image src="https://i.postimg.cc/T15JDFSQ/rhythm-logo.png" alt="logo" className=" mt-24 absolute inset-0 w-full object-contain" />  
-                        </div>
- 
-                        <div className='flex justify-center gap-10 text-center'>
-                        <div className='team2  rounded-3xl w-36 p-2 text-2xl font-bold'>
-                            <a href=''>{/* PDF file to download*/}
-                                Guidelines
-                            </a>
-                            </div>
-                        <div className='team2  rounded-3xl w-36 p-2 text-2xl font-bold'>
-                            <a href='/events'>
-                                Register Now
-                                </a>
-                                </div>
+                            <Image src="https://i.postimg.cc/T15JDFSQ/rhythm-logo.png" alt="logo" className=" mt-24 absolute inset-0 w-full object-contain" width={100} height={100}/>  
                         </div>
                        
-
                     </div>
                 </div> 
             </header>

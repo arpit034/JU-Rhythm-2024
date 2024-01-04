@@ -160,7 +160,7 @@ const Gallery = () => {
                 <div className="grid-wrapper  mt-10" >
                     {images.map((item) => (
                         <div className={item.className}>
-                            <Image src={item.image} alt="" />
+                            <Image src={item.image} alt="" height={100} width={100} />
                         </div>
                     ))}
 

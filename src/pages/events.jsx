@@ -16,7 +16,7 @@ const Events =()=>{
         <NewNavBar/>
         <div className='flex flex-col text-center justify-center'>
                     <div className="">
-                        <h1 className="team2 mb-24 text-white font-bold text-8xl md:text-6xl xl:text-8xl">Events</h1>
+                        <h1 className="team2 mb-24 mt-24 text-white font-bold text-8xl md:text-6xl xl:text-8xl">Events</h1>
                     </div>
                        
                     <div className=' grid  md:flex justify-evenly pb-48'>
