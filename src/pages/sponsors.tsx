@@ -1,73 +1,57 @@
 import React from 'react'
-import{ sponsor1,
-    sponsor2,
-    sponsor3,
-    sponsor4,
-    sponsor5,
-    sponsor6,
-    sponsor7,
-    sponsor8,
-    sponsor9,
-    sponsor10,
-    sponsor11,
-    sponsor12,
-    sponsor13,
-    sponsor14,
-    sponsor15,
-    sponsor16, } from '../images/sponsors'
 import Image from 'next/image'
 import NavMenu from '@/components/NavMenu'
 import { useRouter } from 'next/router'
 import NewNavBar from '@/components/NavBar'
 const eventSponsors = [
     {
-        image: sponsor1
+        image: 'https://i.postimg.cc/pLmtbzVb/upGrad.png'
     },
     {
-        image: sponsor2
+        image: 'https://i.postimg.cc/YC0trT3P/atSign.png'
     },
     {
-        image: sponsor3
+        image: 'https://i.postimg.cc/cHyWcCSq/Clarks-Amer.png'
     },
     {
-        image: sponsor4
+        image: 'https://i.postimg.cc/26hkpvw8/DECATHLON.png'
     },
 
     {
-        image: sponsor5
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
     },
     {
-        image: sponsor6
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'    
     },
     {
-        image: sponsor7
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'    
     },
     {
-        image: sponsor8
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'    
     },
     {
-        image: sponsor9
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'    
     },
     {
-        image: sponsor10
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
     },
     {
-        image: sponsor11
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
     },
     {
-        image: sponsor12
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
     },
     {
-        image: sponsor13
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
     },
     {
-        image: sponsor14
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
     },
     {
-        image: sponsor15
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
     },
     {
-        image: sponsor16
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
     },
   
 
@@ -93,7 +77,7 @@ const sponsors = () => {
                             {eventSponsors.map((sponsor) => (
                                 <div className=' p-3 justify-center flex rounded-3xl m-4'>
                                     <div>
-                                        <Image className="h-auto max-w-full  rounded-xl" src={sponsor.image} alt="" />
+                                        <Image className="h-auto max-w-full  rounded-xl" width={300} height={300} src={sponsor.image} alt="" />
                                     </div>
                                 </div>
                             ))}

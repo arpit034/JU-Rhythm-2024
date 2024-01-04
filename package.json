@@ -15,6 +15,7 @@
     "autoprefixer": "10.4.14",
     "bootstrap": "^5.3.2",
     "flowbite-react": "^0.7.2",
+    "lucide-react": "^0.303.0",
     "next": "^13.3.1",
     "postcss": "8.4.23",
     "react": "^18.2.0",

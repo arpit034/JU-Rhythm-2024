@@ -2,7 +2,6 @@
 import EventCardCultural from '../components/EventCardCultural'
 import React from 'react'
 import EventCard from '../components/EventCard.jsx'
-import AnalyticChamp from "../images/poster/poster1.jpg";
 import cultural from "../images/poster/Cultural.png";
 import FunkFromJunk from "../images/poster/poster11.jpg";
 import media from "../images/poster/Media.png";
@@ -1014,7 +1013,7 @@ export default function Technical() {
     {
       "name": "Analytic-Champ",
       "alias": "Circuit Debugging",
-      "image": AnalyticChamp,
+      "image": 'AnalyticChamp',
       "aboutEvent": "Are you a electronic geek who have interest in electronics and circuit connection then come participate in the competition and show off your core skills and knowledge",
       "eventDetail": [
         "Team of two participants can only contest for this event.",
