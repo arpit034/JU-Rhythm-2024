@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import EventDEtailsModal from '../components/EventDetailsModal'
-import cultural from "../images/poster/cultural.png";
+
 import Image from 'next/image';
 import EventDetailsModal from '../components/EventDetailsModal';
 import { useSelector } from 'react-redux';

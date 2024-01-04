@@ -1,11 +1,11 @@
 import React from 'react'
-import cultural from "../images/poster/cultural.png";
+
 import Image from 'next/image';
 export default function EventsCardMedia(props) {
   return (
     <>
     <div>
-        <div className='flex flex-col border-2 rounded-xl'>
+        <div className='flex flex-col  rounded-xl'>
             <div>
             <Image className="p-2" src={props.image} alt={props.alias} width={400} height={100}/>
             <p className='team2 text-3xl'>{props.title}</p>
