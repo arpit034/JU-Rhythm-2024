@@ -103,7 +103,7 @@ const eventSponsors = [
     },
     {
         image: 'https://i.postimg.cc/prBPrH4w/Github.png'
->>>>>>> a8cd9e365c01cd312f98856ff9f0136bcb4c1e20
+
     },
    
   
