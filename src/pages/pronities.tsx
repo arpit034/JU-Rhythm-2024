@@ -1,19 +1,17 @@
 import React from 'react'
-import pronite1 from '../images/soon.png';
-import pronite2 from '../images/soon.png';
-import pronite3 from '../images/soon.png';
+
 import Image from 'next/image';
 
 const images = [
     {
-        image: pronite1
+        image: 'https://i.postimg.cc/NFd7CRh5/revealing-soon.png'
     },
     {
-        image: pronite2
+        image: 'https://i.postimg.cc/NFd7CRh5/revealing-soon.png'
     },
     {
 
-        image: pronite3
+        image: 'https://i.postimg.cc/NFd7CRh5/revealing-soon.png'
     }
 ]
 const Pronities = () => {
@@ -30,13 +28,13 @@ const Pronities = () => {
             <div className="flex justify-center p-10">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-10 p-5">
                     <div className=' p-3   transition-transform duration-300 transform hover:scale-105 cursor-pointer'>
-                        <Image className="h-auto max-w-full " src={pronite1} alt="" />
+                        <Image className="h-auto max-w-full " src="https://i.postimg.cc/NFd7CRh5/revealing-soon.png" alt="" />
                     </div>
                     <div className=' p-3   transition-transform duration-300 transform hover:scale-105 cursor-pointer'>
-                        <Image className="h-auto  max-w-full " src={pronite2} alt="" />
+                        <Image className="h-auto  max-w-full " src="https://i.postimg.cc/NFd7CRh5/revealing-soon.png" alt="" />
                     </div>
                     <div className=' p-3   transition-transform duration-300 transform hover:scale-105 cursor-pointer'>
-                        <Image className="h-auto  max-w-full " src={pronite3} alt="" />
+                        <Image className="h-auto  max-w-full " src="https://i.postimg.cc/NFd7CRh5/revealing-soon.png" alt="" />
                     </div>
                 </div>
             </div>

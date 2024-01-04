@@ -12,7 +12,7 @@ export default function EventsCardSports(props) {
             </div>
             <div className='flex gap-6 p-4 text-center justify-center'>
             <div className='team2 text-xl border-2 px-2 rounded-3xl border-white '>
-                <a href='https://rzp.io/l/A5KGRKsuJd'>
+                <a href='https://rzp.io/l/Yftsla8ODE'>
                     Register Now
                 </a>                    
                 </div>

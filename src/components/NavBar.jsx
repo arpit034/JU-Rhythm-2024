@@ -1,6 +1,6 @@
 
 'use client';
-import logo from '../images/team/jecrc.png'
+
 import { Button, Navbar } from 'flowbite-react';
 import Image from 'next/image';
 
@@ -9,7 +9,7 @@ function NewNavBar() {
   return (
     <Navbar fluid rounded className=' bg-transparent '>
       <Navbar.Brand href="">
-        <Image src={logo} alt='JECRC LOGO' className='w-40 ml-16'/>
+        <Image src="https://i.postimg.cc/Hk1ytJ5H/UNI-LOGO-1.png" alt='JECRC LOGO' className='w-40 ml-16'/>
       </Navbar.Brand>
       <div className="flex md:order-2">
         <Navbar.Toggle />

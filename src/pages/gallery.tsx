@@ -1,33 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import image2 from '../images/image2.jpg';
-import image3 from '../images/image3.jpg';
-import image4 from '../images/image4.jpg';
-import image5 from '../images/image5.jpg';
-import image6 from '../images/image6.jpg';
-import image7 from '../images/image7.jpg';
-import image8 from '../images/image8.jpg';
-import image9 from '../images/image9.jpg';
-import image10 from '../images/image10.jpg';
-import image11 from '../images/image11.jpg';
-import image12 from '../images/image12.jpg';
-import image13 from '../images/image13.jpg';
-import image14 from '../images/image14.jpg';
-import image15 from '../images/image15.jpg';
-import image16 from '../images/image16.jpg';
-import image17 from '../images/image17.jpg';
-import image18 from '../images/image18.jpg';
-import image19 from '../images/image19.jpg';
-import image20 from '../images/image20.jpg';
-import image21 from '../images/image21.jpg';
-import image22 from '../images/image22.jpg';
-import image23 from '../images/image23.jpg';
-import image24 from '../images/image24.jpg';
-import image25 from '../images/image25.jpg';
-import image26 from '../images/image26.jpg';
-import image27 from '../images/image27.jpg';
-import image28 from '../images/image28.jpg';
-import image29 from '../images/image29.jpg';
-import image30 from '../images/image30.jpg';
+
 
 
 import Image from 'next/image'
@@ -36,124 +8,124 @@ import { useRouter } from 'next/router'
 import NewNavBar from '@/components/NavBar';
 const images = [
     {
-        image: image3,
+        image: 'https://i.postimg.cc/3NYncKdb/image3.jpg',
         className: 'small'
     },
     {
-        image: image2,
+        image: 'https://i.postimg.cc/rFgY7tGG/image2.jpg',
         className: 'tall'
     },
     {
-        image: image4,
+        image: 'https://i.postimg.cc/NMTznJbL/image4.jpg',
         className: 'small'
     },
     {
-        image: image5,
+        image: 'https://i.postimg.cc/j2bFYHkc/image5.jpg',
         className: 'tall'
     },
     {
-        image: image6,
+        image:'https://i.postimg.cc/rpyyM478/image6.jpg',
         className: 'tall'
     },
     {
-        image: image7,
+        image: 'https://i.postimg.cc/PfCxCmJJ/image7.jpg',
         className: 'tall'
     },
     {
-        image: image8,
+        image: 'https://i.postimg.cc/vBSJRxwS/image8.jpg',
         className: 'small'
     },
     {
-        image: image9,
+        image: 'https://i.postimg.cc/wT9GWkNT/image9.jpg',
         className: 'tall'
     },
     {
-        image: image10,
+        image: 'https://i.postimg.cc/BbLdJZqZ/image10.jpg',
         className: 'tall',
     },
     {
-        image: image11,
+        image: 'https://i.postimg.cc/Sswg76hq/image11.jpg',
         className: 'small'
     },
     {
-        image: image12,
+        image: 'https://i.postimg.cc/8P7YvCgT/image12.jpg',
         className: 'tall'
     },
     {
-        image: image13,
+        image: 'https://i.postimg.cc/Qxgf1KnG/image13.jpg',
         className: 'small'
     },
     {
-        image: image2,
+        image: 'https://i.postimg.cc/rFgY7tGG/image2.jpg',
         className: 'tall'
     },
     {
-        image: image14,
+        image: 'https://i.postimg.cc/8cjr5MvQ/image14.jpg',
         className: 'small'
     },
     {
-        image: image15,
+        image: 'https://i.postimg.cc/KvTdVYqJ/image15.jpg',
         className: 'small'
     },
     {
-        image: image16,
+        image: 'https://i.postimg.cc/C1K7VvFw/image16.jpg',
         className: 'tall'
     },
     {
-        image: image17,
+        image: 'https://i.postimg.cc/66mjBN2g/image17.jpg',
         className: 'tall'
     },
     {
-        image: image18,
+        image: 'https://i.postimg.cc/pdW4pJ26/image18.jpg',
         className: 'small'
     },
     {
-        image: image19,
+        image: 'https://i.postimg.cc/3JMn6FDD/image19.jpg',
         className: 'tall'   
     },
     {
-        image: image20,
+        image: 'https://i.postimg.cc/Cx77Ryrj/image20.jpg',
         className: 'tall'   
     },
     {
-        image: image21,
+        image: 'https://i.postimg.cc/zf3C3ygr/image21.jpg',
         className: 'small'   
     },
     {
-        image: image22,
+        image: 'https://i.postimg.cc/GpSjjFCt/image22.jpg',
         className: 'small'   
     },
     {
-        image: image23,
+        image: 'https://i.postimg.cc/gJPCGbx3/image23.jpg',
         className: 'tall'   
     },
     {
-        image: image24,
+        image: 'https://i.postimg.cc/yx2XzsdH/image24.jpg',
         className: 'small'   
     },
     {
-        image: image25,
+        image: 'https://i.postimg.cc/fbYP2q8y/image25.jpg',
         className: 'tall'   
     },
     {
-        image: image26,
+        image: 'https://i.postimg.cc/nzzvjC9x/image26.jpg',
         className: 'small'   
     },
     {
-        image: image27,
+        image: 'https://i.postimg.cc/xCwcfCKt/image27.jpg',
         className: 'tall'   
     },
     {
-        image: image28,
+        image: 'https://i.postimg.cc/9XLnn7Yd/image28.jpg',
         className: 'small'   
     },
     {
-        image: image29,
+        image: 'https://i.postimg.cc/PqLXCHfc/image29.jpg',
         className: 'small'   
     },
 
     {
-        image: image30,
+        image: 'https://i.postimg.cc/tTtLTv6w/image30.jpg',
         className: 'small'   
     },
 ]

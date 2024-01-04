@@ -1,7 +1,7 @@
 import React from 'react'
-import { Arpit,isha,ashmit,Awez,dhruv,Nandini,Prayash,rakshita,Sajal,Sohan,Saksham,Navin,harsh,sajal2,daksh,sakshi,raj,aditya,anshika,Chaitanya, shrishti} from '../images/team'
+
 import Image from 'next/image'
-import { twitter, linkedin, github } from '../images/icons';
+
 import NavMenu from '@/components/NavMenu';
 import { useRouter } from 'next/router';
 import NewNavBar from '@/components/NavBar';
@@ -10,27 +10,27 @@ import NewNavBar from '@/components/NavBar';
 const teamDetails = [
     {
         name: '',
-        image: rakshita,
+        image: 'https://i.postimg.cc/W1zVD8WH/RAKSHITA-PARIHAR.png',
         year: "",
        
 
     },
     {
         name: '',
-        image: Nandini,
+        image: 'https://i.postimg.cc/MZYJdNgL/NANDINI-SHARMA.png',
          year: "",
        
 
     },
     {
         name: '',
-        image: Arpit,
+        image: 'https://i.postimg.cc/RZNdJJcR/ARPIT-SHARMA.png',
          year: "",
        
     },
     {
         name: '',
-        image: ashmit,
+        image: 'https://i.postimg.cc/brhVQYzv/ASHMIT-SINGH.png',
          year: "",
 
       
@@ -38,14 +38,14 @@ const teamDetails = [
     },
     {
         name: '',
-        image: daksh,
+        image: 'https://i.postimg.cc/TYHqx2ZW/DAKSH-NAGAR.png',
        year: "",
 
        
     },
     {
         name: '',
-        image: dhruv,
+        image: 'https://i.postimg.cc/vHRxtgFh/DHRUV-SINGH.png',
          year: "",
        
 
@@ -53,7 +53,7 @@ const teamDetails = [
 
     {
         name: '',
-        image: Prayash,
+        image: 'https://i.postimg.cc/c1hPQYny/PRAYASH-GUPTA.png',
        year: "",
 
        
@@ -61,7 +61,7 @@ const teamDetails = [
     },
     {
         name: '',
-        image: Awez,
+        image: 'https://i.postimg.cc/rwB1dnyV/AWEZ-KHAN.png',
        year: "",
 
       
@@ -69,7 +69,7 @@ const teamDetails = [
     },
     {
         name: '',
-        image: shrishti,
+        image: 'https://i.postimg.cc/qMYbLGBY/SHRISHTI-MISHRA.png',
        year: "",
 
       
@@ -77,7 +77,7 @@ const teamDetails = [
     },
     {
         name: '',
-        image: Saksham,
+        image: 'https://i.postimg.cc/J0YTSNNs/SAKSHAM-TAMBI.png',
        year: "",
 
       
@@ -85,14 +85,14 @@ const teamDetails = [
     },
     {
         name: '',
-        image: Sohan,
+        image: 'https://i.postimg.cc/J0YTSNNs/SAKSHAM-TAMBI.png',
        year: "",
 
         
     },
     {
         name: '',
-        image: raj,
+        image: 'https://i.postimg.cc/52KxpTQJ/RAJSHEKAR-SINGH.png',
        year: "",
 
     
@@ -100,7 +100,7 @@ const teamDetails = [
   
     {
         name: '',
-        image: aditya,
+        image: 'https://i.postimg.cc/DzQXS7Y6/ADITYA-JAIN.png',
        year: "",
 
 
@@ -109,7 +109,7 @@ const teamDetails = [
    
     {
         name: '',
-        image: isha,
+        image: 'https://i.postimg.cc/Hx491wgp/ISHA-SONI.png',
        year: "",
 
         
@@ -117,14 +117,14 @@ const teamDetails = [
     },
     {
         name: '',
-        image: anshika,
+        image: 'https://i.postimg.cc/RZNdJJcR/ARPIT-SHARMA.png',
        year: "",
 
       
     },
     {
         name: '',
-        image: Sajal,
+        image: 'https://i.postimg.cc/LsZMDXMk/SAJAL-BATWARA.png',
        year: "",
 
       
@@ -133,7 +133,7 @@ const teamDetails = [
 
     {
         name: '',
-        image: sajal2,
+        image: 'https://i.postimg.cc/gkB57Wsg/SAJAL-GOYAL.png',
        year: "",
 
        
@@ -141,7 +141,7 @@ const teamDetails = [
     },
     {
         name: '',
-        image:Navin,
+        image:'https://i.postimg.cc/PqBdnDMF/NAVIN-JAIN.png',
        year: "",
 
        
@@ -149,14 +149,14 @@ const teamDetails = [
     },
     {
         name: '',
-        image: sakshi,
+        image: 'https://i.postimg.cc/8z6ynrjC/SAKSHI-SRIVASTAVA.png',
        year: "",
 
        
     },
     {
         name: '',
-        image:Chaitanya ,
+        image:'https://i.postimg.cc/mgz3gfsp/CHAITANYA-MEHTA.png' ,
        year: "",
 
        

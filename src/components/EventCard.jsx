@@ -18,7 +18,7 @@ export default function EventsCard(props) {
             </div>
             <div className='flex gap-6 p-4 text-center justify-center'>
             <button className='team2 text-xl border-2 px-2 rounded-3xl '>
-                <a href='https://rzp.io/l/2oXh3E3Vu'>
+                <a href='https://rzp.io/l/t7l0GojeA'>
                     Register Now
                 </a>                        
                 </button>
