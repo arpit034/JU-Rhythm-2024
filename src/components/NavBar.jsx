@@ -19,16 +19,18 @@ function NewNavBar() {
           Home
         </Navbar.Link>
         
-          <div className="group float-left">
+          <div className="group">
               <div className='flex justify-center items-center gap-2'>
               <Navbar.Link href="/events" className='team2 text-3xl'>Events </Navbar.Link>
              <ChevronDown className='text-white'/>
              </div>
-            <div className="invisible dropdown-content absolute px-4 backdrop-blur-sm min-w-160px group-hover:visible hover:visible">
-              <Navbar.Link href="/Media" className='team2 text-xl w-full'>Media</Navbar.Link>
-              <Navbar.Link href="/sports" className='team2 text-xl w-full'>Sports</Navbar.Link>
-              <Navbar.Link href="/cultural" className='team2 text-xl w-full'>Cultural</Navbar.Link>
-              <Navbar.Link href="/technical" className='team2 text-xl w-full'>Technical</Navbar.Link>
+            <div className="invisible dropdown-content absolute px-4 backdrop-blur-sm min-w-200px group-hover:visible hover:visible">
+              <div className='flex gap-1'>
+              <Navbar.Link href="/Media" className='team2 text-xl'>Media |</Navbar.Link>
+              <Navbar.Link href="/sports" className='team2 text-xl '>Sports |</Navbar.Link>
+              <Navbar.Link href="/cultural" className='team2 text-xl'>Cultural |</Navbar.Link>
+              <Navbar.Link href="/technical" className='team2 text-xl'>Technical |</Navbar.Link>
+            </div>
             </div>
           </div> 
           
