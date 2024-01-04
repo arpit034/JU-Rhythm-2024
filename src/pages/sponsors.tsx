@@ -1,6 +1,9 @@
 import React from 'react'
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> a8cd9e365c01cd312f98856ff9f0136bcb4c1e20
 import Image from 'next/image'
 import NavMenu from '@/components/NavMenu'
 import { useRouter } from 'next/router'
@@ -10,6 +13,7 @@ const eventSponsors = [
         image: 'https://i.postimg.cc/pLmtbzVb/upGrad.png'
     },
     {
+<<<<<<< HEAD
         image: 'https://i.postimg.cc/RhmMvFs1/L-T-Edu-Tech.png'
     },
     {
@@ -54,6 +58,52 @@ const eventSponsors = [
     },
     {
         image: 'https://i.postimg.cc/cHyWcCSq/Clarks-Amer.png'
+=======
+        image: 'https://i.postimg.cc/YC0trT3P/atSign.png'
+    },
+    {
+        image: 'https://i.postimg.cc/cHyWcCSq/Clarks-Amer.png'
+    },
+    {
+        image: 'https://i.postimg.cc/26hkpvw8/DECATHLON.png'
+    },
+
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'    
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'    
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'    
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'    
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
+    },
+    {
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
+>>>>>>> a8cd9e365c01cd312f98856ff9f0136bcb4c1e20
     },
    
   
@@ -80,7 +130,7 @@ const sponsors = () => {
                             {eventSponsors.map((sponsor) => (
                                 <div className=' p-3 justify-center flex rounded-3xl m-4'>
                                     <div>
-                                        <Image className="h-auto max-w-full  rounded-xl" src={sponsor.image} alt="" />
+                                        <Image className="h-auto max-w-full  rounded-xl" width={300} height={300} src={sponsor.image} alt="" />
                                     </div>
                                 </div>
                             ))}

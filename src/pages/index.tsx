@@ -23,11 +23,27 @@ export default function PreviewPage() {
 
     <>
    <NewNavBar/>
-      <Container>
-        <Header />
+   <Header />
+  
+        
+        
 
-        <section className='mt-20 -pt-[50px] back '>
-          <div className="shadow"></div>
+
+        <section className='mt-20 md:mt-8  back '>
+          <div className="shadow">
+
+          <div className=''>
+            <div className='flex justify-center gap-10 text-center'>
+                <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl text-bold hover:scale-105 hover:shadow hover:shadow-white'>
+                    <a href=''>Guidelines</a>
+                </div>
+
+                <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl text-bold hover:scale-105 hover:shadow hover:shadow-white '>
+                    <a href='/events'>Register</a>
+                </div>
+              </div>
+              </div>
+          </div>
           <div className="relative" id="home">
 
             <div className="max-w-7xl mx-auto px-6 md:px-12 xl:px-6 ">
@@ -102,8 +118,9 @@ export default function PreviewPage() {
                 </div> 
      
           <Gallery />
+          <Footer/>
         
-      </Container >
+      
     </>
 
   );
