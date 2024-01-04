@@ -24,7 +24,7 @@ function NewNavBar() {
               <Navbar.Link href="/events" className='team2 text-3xl'>Events </Navbar.Link>
              <ChevronDown className='text-white'/>
              </div>
-            <div className="hidden dropdown-content absolute px-4 backdrop-blur-sm flex-colz-[1] min-w-160px group-hover:inline-block">
+            <div className="invisible dropdown-content absolute px-4 backdrop-blur-sm min-w-160px group-hover:visible hover:visible">
               <Navbar.Link href="/Media" className='team2 text-xl w-full'>Media</Navbar.Link>
               <Navbar.Link href="/sports" className='team2 text-xl w-full'>Sports</Navbar.Link>
               <Navbar.Link href="/cultural" className='team2 text-xl w-full'>Cultural</Navbar.Link>
