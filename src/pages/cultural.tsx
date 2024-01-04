@@ -35,7 +35,7 @@ export default function Technical() {
   const events = [
     {
       "name": "",
-      // alias andr show hoga poster mein
+      // alias bhar show ho raha h 
   
       "alias": "dance",
       "image": cultural,

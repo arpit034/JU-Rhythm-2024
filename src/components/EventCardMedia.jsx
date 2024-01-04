@@ -12,8 +12,8 @@ export default function EventsCardMedia(props) {
             </div>
             <div className='flex gap-6 p-4 text-center justify-center'>
             <div className='team2 text-xl border-2 px-2 rounded-3xl border-white '>
-                <a href=''>
-                    Register
+                <a href='https://rzp.io/l/A5KGRKsuJd'>
+                    Register Now
                 </a>                    
                 </div>
             <div className='team2 text-xl border-2 px-2 rounded-3xl border-white'>

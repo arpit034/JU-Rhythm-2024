@@ -1,74 +1,61 @@
 import React from 'react'
-import{ sponsor1,
-    sponsor2,
-    sponsor3,
-    sponsor4,
-    sponsor5,
-    sponsor6,
-    sponsor7,
-    sponsor8,
-    sponsor9,
-    sponsor10,
-    sponsor11,
-    sponsor12,
-    sponsor13,
-    sponsor14,
-    sponsor15,
-    sponsor16, } from '../images/sponsors'
+
+
 import Image from 'next/image'
 import NavMenu from '@/components/NavMenu'
 import { useRouter } from 'next/router'
 import NewNavBar from '@/components/NavBar'
 const eventSponsors = [
     {
-        image: sponsor1
+        image: 'https://i.postimg.cc/pLmtbzVb/upGrad.png'
     },
     {
-        image: sponsor2
+        image: 'https://i.postimg.cc/RhmMvFs1/L-T-Edu-Tech.png'
     },
     {
-        image: sponsor3
+        image: 'https://i.postimg.cc/26hkpvw8/DECATHLON.png' 
     },
     {
-        image: sponsor4
-    },
-
-    {
-        image: sponsor5
+        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
     },
     {
-        image: sponsor6
+        image: 'https://i.postimg.cc/zXXr749f/nVIDIA.png'
     },
     {
-        image: sponsor7
+        image: 'https://i.postimg.cc/9fT5z2qL/zeeve.png'
     },
     {
-        image: sponsor8
+        image: 'https://i.postimg.cc/1tckcKB6/POLYGON.png'
     },
     {
-        image: sponsor9
+        image:'https://i.postimg.cc/t4cpYDv4/HTL.png' 
+    },
+    
+    {
+        image:'https://i.postimg.cc/FKJmccwg/metacube.png'
     },
     {
-        image: sponsor10
+        image: 'https://i.postimg.cc/T1TXZs1C/Revolt.png'
     },
     {
-        image: sponsor11
+        image: 'https://i.postimg.cc/T1TXZs1C/Rapido.png'
     },
     {
-        image: sponsor12
+        image:'https://i.postimg.cc/VkZLXzv1/KTM.png'
     },
     {
-        image: sponsor13
+        image: 'https://i.postimg.cc/1R0mJGXv/Meridean-Overseas.png'
     },
     {
-        image: sponsor14
+        image: 'https://i.postimg.cc/YC0trT3P/atSign.png'
     },
     {
-        image: sponsor15
+        image: 'https://i.postimg.cc/L4VSzmQ7/MOGO.png'
     },
     {
-        image: sponsor16
+        image: 'https://i.postimg.cc/cHyWcCSq/Clarks-Amer.png'
     },
+   
   
 
    

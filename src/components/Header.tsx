@@ -12,7 +12,7 @@ const Header = () => {
                     <video autoPlay muted loop
                         className='absolute inset-0 w-full h-full object-cover'
                         style={{ position: 'fixed', width: '100%', height: '142vh', objectFit: 'cover', zIndex: -3, opacity: .9 }}>
-                        <source src="video2.mp4" type="video/mp4" />
+                        <source src="https://i.postimg.cc/T15JDFSQ/rhythm-logo.png" type="video/mp4" />
                     </video>
                 </div>
                 <div className="flex items-center justify-center">
@@ -28,7 +28,7 @@ const Header = () => {
                             </div>
                         <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl font-bold'>
                             <a href='/events'>
-                                Register
+                                Register Now
                                 </a>
                                 </div>
                         </div>
