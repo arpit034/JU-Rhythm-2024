@@ -1,7 +1,7 @@
 
 import EventCardMedia from '../components/EventCardMedia'
 import React from 'react'
-import EventCard from '../components/EventCard.jsx'
+
 
 
 import NewNavBar from '../components/NavBar.jsx'

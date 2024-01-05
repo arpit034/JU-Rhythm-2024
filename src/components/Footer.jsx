@@ -63,7 +63,7 @@ const Footer = () => {
                            </div>
                             <div className="flex justify-center text-black mt-8 text-xl">
                             <p className="text-100px text-white sm:order-first sm:mt-0">
-                              Devloped and designed by Arpit Sharma ||<a href='https://github.com/SANJAY-KUMAR-7'>Sanjay Kumar</a>  || Devansh Verma 
+                              Devloped and designed by Arpit Sharma ||<a href='https://github.com/SANJAY-KUMAR-7'> Sanjay Kumar </a>  || Devansh Verma 
                             </p>
                            </div>
             </div>

@@ -2,7 +2,6 @@ import React from 'react'
 
 import Image from 'next/image'
 
-import NavMenu from '@/components/NavMenu';
 import { useRouter } from 'next/router';
 import NewNavBar from '@/components/NavBar';
 

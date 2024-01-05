@@ -1,9 +1,9 @@
 import React from 'react';
 import Header from '@/components/Header';
-import Container from '@/components/Layout';
+
 import Gallery from './gallery';
 import Pronities from './pronities';
-import Events from './events';
+
 import Footer from '@/components/Footer';
 import { useRouter } from 'next/router';
 import NewNavBar from '@/components/NavBar';
@@ -21,7 +21,7 @@ export default function PreviewPage() {
    <NewNavBar/>
    <Header />
   
-        <section className='mt-20 md:mt-8  back '>
+        <section className='mt-20 md:mt-8 '>
           <div className="shadow">
 
           <div className=''>

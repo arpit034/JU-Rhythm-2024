@@ -10,8 +10,7 @@ const Header = () => {
                     <video autoPlay muted loop
                         className='absolute inset-0 w-full h-full object-cover'
                         style={{ position: 'fixed', width: '100%', height: '142vh', objectFit: 'cover', zIndex: -3, opacity: .9 }}>
-                        {/* <source src="" width={400} height={100} type="video/mp4" /> */}
-                        <iframe src="https://www.veed.io/embed/afa7b0ca-f0b1-4538-b84c-6e9a7dc2a01d" width="744" height="504"></iframe>
+                        <source src="video2.mp4" type="video/mp4" />
                     </video>
                 </div>
 
