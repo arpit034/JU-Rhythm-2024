@@ -85,7 +85,7 @@ const teamDetails = [
     },
     {
         name: '',
-        image: 'https://i.postimg.cc/J0YTSNNs/SAKSHAM-TAMBI.png',
+        image: 'https://i.postimg.cc/FsHDmLqp/SOHAN-BENIWAL.png',
        year: "",
 
         

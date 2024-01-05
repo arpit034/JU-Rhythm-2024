@@ -1,31 +1,5 @@
 
-import AnalyticChamp from "./images/poster/poster1.jpg";
-import cultural from "./images/poster/Cultural.png";
-import FunkFromJunk from "./images/poster/poster11.jpg";
-import media from "./images/poster/Media.png";
-import JazzOff from "./images/poster/poster13.jpg";
-import Maze from "./images/poster/poster14.jpg";
-import MockCID from "./images/poster/poster15.jpg";
-import NoBakeMaster from "./images/poster/poster16.jpg";
-import PalleteOFPerfection from "./images/poster/poster17.jpg";
-import PencilPassion from "./images/poster/poster18.jpg";
-import RampRiot from "./images/poster/poster19.png";
-import BGMI from "./images/poster/poster2.jpg";
-import RhythmicFusion from "./images/poster/poster20.jpg";
-import Shayari from "./images/poster/poster21.jpg";
-import Singing from "./images/poster/poster22.jpg";
-import Valorant from "./images/poster/poster24.jpg";
-import FaceOfFrenzy from "./images/poster/poster25.jpg";
-import WarOfWords from "./images/poster/poster26.jpg";
-import WildPromotions from "./images/poster/poster27.jpg";
-import YenShark from "./images/poster/poster28.jpg";
-import YGT from "./images/poster/poster29.png";
-import BlindTypeBattle from "./images/poster/poster3.jpg";
-import BrushOfBrush from "./images/poster/poster4.jpg";
-import BugBash from "./images/poster/poster5.jpg";
-import sports from "./images/poster/sports.png";
-import tech from "./images/poster/Technical.png";
-import comicComat from "./images/poster/poster8.jpg";
+
 
 export const events = [
   {
