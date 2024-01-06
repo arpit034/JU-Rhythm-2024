@@ -33,8 +33,7 @@ export default function EventsCard(props) {
             rules={props.rules}
             coordinator1={props.coordinator1}
             coordinator2={props.coordinator2}
-            onClose={()=>setShowModal(false)}/>}
-                
+            onClose={()=>setShowModal(false)}/>}   
             </div>
         </div>
         </div>

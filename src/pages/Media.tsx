@@ -1,12 +1,10 @@
 
 import EventCardMedia from '../components/EventCardMedia'
-import React from 'react'
 
 
 
 import NewNavBar from '../components/NavBar.jsx'
 export default function Technical() {
-
   const events = [
     {
       "name": "",
@@ -32,13 +30,7 @@ export default function Technical() {
         "Based on *Quality and creativity of the video*",
         "The Judges’ decision will be the final decision."
       ],
-      "coordinators": {
-        "students": [
-          { "name": "Arpit", "phone": "9902774200" },
-          { "name": "isha", "phone": "7259137283" }
-        ],
-        "faculty": ["Raj Kiran Shetty", "Rakshith Shetty"]
-      },
+      "coordinators":{"name":'9902774200',"name2":'7259137283'},
       "schedule": {
         "day": "19th May",
         "venue": "G16",
@@ -195,7 +187,15 @@ export default function Technical() {
       <div className='flex flex-col mx-16 md:grid md:grid-cols-4 gap-10'>
       {events.map((element)=>{
               return <div>
-                <EventCardMedia title={element.alias} image={element.image}/>
+                <EventCardMedia title={element.alias} image={element.image}
+                date={element.schedule.day}
+                time={element.schedule.time}
+                venue={element.schedule.venue}
+                about={element.aboutEvent}
+                details={element.eventDetail}
+                rules={element.rules}
+                coordinator1={element.coordinators.name}
+                coordinator2={element.coordinators.name2}/>
             </div>
         })}
         </div>
