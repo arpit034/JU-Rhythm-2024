@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <>
         <NewNavBar/>
-        <footer  className=" foot2 md:foot2 flex items-center  flex-col py-10  ">
+        <footer  className=" foot2 md:foot2 flex items-center  flex-col py-10  mt-16 md:mt-0 px-8 md:px-0">
                 <div className=" text-black pb-6 ">
                     <h1 className='team1 text-6xl md:text-7xl'>Contact Us </h1>
                 </div>
