@@ -1,12 +1,6 @@
 import React, { useState } from 'react'
-<<<<<<< HEAD
-=======
-import EventDEtailsModal from '../components/EventDetailsModal'
 
-<<<<<<< Updated upstream
-=======
->>>>>>> ffc8af9210a8e139740e43934e997d99b38cd426
->>>>>>> Stashed changes
+
 import Image from 'next/image';
 export default function EventsCard(props) {
 

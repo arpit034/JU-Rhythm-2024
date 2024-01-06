@@ -148,6 +148,7 @@ const Gallery = () => {
     }, []);
     return (
         <>
+        <NewNavBar/>
             <section className='p-10 md:p-20'>
                 <div className="   md:px-12 xl:px-6">         
                  <div className="relative pt-12 ">

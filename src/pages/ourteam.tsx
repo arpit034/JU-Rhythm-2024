@@ -172,9 +172,10 @@ const Ourteam = () => {
         <>
             <NewNavBar/>
             <div className="flex justify-center">
-                <div className=" md:px-12 xl:px-6">          <div className="relative pt-36 ">
+                <div className=" md:px-12 xl:px-6">          
+                <div className="relative pt-36 ">
                     <div className="lg:w-2/3 text-center  mx-auto">
-                        <h1 className="team2 text-[#FCEE09] font-bold text-12xl md:text-6xl xl:text-8xl">Our Team</h1>
+                        <h1 className="team2 text-[#FCEE09] font-bold text-4xl md:text-6xl xl:text-8xl">Our Team</h1>
 
                     </div>
                 </div>

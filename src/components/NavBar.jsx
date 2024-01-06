@@ -5,9 +5,10 @@ import { Button, Navbar } from 'flowbite-react';
 import Image from 'next/image';
 
 function NewNavBar() {
-    /*change the logo with a high res in 12 line*/ 
+    
   return (
-    <Navbar fluid rounded className=' bg-transparent '>
+    <>   
+     <Navbar fluid rounded className=' bg-transparent '>
       <Navbar.Brand href="">
         <Image src="https://i.postimg.cc/Hk1ytJ5H/UNI-LOGO-1.png" width={100} height={100} alt='JECRC LOGO' className='w-40 ml-16'/>
       </Navbar.Brand>
@@ -42,6 +43,8 @@ function NewNavBar() {
         <Navbar.Link href="/contactus" className='team2 text-3xl'>Contact Us</Navbar.Link>
       </Navbar.Collapse>
     </Navbar>
+    </>
+
   );
 }
 export default NewNavBar;

@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <>
             <header>
-                <div className="relative inset-x-0 overflow-hidden">
+                <div className="relative overflow-hidden">
                     <video autoPlay muted loop
                         className='absolute inset-0 w-full h-full object-cover'
                         style={{ position: 'fixed', width: '100%', height: '142vh', objectFit: 'cover', zIndex: -3, opacity: .9 }}>
