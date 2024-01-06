@@ -18,7 +18,7 @@ export default function EventsCardMedia(props) {
                 </div>
             <div className='team2 text-xl border-2 px-2 rounded-3xl border-white'>
                 <a href=''>
-                    Details
+                   Event Details
                 </a>
             </div>
             </div>

@@ -1,11 +1,10 @@
-import React, { useState } from 'react'
+import React,{useState} from 'react'
 
-
+import EventDetailsModal from '../components/EventDetailsModal'
 import Image from 'next/image';
 export default function EventsCard(props) {
 
-    /*const [showModal,setShowModal]=useState(false)
-    const names=props.title*/
+    const [showModal,setShowModal]=useState(false)
   return (
     <>
     <div>
@@ -23,9 +22,19 @@ export default function EventsCard(props) {
             <button onClick={()=>{setShowModal(true)}} className='team2 text-xl border-2 px-2 rounded-3xl border-white'>
                     Event Details
             </button>
-            {/*showModal && <EventDetailsModal 
-                name={names} 
-  />*/}
+            {showModal && 
+            <EventDetailsModal 
+            name={props.title} 
+            date={props.date}
+            time={props.time}
+            venue={props.venue}
+            about={props.about}
+            details={props.details}
+            rules={props.rules}
+            coordinator1={props.coordinator1}
+            coordinator2={props.coordinator2}
+            onClose={()=>setShowModal(false)}/>}
+                
             </div>
         </div>
         </div>
