@@ -23,7 +23,7 @@ const teamDetails = [
     },
     {
         name: '',
-        image: 'https://i.postimg.cc/RZNdJJcR/ARPIT-SHARMA.png',
+        image: 'https://i.postimg.cc/x8ffxGvg/ARPIT-SHARMA.png',
          year: "",
        
     },
@@ -116,7 +116,7 @@ const teamDetails = [
     },
     {
         name: '',
-        image: 'https://i.postimg.cc/SQrDwrZj/ANSHIKA-TEJWANI.png',
+        image: 'https://i.postimg.cc/x8ffxGvg/ARPIT-SHARMA.png',
        year: "",
 
       
