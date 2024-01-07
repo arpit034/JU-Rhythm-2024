@@ -37,9 +37,7 @@ const eventSponsors = [
     {
         image: 'https://i.postimg.cc/T1TXZs1C/Revolt.png'
     },
-    {
-        image: 'https://i.postimg.cc/T1TXZs1C/Rapido.png'
-    },
+    
     {
         image:'https://i.postimg.cc/VkZLXzv1/KTM.png'
     },
@@ -57,9 +55,7 @@ const eventSponsors = [
 
     },
     
-    {
-        image: 'https://i.postimg.cc/26hkpvw8/DECATHLON.png'
-    },
+  
 
   
 ]
