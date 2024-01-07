@@ -13,340 +13,328 @@ export default function Technical() {
   
       "alias": "Monostrokes",
       "image": 'https://i.postimg.cc/KvGGqm6H/MONOSTROKES.png',
-      "aboutEvent": "CAPTURING FROM REAL TO REEL! Reels have surely become a means for the youth of today to exhibit their creativity and bring in the best trends on social media in this digital era. As a result, we've chosen to use this expressive platform to recognize the students' inventiveness. To explore the creative side of the students, we bring to you The Reel Making Competition",
+      "aboutEvent":": Unleash your creativity on canvas and breathe life into your imagination. Our painting event invites participants to express themselves through vibrant strokes, creating a visual symphony that transcends boundaries and captivates the senses.",
       "eventDetail": [
-        "It is an individual event.",
-        "Any act of indiscipline by participants, calls for cancellation of registration.",
-        "Topic - *Splash Vibes*"
+       
       ],
       "rules": [
-        "Record and edit multi-clip videos on the given topic with audio, effects and creative tools.",
-        "Each participant is allowed to submit only one reel.",
-        "The duration of the reel is to be min of 15 sec and max of 60 sec.",
-        "All the participants will be added to the WhatsApp group and the link to upload the reels will be shared.",
-        "Any act of indiscipline by participants, calls for cancellation of registration.",
-        "Reel should be submitted before 9pm of 2nd Day, Link will be Expired after 9pm"
+        "	Duration: 2 hours.",
+        	"Participants must bring their own necessary materials for the competition.",
+        	"Participants are required to bring their own painting materials, including canvas, brushes, and paints.",
+        	"Reference material cannot be carried by the participant.",
+       	"No phones are allowed in that duration.",
+        	"Any specific theme or requirement will be communicated in advance.",
+        	"Violation of rules may lead to disqualification.",
+        	"The decision of the judges and event organisers is final.",
+        
+       
       ],
-      "judgingCriteria": [
-        "Based on *Quality and creativity of the video*",
-        "The Judges’ decision will be the final decision."
-      ],
-      "coordinators":{"name":'9902774200',"name2":'7259137283'},
+     
+      "coordinators":{"name":'',"name2":''},
       "schedule": {
-        "day": "19th May",
-        "venue": "G16",
-        "time": "9:30 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Raptrap",
       "image": 'https://i.postimg.cc/fWjWfVrd/rap-trap.png',
-      "aboutEvent": "Anything that can be written or thought of can be filmed. They say a picture is worth a thousand words then a film is worth a thousand times more. If you are an author whose novels are films, this is right place to publish.",
-      "eventDetail": ["Theme will be given on the first day of the Fest"],
+      "aboutEvent": ": Enter the electrifying world of Rap War, where lyrical prowess meets rhythmic mastery. Unleash your verbal dexterity in a fierce battle of words, complemented by the pulsating beats. Only the most skilled wordsmiths will rise victorious in this ultimate test of creative expression and musical finesse.",
+      "eventDetail": [""],
       "rules": [
-        "A team can only have a maximum of 10 participants.",
-        "The movie should be shot within college premises.",
-        "No individual can be a member of more than one team.",
-        "The movie should be within the time limit and should not be exceed more than 5 minutes.",
-        "The movie shouldn’t have any offensive/explicit/vulgar language or scenarios.",
-        "The movie can be shot on any camera and should have a minimum quality of 720p and maximum of 1080p.",
-        "Languages permitted English, Kannada, Malayalam, Tulu and Hindi.",
-        "The decision of the judges will be final."
+        "	Preliminary Round: Duration: 2 minutes.",
+        	"Showcase Round: Duration: 2-3 minutes.",
+        	"Costumes should complement the participant's style.",
+       	"Keep lyrics clean and free from explicit content.",
+        	"Submit any required music or beat details during registration.",
+        "	Strictly adhere to the specified time limits for each round.",
+        	"Violation of rules may lead to disqualification.",
+        	"The decision of the judges and event organisers is final."
+        
+       
       ],
-      "judgingCriteria": [
-        "Originality. The uniqueness and originality of the premise or story.",
-        "Creativity.",
-        "Plot.",
-        "Characters.",
-        "Cinematography.",
-        "Sound Quality.",
-        "Pacing & Structure."
-      ],
+    
       "coordinators": {
         "students": [
-          { "name": "Vikas V", "phone": "9008554681" },
-          { "name": "Gangadhara", "phone": "9353666951" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Rakshith Shetty", "Suhail Shaha"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "G16",
-        "time": "9:30 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Rhythmic relay",
       "image": 'https://i.postimg.cc/Gm9cRqhP/rhythmic-relay.png',
-      "aboutEvent": "There is a creative fraction of a second when you are taking a picture. Your eye  must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera. That is the moment the photographer is creative. Oops! The Moment! Once you miss it, it is gone forever",
+      "aboutEvent": "Unlock the power of words in our Poetry Corner, where eloquence meets emotion. Immerse yourself in the rhythmic beauty of verse, as players weave linguistic tapestries to captivate hearts and minds.",
       "eventDetail": [
-        "This event will have only one round and result will be announced on the last day of Yensplash"
+      ""
       ],
       "rules": [
-        "Individual Participation",
-        "Participants should have their own digital camera or DSLR’s.",
-        "The photographs should be relevant to the 1st & 2nd day of Yensplash.",
-        "Participants should submit 5 best photographs on time.",
-        "The photographs that are submitted should be as captured within the campus.",
-        "No edits, no filters.",
-        "Judge’s decision will be final"
+        	"Round 1: In this round every participant will get an opportunity to give their best poetry performance. The time of performance will be 3 to 5 min.",
+	"Round 2(final round): In this round every participant will get some words, based on that participants have to create a poem on the spot.",
+	"Use of offensive language or inappropriate content is strictly prohibited.",
+	"Keep the poetry suitable for a diverse audience.",
+	"Dress in accordance to theme will be appreciated.",
+	"Strictly adhere to the specified time limits for each performance.",
+	"Violation of rules may lead to disqualification.",
+   "The decision of the judges and event organisers is final.",
+
+
+       
       ],
-      "judgingCriteria": [
-        "The competition will be judged based on the creativity and quality of the images"
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Vandana K Acharya", "phone": "9740406878" },
-          { "name": "Smithashree", "phone": "9380378465" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Rakshith Shetty", "Raj Kiran Shetty"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "G16",
-        "time": "9:30 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Symphony",
       "image": 'https://i.postimg.cc/ZnVStyGD/sYMPHONY.png',
-      "aboutEvent": "Mehendi art is a unique and traditional gift of Indian culture.With mehendi let your creativity run wild and the design comes to life! Come celebrate with us,both the beauty and culture through the art of mehendi.",
+      "aboutEvent": ": Immerse yourself in the rhythmic world of solo instrumental mastery as performers showcase their unique talents, blending intricate melodies and percussive beats. From soulful solos to jaw-dropping symphony this event promises a fusion of musical virtuosity that captivates and electrifies audiences.",
       "eventDetail": [
-        "There must be 2 participants in a group.",
-        "Mehendi should be applied on both the side of one hand.",
-        "Participants must be present on time."
+        
       ],
       "rules": [
-        "Time:60 min",
-        "Cones must be brought by the participants.",
-        "Tissues/napkins must brought by participants.",
-        "Participants should get a partner to apply mehendi.",
-        "In case participant arrives late to the event ,no extra time is given.",
-        "Judges decision is final."
+        "Preliminary Round: Duration: 2-4 minutes.",
+        "Showcase Round: Duration: 4-6 minutes.",
+       "Participants must bring their own instrument.",
+       "Original tracks are allowed.",
+       "Dress appropriately for a stage performance.",
+       "Strictly adhere to the specified time limits for each round.",
+       "Violation of rules may lead to disqualification.",
+      "The decision of the judges and event organisers is final.",
+
+       
       ],
-      "judgingCriteria": [
-        "Participants must apply mehendi with 60 min on both the side of one hand.Hand should be completely filled with design.Design must be attractive and unique.Cleanness must be maintained."
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Ayesha", "phone": "8431981515" },
-          { "name": "Sajna", "phone": "9380753420" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Ayesha", "Nalini"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "SLH02",
-        "time": "11:30 AM – 12:30 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "SpellBound",
       "image":'https://i.postimg.cc/QtZspDgS/spellbound.png',
-      "aboutEvent": "Rangoli is drawn in different states with different names and on different themes every region has its own unique way of representing their traditions, folklore and practices. Now it is your chance to showcase your creative skills by participating in the Rangoli Making Competition.",
-      "eventDetail": ["Time duration: 2 hours"],
+      "aboutEvent": "Unleash the mystical energies of the arcane with Spellbound, an enchanting event where participants delve into the captivating world of spellcasting. Whether novice or adept, this magical gathering offers a spellbinding experience, combining knowledge from ancient grimoires with modern incantations for a bewitching adventure.",
+      "eventDetail": [""],
       "rules": [
-        "Two participants in a team.",
-        "There will be only one round of competition.",
-        "Teams will be responsible for arrangement of the material required to prepare Rangoli.",
-        "Only Rangoli color powders can be used for making Rangoli.",
-        "The participants will not be allowed to refer to any printed material etc. for preparing Rangoli."
+        "1.	Round 1: Participants will be given words to spell, if a participant spells a word incorrectly, they are eliminated.",
+        "	The round continues until a predetermined number of participants remain.",
+        	"Final Round: Definition Guessing and Spelling. Participants remaining from Round 1 will participate. A word's definition will be provided, and participants must guess and spell the word. A participant is eliminated if they spell the word incorrectly.",
+        	"The competition will be conducted in English.",
+        	"Pronunciation and clarity are essential.",
+        	"Aggressive attitude and foul language will not be entertained.",
+        	"Violation of rules may lead to disqualification.",
+        	"The decision of the judges and event organisers is final.",
+       
       ],
-      "judgingCriteria": [
-        "Overall Appearance and appeal",
-        "Details and Clarity in Rangoli art.",
-        "Colour combination.",
-        "Creativity."
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Savi S Chowta", "phone": "8971028125" },
-          { "name": "Hitha S Chowta", "phone": "8971064125" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Vinitha D’souza", "Shree Raksha"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "2ND Floor Cubical",
-        "time": "11:30 AM – 1:30 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Step-Up",
       "image": 'https://i.postimg.cc/NFgczxzH/step-up.png',
-      "aboutEvent": "The Objective behind to organize Quiz competition is to evaluate the knowledge of theparticipants within academics as well as beyond academics and to make them familiar with the prospects of quizzes and the objectivity of the questions.",
+      "aboutEvent": "Participants will captivate the audience with their individual flair, showcasing rhythmic movements and artistic expressions. Embracing various dance styles, performers will take centre stage, demonstrating creativity, skill, and passion in this exhilarating solo dance competition.",
       "eventDetail": [
-        "Each team would be given a set of question papers containing 20 objective type questions",
-        "Time limit - 20 minutes",
-        "Only Qualified Teams will be selected for FINAL ROUNDS",
-        "In case of tie between 2 or more teams, further 3 questions would be asked for final selection."
+       
       ],
       "rules": [
-        "Two participants in a team.",
-        "The medium of the questions will be only English.",
-        "There will be certain time span for each round.",
-        "The participants are not permitted to use cell phones or other electronic devices."
+        "	Preliminary Round: Duration: 1.30-2 minutes",
+        "	Showcase Round: Duration: 2-3 minutes",
+        "	On Spot Round: Duration: 1 minute each participant",
+        "	Participants are expected to be in proper dance attire.",
+        	"Participants must submit their music tracks in MP3 format during registration.",
+        	"Strict adherence to time limits for each round is mandatory.",
+       	"Violation of the rules may lead to disqualification.",
+        "	The decision of the judges and event organisers is final."
+        
+      
       ],
-      "judgingCriteria": ["Quiz master's decision is final."],
+    
       "coordinators": {
         "students": [
-          { "name": "Thafsira", "phone": "8660152454" },
-          { "name": "Rafthan", "phone": "7892133260" },
-          { "name": "Mishriya", "phone": "8197330804" },
-          { "name": "Lafifa", "phone": "9632152452" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Prabha"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "Seminar hall",
-        "time": "2:00 PM – 3:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Clash-OF-Words",
       "image": 'https://i.postimg.cc/DwWKH0BB/clash-of-words.png',
-      "aboutEvent": "War of words is a process that involves formal discourse on a particular topic, often including a moderator and audience.",
+      "aboutEvent": "Engage in a riveting debate exploring proposed amendments to the rulebook, as participants eloquently present arguments and counterarguments, striving to shape the guidelines that govern our shared endeavours. Delve into the intricacies of each proposed rule, fostering a dynamic exchange of ideas to refine and enhance the framework that guides our collective pursuits.",      
       "eventDetail": [
-        "Round 1: Preliminary Round",
-        "Topics will be given 5 minutes before the first round.",
-        "The teams have to present their views on the topic (2+1 minutes).",
-        "Round 2: Finals",
-        "Top 6 teams will compete in a debate face-off (5+1 minutes).",
-        "Topics will be given on spot."
+        
       ],
       "rules": [
-        "Participants can enter the event only as a team of 2 members.",
-        "Registrations can be done prior to the event.",
-        "The mover will get one-minute extra time for winding up.",
-        "Medium of expression should be English.",
-        "Topic of the debate will be announced on spot.",
-        "Reading from paper and vulgar words is strictly prohibited"
+       "Round 1 - Elimination: Topic will be provided 2 days prior to the event. Speaking Time: 2-5 minutes.",
+       "Final Round: Topic will be given on the spot. Preparation Time: 15 minutes. Speaking Time: 2-5 minutes.",
+       "Use clear and respectful language.",
+       "Avoid offensive language or inappropriate content.",
+       	"Participants may bring notes for the final round but should not bring pre-written speeches.",
+       "Notes should be used as a reference during the speaking time.",
+       "Violation of rules may lead to disqualification.",
+       	"The decision of the judges and event organisers is final.",
+       
       ],
-      "judgingCriteria": [
-        "Participants will be judged based on their organisation of thoughts, clarity, reasoning, research and speaking skills.",
-        "The decision of the judge will be final."
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Sushmitha", "phone": "8296362429" },
-          { "name": "Pooja R Shettigar", "phone": "9113276328" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Pallavi", "Sangeetha"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "SLH01",
-        "time": "2:00 PM – 3:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "X-Factor",
       "image": 'https://i.postimg.cc/ryJctvDC/XFACTOR.png',
-      "aboutEvent": "Face paint is a work of art that makes you look like a canvas. Sheets and walls may be too mainstream for your artistic skills, so why not try something different? Introducing ‘Face Art’! Step out of your comfort zone and show off your creativity by painting on the face of your teammate. Get ready to go all out and impress us with your skills!",
+      "aboutEvent": "Experience the electrifying clash of turntables and vocal percussion in the DJ War! Witness skilled DJs battle through dynamic mixes, as they compete for the ultimate title of sonic supremacy. Get ready for a fusion of beats that will leave the audience captivated and the dance floor ablaze.",
       "eventDetail": [
-        "Team Size: 2 Members",
-        "Judges’ and Organizers' decisions will be final."
+       
       ],
-      "rules": [
-        "Time limit is 90 minutes.",
-        "The theme will be given on the spot, and the participants can refer to internet",
-        "Sources only during the first ten minutes.",
-        "Participants should bring their own colours, brushes, etc.",
-        "Use of stencils, stamps and masks are not allowed.",
-        "Participants should bring own partners to face paint."
+      "rules": ["1.	Preliminary Round: Duration: 5-7 minutes.",
+      	"Showcase Round: Duration: 7-10 minutes.",
+      	"Equipment setup and soundcheck will be allowed before the performance.",
+      	"Ensure all music played is free from explicit content.",
+      	"Use of original mixes or remixes is encouraged.",
+      	"Violation of rules may lead to disqualification.",
+      	"The decision of the judges and event organizers is final.",
+      	"No use of foul language will be entertained.",
+      
       ],
-      "judgingCriteria": [
-        "Creativity and originality.",
-        "Quality - composition, design elements and colour – do they all work well together",
-        "Clarity of them",
-        "Overall artistic impression"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Keerthi", "phone": "6361875024" },
-          { "name": "Chaithra", "phone": "8971137290" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Akshatha N M", "Raksha"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "SLH02",
-        "time": "2:00 PM – 3:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Light camera action",
       "image": 'https://i.postimg.cc/5y3x4rCg/lights-camera-action.png',
-      "aboutEvent": "Style is a way to say who you are without having to speak.” It is an event that celebrates fashion, creativity, and individuality. Bring your creativity and skills to the runway as you showcase your unique designs to walk the walk like a pro.",
+      "aboutEvent": "A captivating solo performance where a participant takes centre stage, embodying a character or concept through expressive acting and dialogue. The participant, armed with only their talent, brings a compelling narrative to life in this riveting display of individual theatrical prowess.",
       "eventDetail": [
-        "Participants get to walk the runway, displaying their outfits and accessories in front of a panel of judges and an enthusiastic audience."
+        	"Performance Rules: Duration: 5-7 minutes.",
+	"Use of foul language or inappropriate content is strictly prohibited.",
+	"Keep the performance suitable for a diverse audience.",
+	"Costumes should be appropriate for the character or theme.",
+	"Limited props are allowed, but they should not hinder the performance.",
+	"Keep in mind the time duration.",
+	"Violation of rules may lead to disqualification.",
+	"The decision of the judges and event organizers is final."
+
+        
       ],
       "rules": [
-        "It is an individual event.",
-        "The participants must wear the designated clothing and explain the details about their attire.",
-        "The participants must walk down the ramp individually, and each participant will be given a maximum of two minutes to complete their walk.",
-        "Any behavior deemed inappropriate by the organizers or the judges will result in immediate disqualification.",
-        "The judges' decision will be final, and no appeals or objections will be entertained."
       ],
-      "judgingCriteria": [
-        "Style and Fashion Sense",
-        "Confidence and stage presence",
-        "Walk and posture",
-        "Creativity and originality",
-        "Stage presence and audience engagement",
-        "Overall Impact"
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Aslam", "phone": "9739746978" },
-          { "name": "Nireeksha", "phone": "9980302731" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Deeksha K R", "Harikanth"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "21st May",
-        "venue": "Concert Stage",
-        "time": "9:00 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Just A Minute",
       "image": 'https://i.postimg.cc/RFwS8hCj/JAM.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": ": Extempore, a thrilling and dynamic event, challenges participants to think on their feet and articulate their thoughts spontaneously. With minimal preparation time, contestants showcase their eloquence, creativity, and quick thinking, captivating audiences with their impromptu speeches on diverse topics.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+        
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "	Duration: 2-3 minutes.",
+        "	Participants will be given a topic on the spot.",
+        	"Stay within the given theme and avoid deviating from the subject.",
+        	"Avoid offensive language or inappropriate content.",
+        	"No props are allowed.",
+        	"Dress in accordance with the theme.",
+        	"Violation of rules may lead to disqualification.",
+        	"The decision of the judges and event organisers is final.",
+        
+       
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+    
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     
@@ -355,248 +343,272 @@ export default function Technical() {
       "name": "",
       "alias": "Rhythm-Rumble",
       "image": 'https://i.postimg.cc/K8Vm8BR6/rhythm-rumble.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": " Teams of 7-25 participants will showcase synchronized movements and artistic expression in a dynamic display of unity. Judges will evaluate choreography, coordination, and overall creativity to determine the winning performance.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+        	
+
+       
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "Preliminary Round: Duration: 3-5 minutes.",
+	       "Showcase Round: Duration: 7-8 minutes",
+	      "All team members must be dressed uniformly.",
+       "	All groups must submit their music tracks in MP3 format at the time of registration.",
+	     "Groups are responsible for their own props and costume changes backstage.",
+	    "Each group must adhere strictly to the specified time limits for each round.",
+	    "Any violation of the rules may lead to disqualification.",
+	    "The decision of the judges and event organisers is final.",
+        
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Ju Unplugged",
       "image": 'https://i.postimg.cc/90Vmj2rz/ju-unplugged.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": ": Participants will have the spotlight to showcase their individual musical prowess in the solo song category. With just a microphone and their talent, contestants will captivate the audience with a unique and soulful performance, vying for the title of the solo song virtuoso.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+
+        
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "1.	Audition Round: Duration: 2 minutes. No karaoke allowed; participants must sing acapella or with a live instrument.",
+        	"Round 2 - Chit Picking: Participants will randomly pick a chit with the name of a singer. Sing a song by that singer.",
+        	"Round 3 - Stage Performance: Duration: 4 minutes. Participants will perform on stage with their chosen song.",
+        	"Participants are expected to be in proper attire.",
+        	"Participants must submit their music tracks in MP3 format during registration.",
+        	"Strict adherence to time limits for each round is mandatory.",
+        	"Violation of the rules may lead to disqualification.",
+        	"The decision of the judges and event organisers is final.",
+        
       ],
       "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
+       
       ],
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Iq Quest",
       "image": 'https://i.postimg.cc/k5KPMZrS/iq-quest.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": "Dive into the thrill of knowledge and friendly competition at our Quiz Competition! Test your wits and quick thinking against fellow participants in a battle of intellect. Follow the rulebook for a fair and exciting challenge, and may the brightest minds emerge victorious.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+        
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "	Teams: 4 participants per team.",
+        "Round 1 - General Knowledge (GK): Participants will be tested on a variety of general knowledge topics. Questions will cover areas such as current affairs, history, science, and more.",
+        	"Round 2 - Rapid Fire: Quick-fire round with a series of questions.",
+        	"Final Round - Audio Visual: Questions will be presented in audio-visual format.",
+        	"Ensure that responses are clear and concise.",
+        	"No use of foul language.",
+        	"Violation of rules may lead to disqualification.",
+        	"The decision of the quizmaster and event organisers is final.",
+        
+       
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Beat The Street",
       "image": 'https://i.postimg.cc/ncSJ3BYX/beat-the-street.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": ": Unleash your rhythm and style in this electrifying competition. Show off your urban dance moves, from breakdancing to hip-hop, and captivate the audience with your unique flair. Let the streets be your stage as you bring the beat to life in this fierce battle of style and creativity with team of 3-6 participants.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+       
       ],
-      "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+      "rules": ["1.	No physical contact with the opponent team during the performance.",
+      	"The performance should focus on creativity, choreography, and synchronised movements.",
+      	"Participants are expected to be in proper dance attire.",
+      	"Participants must submit their music tracks in MP3 format during registration.",
+     "Props must not hinder the flow of the performance.",
+      "	Strict adherence to time limits for each round is mandatory.",
+      	"Violation of the rules may lead to disqualification.",
+      	"The decision of the judges and event organisers is final.",
+      
+       
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Smash The Dub",
       "image": 'https://i.postimg.cc/0yLqsv4x/dub-the-smash.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": ": Unleash your mimicry prowess in this unique event. Participants will face the ultimate test as they watch a muted dialogue played on screen and then must flawlessly replicate the lines with precision. Bring your A-game and let your talent shine in this thrilling Dubsmash Mimicry Challenge!",
+
+    
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        	"Teams consist of 4 participants each.",
+	"Participants will watch a dialogue video on mute.",
+	"Each team will then take turns mimicking the dialogue using gestures, expressions, and body language.",
+	"Aggressive attitude and foul language will not be entertained.",
+	"Keep performances suitable for a diverse audience.",
+	"Maintain a professional demeanour during the competition.",
+	"Violation of rules may lead to disqualification.",
+	"The decision of the judges and event organisers is final.",
+
+       
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Music Mania",
       "image": 'https://i.postimg.cc/RFwmgx1m/music-mania.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": "Antakshari is a lively musical game where participants take turns singing songs based on a given starting letter. The challenge lies in seamlessly connecting songs and showcasing musical knowledge, creating a vibrant and engaging experience for players.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
-      ],
+        
+       
+              ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "	Teams: 4 participants per team.",
+        "	Teams take turns singing songs based on a given theme or starting letter.",
+        	"Each team member must sing a unique song; no repetition is allowed.",
+        	"Ensure that song lyrics are appropriate for a diverse audience.",
+       	"Aggressive attitude and foul language will not be entertained.",
+        	"Teams must not repeat songs already sung in the competition.",
+        	"Violation of rules may lead to disqualification.",
+        	"The decision of the judges and event organisers is final.",
+       
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Vogue Vista",
       "image": 'https://i.postimg.cc/Wb1VmXrR/vogue-vista.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": ": Immerse yourself in a dazzling spectacle of style and creativity as our Fashion Show unfolds, showcasing the latest trends and designs from renowned and emerging designers. Witness the fusion of innovation and elegance, where each runway stride becomes a statement of individuality and fashion-forward expression.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
-      ],
+        ""      ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "Participants: 15-25 individuals in a group.",
+        	"Participants must dress appropriately for a fashion show.",
+        	"No vulgar or offensive attire is allowed.",
+        	"Any specific theme or requirement will be communicated in advance.",
+        	"Participants must provide their music tracks in advance during registration.",
+        	"Choreography should be well-rehearsed and coordinated.",
+        	"Violation of rules may lead to disqualification.",
+        	"The decision of the judges and event organisers is final.",
+      
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Spotlight",
       "image": 'https://i.postimg.cc/fL7sCPBs/spotlight.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": "Immerse yourself in a riveting stage play where familial bonds unravel in the face of a mysterious inheritance. As secrets are exposed under the spotlight, the characters navigate a gripping tale of love, betrayal, and redemption, leaving the audience on the edge of their seats. Group size should be 10-12 participants.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+        
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "Performance Rules: Duration: 25-30 minutes.",
+        	"Use of foul language or inappropriate content is strictly prohibited.",
+        "Keep the performance suitable for a diverse audience.",
+       "Costumes should be appropriate for the theme and characters.",
+        "Groups are allowed to use props that can be easily set up and removed.",
+        "Use of background music is allowed; ensure it complements the performance.",
+        "Violation of rules may lead to disqualification.",
+        "The decision of the judges and event organizers is final.",
+        
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
 
