@@ -50,12 +50,7 @@ console.log(props.rules)
                 <p>6. {props.rules[5]}</p>
                 <p>7. {props.rules[6]}</p>
                 <p>8. {props.rules[7]}</p>
-                <p>9. {props.rules[8]}</p>
-                <p>10. {props.rules[9]}</p>
-                <p>11. {props.rules[10]}</p>
-                <p>12. {props.rules[11]}</p>
-                <p>13. {props.rules[12]}</p>
-                <p>14. {props.rules[13]}</p>
+               
 
               </div>
               <hr/>
