@@ -13,7 +13,7 @@ const Header = () => {
                     <video autoPlay muted loop
                         className='absolute inset-0 w-full h-full object-cover'
                         style={{ position: 'fixed', width: '100%', height: '142vh', objectFit: 'cover', zIndex: -3, opacity: .9 }}>
-                        <source src="" width={400} height={100} type="video/mp4" /> 
+                        <source src="video2.mp4" width={400} height={100} type="video/mp4" /> 
                        
                     </video>
                 </div>

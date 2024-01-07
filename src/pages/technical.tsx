@@ -15,167 +15,166 @@ export default function Technical() {
   
       "alias": "Algo Vs Logic",
       "image": 'https://i.postimg.cc/wBV5XWZD/Algo-vs-Logic.png',
-      "aboutEvent": "CAPTURING FROM REAL TO REEL! Reels have surely become a means for the youth of today to exhibit their creativity and bring in the best trends on social media in this digital era. As a result, we've chosen to use this expressive platform to recognize the students' inventiveness. To explore the creative side of the students, we bring to you The Reel Making Competition",
+      "aboutEvent": "	In this event, we take you on a trip back to the basics of any coding language: data structures and algorithms.",
       "eventDetail": [
-        "It is an individual event | ",
-        "Any act of indiscipline by participants, calls for cancellation of registration.",
-        "Topic - *Splash Vibes*"
+        "Participation: Individual ||  Registration Fee: 300 Rs. Per Head "
       ],
+
       "rules": [
-        "Record and edit multi-clip videos on the given topic with audio, effects and creative tools.",
-        "Each participant is allowed to submit only one reel.",
-        "The duration of the reel is to be min of 15 sec and max of 60 sec.",
-        "All the participants will be added to the WhatsApp group and the link to upload the reels will be shared.",
-        "Any act of indiscipline by participants, calls for cancellation of registration.",
-        "Reel should be submitted before 9pm of 2nd Day, Link will be Expired after 9pm"
+        "This round comprises 20 multiple-choice questions, 20 minutes will be given to answer all the questions.",
+        "	This round will test your knowledge of basic concepts, data structures, and algorithms ,5 points will be awarded for each correct answer and 1 will be deducted for every wrong answer",
+        "	No points will be deducted for unattempted questions The top 20 participants will be qualified for round 2",
+        "	If any participant is found using unfair methods, he/she will be immediately disqualified."	,
+        "Round2",
+        "	This round comprises competitive programming questions, including different types of data structures such as queue, array, stack, etc.●	This round will have 5 questions 1 hour will be given to answer all the questions.",
+        "	This round will take place on a platform. Winners will be selected based on the number of questions solved, logic used, and speed.",
+        "	If any participant is found using unfair methods, he/she will be immediately disqualified."	,
+       
       ],
-      "judgingCriteria": [
-        "Based on *Quality and creativity of the video*",
-        "The Judges’ decision will be the final decision."
-      ],
-      "coordinators":{"name":'9902774200',"name2":'7259137283'},
+      
+      "coordinators":{"name":'',"name2":''},
       "schedule": {
-        "day": "19th May",
-        "venue": "G16",
-        "time": "9:30 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Cyberbytes",
       "image": 'https://i.postimg.cc/4dW5g81X/Cyberbytes.png',
-      "aboutEvent": "Anything that can be written or thought of can be filmed. They say a picture is worth a thousand words then a film is worth a thousand times more. If you are an author whose novels are films, this is right place to publish.",
-      "eventDetail": ["Theme will be given on the first day of the Fest"],
+      "aboutEvent": "	A series of problems related to cyber security will be solved using various hacking and analysis tools.",
+      "eventDetail": ["Participation: Team (1-2)|| Registration Fee: 600 Rs. Per Team "
+     
+      ],
       "rules": [
-        "A team can only have a maximum of 10 participants.",
-        "The movie should be shot within college premises.",
-        "No individual can be a member of more than one team.",
-        "The movie should be within the time limit and should not be exceed more than 5 minutes.",
-        "The movie shouldn’t have any offensive/explicit/vulgar language or scenarios.",
-        "The movie can be shot on any camera and should have a minimum quality of 720p and maximum of 1080p.",
-        "Languages permitted English, Kannada, Malayalam, Tulu and Hindi.",
-        "The decision of the judges will be final."
+        	"Participants must adhere to the specified reporting time and location.",
+	"Internet access is permitted within designated time intervals for participants.",
+	"The competition comprises 4 rounds, each featuring problems from specific domains.",
+	"The Judging Committee may request explanations or proof of evidence for solutions.",
+	"Correct solutions receive rewards, while incorrect explanations or solutions incur penalties.",
+	"Rules for rewards and penalties are disclosed on the event day.",
+	"Team leaders, elected from each team, are the sole representatives allowed to explain and present solutions.",
+	
+
+        
       ],
-      "judgingCriteria": [
-        "Originality. The uniqueness and originality of the premise or story.",
-        "Creativity.",
-        "Plot.",
-        "Characters.",
-        "Cinematography.",
-        "Sound Quality.",
-        "Pacing & Structure."
-      ],
-      "coordinators":{"name":'9902774200',"name2":'7259137283'},
+     
+      "coordinators":{"name":'',"name2":''},
       "schedule": {
-        "day": "19th May",
-        "venue": "G16",
-        "time": "9:30 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Pixellate",
       "image": 'https://i.postimg.cc/VLCjGs2f/Pixellate.png',
-      "aboutEvent": "There is a creative fraction of a second when you are taking a picture. Your eye  must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera. That is the moment the photographer is creative. Oops! The Moment! Once you miss it, it is gone forever",
-      "eventDetail": [
-        "This event will have only one round and result will be announced on the last day of Yensplash"
+      "aboutEvent": "Designing is a challenge, it requires a pioneering vision strengthened by a curiosity out of the ordinary; yet typical of any man. To design is to invent, innovate, and surprise. All this through a single tool   Pixelate is a contest in which participants are asked to design graphics using the given set of tock images and other resources. The event is divided into two rounds. The first is an   elimination round in which a short design problem will be given.",
+      "eventDetail": ["Participation: Team (1-2)||Registration Fee: 600 Rs. Per Team ",
       ],
       "rules": [
-        "Individual Participation",
-        "Participants should have their own digital camera or DSLR’s.",
-        "The photographs should be relevant to the 1st & 2nd day of Yensplash.",
-        "Participants should submit 5 best photographs on time.",
-        "The photographs that are submitted should be as captured within the campus.",
-        "No edits, no filters.",
-        "Judge’s decision will be final"
+       
+        "A maximum of two participants or a minimum of 1 participant is allowed per team.",
+        "There will be 2 rounds",
+        "No external reference is allowed, only the given set of resources must be used.",
+        "In case of a tie, preference will be given to the criteria mentioned above in decreasing order of weightage.",
+        "The decisions made by the judges would be final and binding.",
+        "The designs must not contain any abusive language, racial slurs, or hateful remarks against any religion, cast, or community.",
+        "The event manager reserves the right to disqualify any team if any section of the content is deemed inappropriate.",
+        "Software like Adobe Photoshop, Adobe Illustrator, etc. can be used."
       ],
-      "judgingCriteria": [
-        "The competition will be judged based on the creativity and quality of the images"
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Vandana K Acharya", "phone": "9740406878" },
-          { "name": "Smithashree", "phone": "9380378465" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Rakshith Shetty", "Raj Kiran Shetty"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "G16",
-        "time": "9:30 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Mopix",
       "image": 'https://i.postimg.cc/QtYpPFXt/Mopix.png',
-      "aboutEvent": "Mehendi art is a unique and traditional gift of Indian culture.With mehendi let your creativity run wild and the design comes to life! Come celebrate with us,both the beauty and culture through the art of mehendi.",
-      "eventDetail": [
-        "There must be 2 participants in a group.",
-        "Mehendi should be applied on both the side of one hand.",
-        "Participants must be present on time."
+      "aboutEvent": "This is a Website Design event in which the students will be asked to design a web-based interface for a fictional organization. It aims to highlight the creative and programming capabilities of the students. The work will be judged based on (with weightage Site Navigation, User-friendliness (40%) Presentation, Color Scheme, Attractiveness (35%) Presentation, Color Scheme, Attractiveness (35%) Cross-browser & multi-resolution stability (20%)",
+     
+    
+      
+      	
+      	
+      "eventDetail": [ 
+        "Participation: Team (1-2) || Registration Fee: 600 Rs. Per Team ",
+
+
+      
       ],
       "rules": [
-        "Time:60 min",
-        "Cones must be brought by the participants.",
-        "Tissues/napkins must brought by participants.",
-        "Participants should get a partner to apply mehendi.",
-        "In case participant arrives late to the event ,no extra time is given.",
-        "Judges decision is final."
+        "Registration: Online & On the Spot No external reference is allowed.",
+	      "The judge's decision will be final and binding.",
+        "The event will be conducted in two rounds:",
+        	"Conducted on: Computers (Using Simulators) Duration: 20 min No. & type of questions: 30 MCQ Distribution Of Questions : (70%) HTML and CSS + (25%) JavaScript + (5%)Flash.",
+          "The selected teams will have to design a website.",
+          "	Duration: 2 hrs",
+          "	All the work is to be done using programming and scripting languages. You can use any preferred language mentioned below:",
+          "Certificate of excellence will be awarded to the top 2 winners.", 
       ],
-      "judgingCriteria": [
-        "Participants must apply mehendi with 60 min on both the side of one hand.Hand should be completely filled with design.Design must be attractive and unique.Cleanness must be maintained."
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Ayesha", "phone": "8431981515" },
-          { "name": "Sajna", "phone": "9380753420" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Ayesha", "Nalini"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "SLH02",
-        "time": "11:30 AM – 12:30 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
-      "name": "Palette of perfection",
+      "name": "",
       "alias": "Codehunt",
       "image": 'https://i.postimg.cc/gkCKmL3L/CodeHunt.png',
-      "aboutEvent": "Rangoli is drawn in different states with different names and on different themes every region has its own unique way of representing their traditions, folklore and practices. Now it is your chance to showcase your creative skills by participating in the Rangoli Making Competition.",
-      "eventDetail": ["Time duration: 2 hours"],
+      "aboutEvent": " In this event, we test your grasp of programming language through a series of questions about coding and finding an output. It is a competitive Timebound game that consists of 4 knockout levels. You have to solve a About the Event at each level using your desired programming language and reach an output. After each round, you will receive a clue of where to find your next About the Event. The level of questions after each round will increase. ",
+      "eventDetail": ["Participation: Team (2-4)|| Registration Fee: 1000 Rs. Per Team"],
       "rules": [
-        "Two participants in a team.",
-        "There will be only one round of competition.",
-        "Teams will be responsible for arrangement of the material required to prepare Rangoli.",
-        "Only Rangoli color powders can be used for making Rangoli.",
-        "The participants will not be allowed to refer to any printed material etc. for preparing Rangoli."
+        "	Each team comprises one player solving the code and another retrieving an envelope from the specified location.",
+        "Envelope seals must be opened in front of the coordinator; a broken seal results in disqualification.",
+        "The judge's decision is final, non-negotiable, and not open to review or appeal.",
+        "Participants can code in any language and on any compiler of their choice.",
+        	"Use of unfair means, including Google or AI to steal or copy code, leads to disqualification.",
+        	"Rules are subject to change before the final briefing session.",
+        	"Code solvers and envelope retrievers make up the team, each with distinct roles.",
+        	"Strict adherence to envelope seal integrity, finality of judge's decisions, coding language/compiler flexibility, and fair play is crucial. Rules may be revised before the final briefing.",
+        
       ],
-      "judgingCriteria": [
-        "Overall Appearance and appeal",
-        "Details and Clarity in Rangoli art.",
-        "Colour combination.",
-        "Creativity."
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Savi S Chowta", "phone": "8971028125" },
-          { "name": "Hitha S Chowta", "phone": "8971064125" }
+          { "name": "", "phone": "8" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Vinitha D’souza", "Shree Raksha"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "2ND Floor Cubical",
-        "time": "11:30 AM – 1:30 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
-      "name": "Maze",
+      "name": "",
       "alias": "Robowar",
       "image": 'https://i.postimg.cc/DmkbksR2/Robo-War-Elite.png',
-      "aboutEvent": "The Objective behind to organize Quiz competition is to evaluate the knowledge of theparticipants within academics as well as beyond academics and to make them familiar with the prospects of quizzes and the objectivity of the questions.",
+      "aboutEvent": "",
       "eventDetail": [
         "Each team would be given a set of question papers containing 20 objective type questions",
         "Time limit - 20 minutes",
