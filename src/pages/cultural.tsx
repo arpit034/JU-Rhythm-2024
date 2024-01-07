@@ -12,7 +12,7 @@ export default function Technical() {
 
   
       "alias": "Monostrokes",
-      "image": 'https://i.postimg.cc/4dxKp78B/mono-strokes.png',
+      "image": 'https://i.postimg.cc/KvGGqm6H/MONOSTROKES.png',
       "aboutEvent": "CAPTURING FROM REAL TO REEL! Reels have surely become a means for the youth of today to exhibit their creativity and bring in the best trends on social media in this digital era. As a result, we've chosen to use this expressive platform to recognize the students' inventiveness. To explore the creative side of the students, we bring to you The Reel Making Competition",
       "eventDetail": [
         "It is an individual event.",
@@ -41,7 +41,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Raptrap",
-      "image": 'https://i.postimg.cc/nzSX2FgZ/rap-trap.jpg',
+      "image": 'https://i.postimg.cc/fWjWfVrd/rap-trap.png',
       "aboutEvent": "Anything that can be written or thought of can be filmed. They say a picture is worth a thousand words then a film is worth a thousand times more. If you are an author whose novels are films, this is right place to publish.",
       "eventDetail": ["Theme will be given on the first day of the Fest"],
       "rules": [
@@ -79,7 +79,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Rhythmic relay",
-      "image": 'https://i.postimg.cc/XvGNWfzM/rhytmic-relay-poetry.png',
+      "image": 'https://i.postimg.cc/Gm9cRqhP/rhythmic-relay.png',
       "aboutEvent": "There is a creative fraction of a second when you are taking a picture. Your eye  must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera. That is the moment the photographer is creative. Oops! The Moment! Once you miss it, it is gone forever",
       "eventDetail": [
         "This event will have only one round and result will be announced on the last day of Yensplash"
@@ -111,8 +111,8 @@ export default function Technical() {
     },
     {
       "name": "",
-      "alias": "SoloInstrument",
-      "image": 'https://i.postimg.cc/sg0fb6K9/solo-instrument.png',
+      "alias": "Symphony",
+      "image": 'https://i.postimg.cc/ZnVStyGD/sYMPHONY.png',
       "aboutEvent": "Mehendi art is a unique and traditional gift of Indian culture.With mehendi let your creativity run wild and the design comes to life! Come celebrate with us,both the beauty and culture through the art of mehendi.",
       "eventDetail": [
         "There must be 2 participants in a group.",
@@ -146,7 +146,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "SpellBound",
-      "image":'https://i.postimg.cc/VNp60GCL/spell-bound.png',
+      "image":'https://i.postimg.cc/QtZspDgS/spellbound.png',
       "aboutEvent": "Rangoli is drawn in different states with different names and on different themes every region has its own unique way of representing their traditions, folklore and practices. Now it is your chance to showcase your creative skills by participating in the Rangoli Making Competition.",
       "eventDetail": ["Time duration: 2 hours"],
       "rules": [
@@ -178,7 +178,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Step-Up",
-      "image": 'https://i.postimg.cc/8P67dVHQ/step-up.jpg',
+      "image": 'https://i.postimg.cc/NFgczxzH/step-up.png',
       "aboutEvent": "The Objective behind to organize Quiz competition is to evaluate the knowledge of theparticipants within academics as well as beyond academics and to make them familiar with the prospects of quizzes and the objectivity of the questions.",
       "eventDetail": [
         "Each team would be given a set of question papers containing 20 objective type questions",
@@ -210,8 +210,8 @@ export default function Technical() {
     },
     {
       "name": "",
-      "alias": "WordClash",
-      "image": 'https://i.postimg.cc/vTpcRPGN/word-clash.jpg',
+      "alias": "Clash-OF-Words",
+      "image": 'https://i.postimg.cc/DwWKH0BB/clash-of-words.png',
       "aboutEvent": "War of words is a process that involves formal discourse on a particular topic, often including a moderator and audience.",
       "eventDetail": [
         "Round 1: Preliminary Round",
@@ -249,7 +249,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "X-Factor",
-      "image": 'https://i.postimg.cc/tgX7HnHp/x-factor.jpg',
+      "image": 'https://i.postimg.cc/ryJctvDC/XFACTOR.png',
       "aboutEvent": "Face paint is a work of art that makes you look like a canvas. Sheets and walls may be too mainstream for your artistic skills, so why not try something different? Introducing ‘Face Art’! Step out of your comfort zone and show off your creativity by painting on the face of your teammate. Get ready to go all out and impress us with your skills!",
       "eventDetail": [
         "Team Size: 2 Members",
@@ -283,9 +283,9 @@ export default function Technical() {
       }
     },
     {
-      "name": "Ramp riot",
-      "alias": "Mono-Act",
-      "image": 'https://i.postimg.cc/ZqZvKD6k/mono-act.png',
+      "name": "",
+      "alias": "Light camera action",
+      "image": 'https://i.postimg.cc/5y3x4rCg/lights-camera-action.png',
       "aboutEvent": "Style is a way to say who you are without having to speak.” It is an event that celebrates fashion, creativity, and individuality. Bring your creativity and skills to the runway as you showcase your unique designs to walk the walk like a pro.",
       "eventDetail": [
         "Participants get to walk the runway, displaying their outfits and accessories in front of a panel of judges and an enthusiastic audience."
@@ -321,7 +321,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Just A Minute",
-      "image": 'https://i.postimg.cc/bw12PjDH/just-a-minute.png',
+      "image": 'https://i.postimg.cc/RFwS8hCj/JAM.png',
       "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
       "eventDetail": [
         "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
@@ -350,6 +350,256 @@ export default function Technical() {
       }
     },
     
+    
+    {
+      "name": "",
+      "alias": "Rhythm-Rumble",
+      "image": 'https://i.postimg.cc/K8Vm8BR6/rhythm-rumble.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+    {
+      "name": "",
+      "alias": "Ju Unplugged",
+      "image": 'https://i.postimg.cc/90Vmj2rz/ju-unplugged.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+    {
+      "name": "",
+      "alias": "Iq Quest",
+      "image": 'https://i.postimg.cc/k5KPMZrS/iq-quest.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+    {
+      "name": "",
+      "alias": "Beat The Street",
+      "image": 'https://i.postimg.cc/ncSJ3BYX/beat-the-street.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+    {
+      "name": "",
+      "alias": "Smash The Dub",
+      "image": 'https://i.postimg.cc/0yLqsv4x/dub-the-smash.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+    {
+      "name": "Music Mania",
+      "alias": "https://i.postimg.cc/tCBX8LyC/music-mania.png",
+      "image": '',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+    {
+      "name": "",
+      "alias": "Vogue Vista",
+      "image": 'https://i.postimg.cc/Wb1VmXrR/vogue-vista.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+    {
+      "name": "",
+      "alias": "Spotlight",
+      "image": 'https://i.postimg.cc/fL7sCPBs/spotlight.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+
   ]
 
   return (

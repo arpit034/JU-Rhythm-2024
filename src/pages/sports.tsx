@@ -12,29 +12,34 @@ export default function Technical() {
   
       "alias": "Paintball",
       "image": 'https://i.postimg.cc/RhG9BJPk/PAINTBALL.png',
-      "aboutEvent": "CAPTURING FROM REAL TO REEL! Reels have surely become a means for the youth of today to exhibit their creativity and bring in the best trends on social media in this digital era. As a result, we've chosen to use this expressive platform to recognize the students' inventiveness. To explore the creative side of the students, we bring to you The Reel Making Competition",
-      "eventDetail": [
-        "It is an individual event.",
-        "Any act of indiscipline by participants, calls for cancellation of registration.",
-        "Topic - *Splash Vibes*"
-      ],
+      "aboutEvent": "Aim.....shoot.....conquer. Paintball is a challenging team sport that includes strategy, shooting, eliminating, and of course unlimited fun. In this game, generally two (or more) different teams gather in a specially designated area and wage a war against each other.",
+      // "eventDetail": [
+      //   "It is an individual event.",
+      //   "Any act of indiscipline by participants, calls for cancellation of registration.",
+      //   "Topic - *Splash Vibes*"
+      // ],
       "rules": [
-        "Record and edit multi-clip videos on the given topic with audio, effects and creative tools.",
-        "Each participant is allowed to submit only one reel.",
-        "The duration of the reel is to be min of 15 sec and max of 60 sec.",
-        "All the participants will be added to the WhatsApp group and the link to upload the reels will be shared.",
-        "Any act of indiscipline by participants, calls for cancellation of registration.",
-        "Reel should be submitted before 9pm of 2nd Day, Link will be Expired after 9pm"
+        "NO BLIND FIRING",
+        "No discharging paintball markers outside the designated shooting areas.",
+        "No shooting at people not wearing protective equipment.",
+        "No carrying or moving the bunkers or field parts.",
+        "No knives or other weapons allowed.",
+        "No wiping off paint hits while still on the field.",
+        "No drinks or  foods to be carried within playing areas",
+        "No foul language should be used.",
+         "Once eliminated, raise your gun and arm over your head and move quickly toward the exit.",
+        "Put on a Barrel Sleeve prior to exiting the field",
+        
+        "Do not shoot the referees.",
+         "All players MUST be wearing Goggles and Face Masks prior to entering playing areas."
+        
       ],
-      "judgingCriteria": [
-        "Based on *Quality and creativity of the video*",
-        "The Judges’ decision will be the final decision."
-      ],
-      "coordinators":{"name":'9902774200',"name2":'7259137283'},
+     
+      "coordinators":{"name":'',"name2":''},
       "schedule": {
-        "day": "19th May",
-        "venue": "G16",
-        "time": "9:30 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
