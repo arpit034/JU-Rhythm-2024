@@ -10,8 +10,8 @@ function EventDetailsModal(props) {
 console.log(props.rules)
 
   return (
-    <div className='fixed inset-0 bg-opacity-30 backdrop-blur-sm flex items-center justify-center'>
-        <div className='bg-[#151515] max-w-3xl text-white border-2 px-2 mx-4'>
+    <div className='mt-36 md:mt-0 fixed inset-0 bg-opacity-30 backdrop-blur-sm flex items-center justify-center '>
+        <div className='bg-[#151515] max-w-3xl overflow-y-auto text-white border-2 px-2 mx-4'>
             <div className='flex w-full justify-between px-8 py-2'>
                 <h1 className='team2 text-4xl'>{props.name}</h1>
                 <button onClick={props.onClose}>
