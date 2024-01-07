@@ -2,6 +2,9 @@ import Image from 'next/image';
 
 
 
+
+
+
 const Header = () => {
     return (
         <>
@@ -19,9 +22,9 @@ const Header = () => {
                 <div className="flex items-center justify-center">
                     <div className="relative w-full max-w-screen-md md:mt-0 sm:mt-10">
                         <div className="relative h-0 pb-[80%] md:pb-[65%] mt-[180px] md:-mt-10 ">
-                            <Image src="https://i.postimg.cc/J4pxPVkX/Jecrc-logo-gradient.png" alt="logo" className=" mt-24 absolute inset-0 w-full object-contain" width={100} height={100}/>  
+                            <Image src="https://i.postimg.cc/T15JDFSQ/rhythm-logo.png" alt="logo" className=" mt-24 absolute inset-0 w-full object-contain" width={100} height={100}/>  
                         </div>
-                       s
+                       
                     </div>
                 </div> 
             </header>
