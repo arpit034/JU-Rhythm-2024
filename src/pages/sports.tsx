@@ -8,31 +8,24 @@ export default function Technical() {
   const events = [
     {
       "name": "",
-      // alias andr show hoga poster mein
+      
   
       "alias": "Paintball",
       "image": 'https://i.postimg.cc/RhG9BJPk/PAINTBALL.png',
       "aboutEvent": "Aim.....shoot.....conquer. Paintball is a challenging team sport that includes strategy, shooting, eliminating, and of course unlimited fun. In this game, generally two (or more) different teams gather in a specially designated area and wage a war against each other.",
-      // "eventDetail": [
-      //   "It is an individual event.",
-      //   "Any act of indiscipline by participants, calls for cancellation of registration.",
-      //   "Topic - *Splash Vibes*"
-      // ],
+      "eventDetail": [
+        "Maximum 4 members || 1500/team"
+      ],
       "rules": [
-        "NO BLIND FIRING",
-        "No discharging paintball markers outside the designated shooting areas.",
-        "No shooting at people not wearing protective equipment.",
-        "No carrying or moving the bunkers or field parts.",
-        "No knives or other weapons allowed.",
-        "No wiping off paint hits while still on the field.",
-        "No drinks or  foods to be carried within playing areas",
-        "No foul language should be used.",
-         "Once eliminated, raise your gun and arm over your head and move quickly toward the exit.",
-        "Put on a Barrel Sleeve prior to exiting the field",
         
-        "Do not shoot the referees.",
-         "All players MUST be wearing Goggles and Face Masks prior to entering playing areas."
-        
+         "NO BLIND FIRING. No discharging paintball markers outside the designated shooting areas.",
+        "No shooting at people not wearing protective equipment. No wiping off paint hits while still  on the field.",
+        " No carrying or moving the bunkers or field parts. No knives or other weapons allowed.",
+         "No drinks or foods to be carried within playing areas. No foul language should be used.",
+        " Once eliminated, raise your gun and arm over your head and move quickly toward the exit.",
+        " Put on a Barrel Sleeve prior to exiting the field. If you call  you are out. If you are in doubt, call Paint Check first.",
+        " Referees' calls are final. Do not shoot the referees.",
+         "All players MUST be wearing Goggles and Face Masks prior to entering playing areas.",
       ],
      
       "coordinators":{"name":'',"name2":''},
@@ -46,345 +39,335 @@ export default function Technical() {
       "name": "",
       "alias": "Roadies",
       "image": 'https://i.postimg.cc/d1YKZjgM/ROADIES.png',
-      "aboutEvent": "Anything that can be written or thought of can be filmed. They say a picture is worth a thousand words then a film is worth a thousand times more. If you are an author whose novels are films, this is right place to publish.",
-      "eventDetail": ["Theme will be given on the first day of the Fest"],
+      "aboutEvent":" Brain, strength and abilities all come in a single arena. Let your opponent get nervous just by your  moves. Players will participate in various tasks that challenge their physical, social and mental  strength. Participate to experience thrill and fun.",
+     
+     
+      "eventDetail": ["Members: 2 team players ||500/team"],
       "rules": [
-        "A team can only have a maximum of 10 participants.",
-        "The movie should be shot within college premises.",
-        "No individual can be a member of more than one team.",
-        "The movie should be within the time limit and should not be exceed more than 5 minutes.",
-        "The movie shouldn’t have any offensive/explicit/vulgar language or scenarios.",
-        "The movie can be shot on any camera and should have a minimum quality of 720p and maximum of 1080p.",
-        "Languages permitted English, Kannada, Malayalam, Tulu and Hindi.",
-        "The decision of the judges will be final."
+        "Each team consists of 2 players .",
+        " Each team will compete on a hard track which will consist of different tasks.",
+        " It is mandatory to complete all tasks in order to be selected for next round.",
+        " Points will be awarded on the basis of timings of tasks completed and faults done by the team.",
+        "There would be penalty for every foul made.",
+        "Any misbehaviour would lead to disqualification",
+        " Proper decorum is mandatory.",
+          "Judges decision will be final.",
       ],
-      "judgingCriteria": [
-        "Originality. The uniqueness and originality of the premise or story.",
-        "Creativity.",
-        "Plot.",
-        "Characters.",
-        "Cinematography.",
-        "Sound Quality.",
-        "Pacing & Structure."
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Vikas V", "phone": "9008554681" },
-          { "name": "Gangadhara", "phone": "9353666951" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Rakshith Shetty", "Suhail Shaha"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "G16",
-        "time": "9:30 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "TableTennis",
       "image": 'https://i.postimg.cc/4NSkQgjQ/TABLE-TENNIS.png',
-      "aboutEvent": "There is a creative fraction of a second when you are taking a picture. Your eye  must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera. That is the moment the photographer is creative. Oops! The Moment! Once you miss it, it is gone forever",
+      "aboutEvent": "Table tennis is a sport in which two or four players hit a lightweight ball, also known as the ping-pong ball, back and forth across a table using small solid rackets. The game takes place on a hard table divided by a net.",
       "eventDetail": [
-        "This event will have only one round and result will be announced on the last day of Yensplash"
+        "250/player||Members: 1player"
       ],
       "rules": [
-        "Individual Participation",
-        "Participants should have their own digital camera or DSLR’s.",
-        "The photographs should be relevant to the 1st & 2nd day of Yensplash.",
-        "Participants should submit 5 best photographs on time.",
-        "The photographs that are submitted should be as captured within the campus.",
-        "No edits, no filters.",
-        "Judge’s decision will be final"
+        "Games are played to 11 points.",
+      "Players serve two serves each, alternating. A player does not have to win specifically off their own serve in order to win a point.",
+      "If a game ties at 10-10, a player must win by 2 points. In this situation, players serve one serve each, alternating.",
+    "You must throw the ball up straight, from a flat palm, at least 6inches (16cm).",
+    "Your toss and service contact must be behind the table surface (not over).",
+    "If the ball hits the net during service, it is a let, the point is replayed.",
+    "There is no limit or point deductions for let serves.",
+    "Proper decorum is mandatory and judges decision is final."
       ],
-      "judgingCriteria": [
-        "The competition will be judged based on the creativity and quality of the images"
-      ],
+    
       "coordinators": {
         "students": [
-          { "name": "Vandana K Acharya", "phone": "9740406878" },
-          { "name": "Smithashree", "phone": "9380378465" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Rakshith Shetty", "Raj Kiran Shetty"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "G16",
-        "time": "9:30 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "TreasureHunt",
       "image": 'https://i.postimg.cc/tgFKbVJB/TREASURE-HUNT.png',
-      "aboutEvent": "Mehendi art is a unique and traditional gift of Indian culture.With mehendi let your creativity run wild and the design comes to life! Come celebrate with us,both the beauty and culture through the art of mehendi.",
+      "aboutEvent": "It is a game in which each person or team attempts to be first in finding something that has been  hidden, using written directions or clues.",
+     
       "eventDetail": [
-        "There must be 2 participants in a group.",
-        "Mehendi should be applied on both the side of one hand.",
-        "Participants must be present on time."
+        "1000/team||Beg ,Borrow and steal.||Members: 4 member team"
       ],
       "rules": [
-        "Time:60 min",
-        "Cones must be brought by the participants.",
-        "Tissues/napkins must brought by participants.",
-        "Participants should get a partner to apply mehendi.",
-        "In case participant arrives late to the event ,no extra time is given.",
-        "Judges decision is final."
+        "Do not open and look at the clues prior to the announcement that the hunt has started.",
+         "Teams must travel on foot.",
+         "Teams must stay together.",
+         "Teams are free to utilize resources which exist independently of the treasure hunt.",
+        " Teams can not use smartphones or mobile internet devices.",
+         "Answers on the score sheet should be legible and exact.",
+         "All team members must be present when turning in your score sheets.",
+         "Proper decorum is mandatory and judges decision will be final."
       ],
-      "judgingCriteria": [
-        "Participants must apply mehendi with 60 min on both the side of one hand.Hand should be completely filled with design.Design must be attractive and unique.Cleanness must be maintained."
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Ayesha", "phone": "8431981515" },
-          { "name": "Sajna", "phone": "9380753420" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Ayesha", "Nalini"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "SLH02",
-        "time": "11:30 AM – 12:30 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Snake Ladder",
       "image": 'https://i.postimg.cc/c1TN6Ymj/SNAKE-LADDER.png',
-      "aboutEvent": "Rangoli is drawn in different states with different names and on different themes every region has its own unique way of representing their traditions, folklore and practices. Now it is your chance to showcase your creative skills by participating in the Rangoli Making Competition.",
-      "eventDetail": ["Time duration: 2 hours"],
+      "aboutEvent": "Players roll a die and navigate the board. Landing on a ladder advances a player to a square further  up the board, while landing on a snake means they have to go back to a previous square. The aim of the game is to reach the final square.",
+      "eventDetail": ["500/per team||Members: 2 players per team"],
       "rules": [
-        "Two participants in a team.",
-        "There will be only one round of competition.",
-        "Teams will be responsible for arrangement of the material required to prepare Rangoli.",
-        "Only Rangoli color powders can be used for making Rangoli.",
-        "The participants will not be allowed to refer to any printed material etc. for preparing Rangoli."
+        "Each team must have 2 players.",
+       " One player will throw dice and other will be acting as token",
+       "Each player puts their token in the 'start here’ space.",
+       " If your counter lands at the bottom of a ladder, you can move up to the top of the ladder.",
+       "If your counter lands on the head of a snake, you must slide down to the bottom of the snake.",
+       "The first player to get to the space that says home is the winner",
+       "Proper decorum is mandatory.",
+       "Judges decision will be final.",
       ],
-      "judgingCriteria": [
-        "Overall Appearance and appeal",
-        "Details and Clarity in Rangoli art.",
-        "Colour combination.",
-        "Creativity."
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Savi S Chowta", "phone": "8971028125" },
-          { "name": "Hitha S Chowta", "phone": "8971064125" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Vinitha D’souza", "Shree Raksha"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "2ND Floor Cubical",
-        "time": "11:30 AM – 1:30 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Live Ludo",
       "image": 'https://i.postimg.cc/Z5Xm4Sc5/LIVE-LUDO.png',
-      "aboutEvent": "The Objective behind to organize Quiz competition is to evaluate the knowledge of theparticipants within academics as well as beyond academics and to make them familiar with the prospects of quizzes and the objectivity of the questions.",
-      "eventDetail": [
-        "Each team would be given a set of question papers containing 20 objective type questions",
-        "Time limit - 20 minutes",
-        "Only Qualified Teams will be selected for FINAL ROUNDS",
-        "In case of tie between 2 or more teams, further 3 questions would be asked for final selection."
+      "aboutEvent": "Ludo is a strategy board game , in which the players race their four tokens from start to finish according to the rolls of a single die.",
+      
+      "eventDetail": ["Members: 5 players per team ||1250/team ",
+       
       ],
       "rules": [
-        "Two participants in a team.",
-        "The medium of the questions will be only English.",
-        "There will be certain time span for each round.",
-        "The participants are not permitted to use cell phones or other electronic devices."
+        " Players take turns in a clockwise order; 6 throw of the dice starts.",
+         "Each throw, the player decides which piece to move. A piece simply moves in a clockwise direction around the track given by the number thrown. If no piece can legally move  according to the number thrown, play passes to the next player.",
+         " A throw of 6 gives another turn.",
+         "A player must throw a 6 to move a piece from the starting circle onto the first square on the  track. The piece moves 6 squares around the circuit beginning with the appropriately coloured start square (and the player then has another turn).",
+        " If a piece lands on a piece of a different colour, the piece jumped upon is returned to its  starting circle.",
+        "If a piece lands upon a piece of the same colour, this forms a block. This block cannot be passed or landed on by any opposing piece.",
+        " Winning - The first person to move all 4 pieces into the home triangle wins.",
+        " Proper decorum is mandatory and judges decision will be final.",
       ],
-      "judgingCriteria": ["Quiz master's decision is final."],
+      
       "coordinators": {
         "students": [
-          { "name": "Thafsira", "phone": "8660152454" },
-          { "name": "Rafthan", "phone": "7892133260" },
-          { "name": "Mishriya", "phone": "8197330804" },
-          { "name": "Lafifa", "phone": "9632152452" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Prabha"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "Seminar hall",
-        "time": "2:00 PM – 3:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Ipl-Auction",
       "image": 'https://i.postimg.cc/5tvVtR7q/IPL-AUCTION.png',
-      "aboutEvent": "War of words is a process that involves formal discourse on a particular topic, often including a moderator and audience.",
+      "aboutEvent": "Cricket is an emotion and everything else is just a game, so let’s build your ‘dream team’ to acquire  the cup of victory. A championship where you tactically make bids and buy the players that will take  you closer to the trophy. So, unite your love for cricket with your expertise in foretelling and financial management",
       "eventDetail": [
-        "Round 1: Preliminary Round",
-        "Topics will be given 5 minutes before the first round.",
-        "The teams have to present their views on the topic (2+1 minutes).",
-        "Round 2: Finals",
-        "Top 6 teams will compete in a debate face-off (5+1 minutes).",
-        "Topics will be given on spot."
+
       ],
       "rules": [
-        "Participants can enter the event only as a team of 2 members.",
-        "Registrations can be done prior to the event.",
-        "The mover will get one-minute extra time for winding up.",
-        "Medium of expression should be English.",
-        "Topic of the debate will be announced on spot.",
-        "Reading from paper and vulgar words is strictly prohibited"
+           "The entire event will be divided in two round:",
+            "Each team can have maximum of 4 members.",
+            "Each player would have base price as starting price for bidding.",
+            " Each player from the auction round will have same ratings from 0 to 100.",
+            "Each team will have 100 crores given to them as virtual money to spend for the auction.",
+             "Team with the highest sum of player ratings will be the winner.",
+             " Proper decorum is mandatory.",
+              "Judges decision would be final.",
       ],
-      "judgingCriteria": [
-        "Participants will be judged based on their organisation of thoughts, clarity, reasoning, research and speaking skills.",
-        "The decision of the judge will be final."
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Sushmitha", "phone": "8296362429" },
-          { "name": "Pooja R Shettigar", "phone": "9113276328" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Pallavi", "Sangeetha"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "SLH01",
-        "time": "2:00 PM – 3:00 PM"
+        "day": "",
+        "venue": "",
+        "time": " – "
       }
     },
     {
       "name": "",
       "alias": "Gully Cricket",
       "image": 'https://i.postimg.cc/Kvvx5Qjx/GULLY-CRICKET.png',
-      "aboutEvent": "Face paint is a work of art that makes you look like a canvas. Sheets and walls may be too mainstream for your artistic skills, so why not try something different? Introducing ‘Face Art’! Step out of your comfort zone and show off your creativity by painting on the face of your teammate. Get ready to go all out and impress us with your skills!",
+      "aboutEvent": "Gully cricket is an unofficial form of cricket originating mainly from India",
       "eventDetail": [
-        "Team Size: 2 Members",
-        "Judges’ and Organizers' decisions will be final."
+       "Members:- 7 members including one girl mandatory||1500/team"
       ],
       "rules": [
-        "Time limit is 90 minutes.",
-        "The theme will be given on the spot, and the participants can refer to internet",
-        "Sources only during the first ten minutes.",
-        "Participants should bring their own colours, brushes, etc.",
-        "Use of stencils, stamps and masks are not allowed.",
-        "Participants should bring own partners to face paint."
+         "It is mandatory to have one girl in team.",
+         "Only Captain, Vice captain and girls can hit sixes.",
+         "First ball = Trial ball.",
+        " If the girl is a bowler, then the batsman has to play with his opposite batting stance.",
+         "If the girl bats then the bowler will have to bowl underarm.",
+         "If the ball goes far out of reach or is lost then the batsman is held responsible.",
+         "Proper decorum is mandatory.",
+        " Judges decision will be final",
       ],
-      "judgingCriteria": [
-        "Creativity and originality.",
-        "Quality - composition, design elements and colour – do they all work well together",
-        "Clarity of them",
-        "Overall artistic impression"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Keerthi", "phone": "6361875024" },
-          { "name": "Chaithra", "phone": "8971137290" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Akshatha N M", "Raksha"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "SLH02",
-        "time": "2:00 PM – 3:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Futsal",
       "image": 'https://i.postimg.cc/ZK7Zs3v3/FUTSAL.png',
-      "aboutEvent": "Style is a way to say who you are without having to speak.” It is an event that celebrates fashion, creativity, and individuality. Bring your creativity and skills to the runway as you showcase your unique designs to walk the walk like a pro.",
-      "eventDetail": [
-        "Participants get to walk the runway, displaying their outfits and accessories in front of a panel of judges and an enthusiastic audience."
+      "aboutEvent": "Futsal is a variation of mini football. It is played between two teams of five players each, one of whom is the goalkeeper.",
+      
+      "eventDetail": ["Minimum 5 players Maximum 8 players || 1500/team",
+      
+     
       ],
       "rules": [
-        "It is an individual event.",
-        "The participants must wear the designated clothing and explain the details about their attire.",
-        "The participants must walk down the ramp individually, and each participant will be given a maximum of two minutes to complete their walk.",
-        "Any behavior deemed inappropriate by the organizers or the judges will result in immediate disqualification.",
-        "The judges' decision will be final, and no appeals or objections will be entertained."
+        " There’ll be a total of 8 players in each team playing on a size of 5-a-side football pitch",
+         "All the teams must take the field with 5 players, the remaining 3 will be the rolling substitutes",
+        "Each match will be of 33 minutes in total, leading with 15 minutes halves and a 3 minutes break in between",
+        "In case of tie, 5 penalties will be announced to each team. There’ll be knock out matches",
+        "All players must wear the same colour jerseys other than the keeper.",
+        "Any kind of misbehaviour will lead to direct disqualification.",
+        "Wearing any ornaments or piercings is strictly prohibited.",
+        "Normal outside and corner kicks are allowed. There are No offside.",        
+
       ],
-      "judgingCriteria": [
-        "Style and Fashion Sense",
-        "Confidence and stage presence",
-        "Walk and posture",
-        "Creativity and originality",
-        "Stage presence and audience engagement",
-        "Overall Impact"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Aslam", "phone": "9739746978" },
-          { "name": "Nireeksha", "phone": "9980302731" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Deeksha K R", "Harikanth"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "21st May",
-        "venue": "Concert Stage",
-        "time": "9:00 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Basketball",
       "image": 'https://i.postimg.cc/xjP9HB06/BASKETBALL.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": "3x3 basketball is a variation of basketball played three-a-side, with one backboard and in a half-court setup",
+      
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+        "800/team || Minimum 3 Team members  Maximum 4 Team members"
+        
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "Team Roaster : 4 players ,3+1 substitute",
+        " Game duration & Score Limit : 1x 10 minutes, regular playing time score limit: 21 points.",
+        "Free throw(s) following a shooting foul : 1 free throw ,2 free throws ,if foul committed  behind the arc.",
+       
+        " Foul limit per team : 6 teams fouls Penalty for team fouls 7,8 & 9 : 2 free throws.",
+        "  In dead ball situations, prior to the check ball.",
+        " The substitute can enter the game after his teammate steps off the court behind the end line opposite the basket.",
+        "Substitutions required  opposite the basket.",
+       
+        " Substitutions require no action from the referees or table officials.",
+        " Proper decorum is mandatory and judges decision will be final.",
+       
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Chess",
       "image": 'https://i.postimg.cc/P5CHgx17/CHESS.png',
-      "aboutEvent": "BGMI is a player versus player shooter game in which up to one hundred players fight in a battle royale, a type of large-scale last man standing deathmatch where players fight to remain the last alive. The last person or team alive wins the match",
+      "aboutEvent": "Chess is an abstract strategy game. It is played on a square chessboard with 64 squares arranged in an eight-by-eight grid. At the start, each player one controlling the white pieces,the other controlling the black pieces controls sixteen pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns The object of the game is to checkmate",
+    
+
+     
       "eventDetail": [
-        "First round will be Erangel top 4 teams will be selected for the final round from each lobby,",
-        "Final round will be on Livik map."
+       "250/player|| Members: 1 player"
       ],
       "rules": [
-        "All players must be present 15 minutes prior to the event",
-        "No team ups are allowed. if found your team will be eliminated",
-        "No emulators , mod and beta mode to be used.",
-        "Maps to be downloaded before the event Erangel, Livik and all TDM maps.",
-        "Should bring your own accessories(earphone, power bank, charger etc).",
-        "No quarelling with co-ordinators.",
-        "No leaving match room once the match starts and no rematch will be hosted.",
-        "Once your team gets eliminated, you will have to leave the venue immediately.",
-        "Wifi will be provided."
+        "Tournament format will be finalized after the possible number of participants is determined.",
+         "Understand Check and the ways to get out of check (move, block, capture).",
+        " Understand the “touch-move” rule.",
+         "Understand 50 moves draw rule i.e. the game can be claimed drawn after 50 moves if there are no pawn moves or no captures.",
+        
+         "The game can be claimed drawn if the exact same position is repeated thrice.",
+        " No outside assistance during games is allowed.",
+         "Proper decorum is mandatory.",
+        " Judges decision is final.",
       ],
-      "judgingCriteria": ["The last team to survive wins."],
+     
       "coordinators": {
         "students": [
-          { "name": "Mohammed mufeez", "phone": "7624852700" },
-          { "name": "Sufiyan mannah", "phone": "7022840817" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Ganapathi"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "MAD Lab-1ST Floor",
-        "time": "1:00 PM – 4:30 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     

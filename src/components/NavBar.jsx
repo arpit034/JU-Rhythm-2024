@@ -10,7 +10,7 @@ function NewNavBar() {
     <>   
      <Navbar fluid rounded className=' bg-transparent '>
       <Navbar.Brand href="">
-        <Image src="https://i.postimg.cc/Hk1ytJ5H/UNI-LOGO-1.png" width={100} height={100} alt='JECRC LOGO' className='w-40 ml-16'/>
+        <Image src="https://i.postimg.cc/J4pxPVkX/Jecrc-logo-gradient.png" width={100} height={100} alt='JECRC LOGO' className='w-40 ml-16'/>
       </Navbar.Brand>
       <div className="flex md:order-2">
         <Navbar.Toggle />

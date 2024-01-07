@@ -243,7 +243,7 @@ export default function Technical() {
       }
     },
     {
-      "name": "Face-off-Frenzy",
+      "name": "",
       "alias": "Clash-N-Clatter",
       "image": 'https://i.postimg.cc/5N6PxMGT/Clash-N-Clatter.png',
       "aboutEvent": "Face paint is a work of art that makes you look like a canvas. Sheets and walls may be too mainstream for your artistic skills, so why not try something different? Introducing ‘Face Art’! Step out of your comfort zone and show off your creativity by painting on the face of your teammate. Get ready to go all out and impress us with your skills!",
@@ -279,7 +279,7 @@ export default function Technical() {
       }
     },
     {
-      "name": "Ramp riot",
+      "name": "",
       "alias": "Robosoccer",
       "image": 'https://i.postimg.cc/XNZHWbth/Robo-Soccer.png',
       "aboutEvent": "Style is a way to say who you are without having to speak.” It is an event that celebrates fashion, creativity, and individuality. Bring your creativity and skills to the runway as you showcase your unique designs to walk the walk like a pro.",
@@ -315,7 +315,7 @@ export default function Technical() {
       }
     },
     {
-      "name": "Jazz Off",
+      "name": "",
       "alias": "Bridge-O-Mania",
       "image": 'https://i.postimg.cc/BQLCrBPG/Bridge-O-Mania.png',
       "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
@@ -346,7 +346,132 @@ export default function Technical() {
       }
     },
     {
-      "name": "BGMI",
+      "name": "",
+      "alias": "Robotronix",
+      "image": 'https://i.postimg.cc/pT6yzHBB/Robotronix.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+    {
+      "name": "",
+      "alias": "Snap-Sketch",
+      "image": 'https://i.postimg.cc/zDyFMD48/Snap-Sketch.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+
+    {
+      "name": "",
+      "alias": "Boathon",
+      "image": 'https://i.postimg.cc/QCKCqy4Z/Botathon.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+    { 
+      "name": "",
+      "alias": "Mind-Mania",
+      "image": 'https://i.postimg.cc/0rgQX0FM/Mind-Mania.png',
+      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "eventDetail": [
+        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+      ],
+      "rules": [
+        "Team should consist of two members",
+        "All rounds will be related to Bollywood music",
+        "Specific rules for the round will be announced during the event.",
+        "At the end of each round 2 teams with less score will be disqualified.",
+        "There will be time limit of 2 minutes for every question asked"
+      ],
+      "judgingCriteria": [
+        "A team will be judged on the basis of right answers given by the team"
+      ],
+      "coordinators": {
+        "students": [
+          { "name": "Narmeen Noor", "phone": "9113616902" },
+          { "name": "Suzan", "phone": "9606185687" }
+        ],
+        "faculty": ["Praveen"]
+      },
+      "schedule": {
+        "day": "20th May",
+        "venue": "Seminar Hall",
+        "time": "1:00 PM – 2:00 PM"
+      }
+    },
+    {
+      "name": "",
       "alias": "RoboRush",
       "image": 'https://i.postimg.cc/130DSC9b/RoboRush.png',
       "aboutEvent": "BGMI is a player versus player shooter game in which up to one hundred players fight in a battle royale, a type of large-scale last man standing deathmatch where players fight to remain the last alive. The last person or team alive wins the match",
@@ -413,7 +538,7 @@ export default function Technical() {
     },
    
     {
-      "name": "Wild promotions",
+      "name": "",
       "alias": "Bgmi",
       "image": 'https://i.postimg.cc/HLH47GZp/BGMI.png',
       "aboutEvent": " *Creativity is seeing what others see and thinking what no one else thought.*- Albert Einstein. It’s time to think out of the box and make creativity flow all over the place. Unleash the actor, comedian, writer and entertainer within you to make the best advertisement!",
@@ -454,7 +579,7 @@ export default function Technical() {
       }
     },
     {
-      "name": "Bug Bash",
+      "name": "",
       "alias": "Fifa",
       "image": 'https://i.postimg.cc/XY9kJNgH/FIFA.png',
       "aboutEvent": "Hello, clever clogs! Collaborate with your best buddy to code your way out of the problem statements. Get ready for an epic battle of intelligence as you try to figure out the best solution for the given problem and code it.",
