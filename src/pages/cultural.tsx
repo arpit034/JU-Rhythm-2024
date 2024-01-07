@@ -507,9 +507,9 @@ export default function Technical() {
       }
     },
     {
-      "name": "Music Mania",
-      "alias": "https://i.postimg.cc/tCBX8LyC/music-mania.png",
-      "image": '',
+      "name": "",
+      "alias": "Music Mania",
+      "image": 'https://i.postimg.cc/RFwmgx1m/music-mania.png',
       "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
       "eventDetail": [
         "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
