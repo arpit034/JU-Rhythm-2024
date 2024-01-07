@@ -12,13 +12,13 @@ export default function EventsCardSports(props) {
             <p className='team2 text-3xl'>{props.title}</p>
             </div>
             <div className='flex gap-6 p-4 text-center justify-center'>
-            <div className='team2 text-xl border-2 px-2 rounded-3xl border-white '>
+            <button className='team2 text-xl border-2 px-2 rounded-3xl '>
                 <a href='https://rzp.io/l/Yftsla8ODE'>
                     Register Now
                 </a>                    
-                </div>
-            <div className=' text-xl border-2 px-2 rounded-3xl border-white'>
-                <button onClick={()=>{setShowModal(true)}} className='team2'>
+                </button>
+            
+                <button onClick={()=>{setShowModal(true)}} className='team2 text-xl border-2 px-2 rounded-3xl border-white'>
                   Event Details
                 </button>
                 {showModal && 
@@ -36,7 +36,7 @@ export default function EventsCardSports(props) {
             </div>
             </div>
         </div>
-        </div>
+      
     </>
   )
 }
