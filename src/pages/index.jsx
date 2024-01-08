@@ -184,7 +184,8 @@ export default function PreviewPage() {
 
                   <h1 className="foot  text-[#FCEE09]  dark:text-white  text-6xl   md:text-6xl xl:text-8xl ">JU Rhythm<span className=" foot text-primary text-[#FCEE09]">'24</span></h1>
                   <h4 className="mt-8 text-white dark:text-gray-450 text-xl text-align:left ">
-                  JECRC University has its campus in Jaipur the capital city of Rajasthan and the famous tourist and business city in north-western India. The 32-acre JU campus combines unique classical architecture and thoughtful layout and landscaping to create a perfect learning ecosystem. The campus is located around the prime industrial and institutional hub of Jaipur and is well connected with all parts of the city. JECRC University is driven by the spirit of innovation-led research. This is spelt out in infrastructure as well as practices. The multifaceted research encompasses subject-specific exploration as well as the contexts of the business environment in which our students will operate and perform. JECRC is known for a strong research culture and close industry linkages.</h4>
+                  Board on an extraordinary convergence of technology, culture, sports and media, presented with pride by JECRC University in the form of JU Rhythm '24! JU RHYTHM: Beats of Imagination is one of the biggest fests of Rajasthan. This year's spectacle transcends the conventional CYBER PUNK experience; it is a commitment to delivering unparalleled excitement and innovation resonating across the nation. 
+                  JU RHYTHM is not just a fest; it is a promise of excellence and a showcase of pure energy. Prepare yourself for an unforgettable experience that goes beyond the ordinary. Join us in this unparalleled festivity where promises materialise into reality, and innovation knows no bounds.</h4>
                   <div className='flex justify-between mt-10 text-align:left'>
                     <div className="flex  space-x-2">
                       <svg className="w-6 h-6 text-[#FCEE09]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -267,8 +268,7 @@ export default function PreviewPage() {
 
                 </div>
             </section>
-          <Footer/>
-        
+          <Footer/>        
       
     </>
     

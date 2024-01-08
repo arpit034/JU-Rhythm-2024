@@ -15,7 +15,7 @@ export default function Technical() {
   
       "alias": "Algo Vs Logic",
       "image": 'https://i.postimg.cc/wBV5XWZD/Algo-vs-Logic.png',
-      "aboutEvent": "	In this event, we take you on a trip back to the basics of any coding language: data structures and algorithms.",
+      "aboutEvent": "In this event, we take you on a trip back to the basics of any coding language: data structures and algorithms.",
       "eventDetail": [
         "Participation: Individual ||  Registration Fee: 300 Rs. Per Head "
       ],
@@ -44,17 +44,18 @@ export default function Technical() {
       "alias": "Cyberbytes",
       "image": 'https://i.postimg.cc/4dW5g81X/Cyberbytes.png',
       "aboutEvent": "	A series of problems related to cyber security will be solved using various hacking and analysis tools.",
-      "eventDetail": ["Participation: Team (1-2)|| Registration Fee: 600 Rs. Per Team "
+      "eventDetail": ["Participation: Team (1-2) || Registration Fee: 600 Rs. Per Team "
      
       ],
       "rules": [
         	"Participants must adhere to the specified reporting time and location.",
-	"Internet access is permitted within designated time intervals for participants.",
-	"The competition comprises 4 rounds, each featuring problems from specific domains.",
-	"The Judging Committee may request explanations or proof of evidence for solutions.",
-	"Correct solutions receive rewards, while incorrect explanations or solutions incur penalties.",
-	"Rules for rewards and penalties are disclosed on the event day.",
-	"Team leaders, elected from each team, are the sole representatives allowed to explain and present solutions.",
+	        "Internet access is permitted within designated time intervals for participants.",
+	         "The competition comprises 4 rounds, each featuring problems from specific domains.",
+	         "The Judging Committee may request explanations or proof of evidence for solutions.",
+	         "Correct solutions receive rewards, while incorrect explanations or solutions incur penalties.",
+	          "Rules for rewards and penalties are disclosed on the event day.",
+	          "Team leaders, elected from each team, are the sole representatives allowed to explain and present solutions.",
+            "Participants are responsible for their laptops, pen drives, storage drives, and power cords, with the university and event coordinators not accountable for connectivity and power issues."
 	
 
         
@@ -174,451 +175,435 @@ export default function Technical() {
       "name": "",
       "alias": "Robowar",
       "image": 'https://i.postimg.cc/DmkbksR2/Robo-War-Elite.png',
-      "aboutEvent": "",
+      "aboutEvent": "The main aim is to design a machine that can fight one another as well as maintain to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wired or wireless robot.  ArenaDimensions:  Total arena dimensions: 20X20 feet,Playing arena dimensions: 17X17 feet, Knock-out arena dimensions: 3X3 feet The base of the arena is made up of a metal sheet of width 5 mm,The walls of the arena will be made up of polycarbonate film of width 6 mm.",
       "eventDetail": [
-        "Each team would be given a set of question papers containing 20 objective type questions",
-        "Time limit - 20 minutes",
-        "Only Qualified Teams will be selected for FINAL ROUNDS",
-        "In case of tie between 2 or more teams, further 3 questions would be asked for final selection."
+        "Participation: Team (1-6) ||   Registration Fee: 1500 Rs. Per Team ",
+      
+        
       ],
       "rules": [
-        "Two participants in a team.",
-        "The medium of the questions will be only English.",
-        "There will be certain time span for each round.",
-        "The participants are not permitted to use cell phones or other electronic devices."
+        	"The competition will be played on a knock-out basis.",
+	"The maximum duration of each round will be 2 minutes. Any team that is not ready at the time specified will be disqualified from the competition automatically",
+	"If the bot is unable to displace from its position for more than 30 sec then the bot would be disqualified from the particular round.",
+	"No AC power supply will be provided for the bots, participants are requested to use only a DC power supply.",
+	"The machine would be checked for its safety before the competition and would be Discarded if found unsafe for other participants and spectators",
+	"The organizers reserve the right to change any or all of the above rules as they deem fit",
+"	Changes in rules, if any will be highlighted on the website and notified to the registered teams.",
+	"Violation of any of the above rules will lead to disqualification.",
+
+        
       ],
-      "judgingCriteria": ["Quiz master's decision is final."],
+    
       "coordinators": {
         "students": [
-          { "name": "Thafsira", "phone": "8660152454" },
-          { "name": "Rafthan", "phone": "7892133260" },
-          { "name": "Mishriya", "phone": "8197330804" },
-          { "name": "Lafifa", "phone": "9632152452" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Prabha"]
+        "faculty": [""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "Seminar hall",
-        "time": "2:00 PM – 3:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
-      "name": "War of Words",
+      "name": "",
       "alias": "Amphibot",
       "image": 'https://i.postimg.cc/tJ7zChrW/Amphibot.png',
-      "aboutEvent": "War of words is a process that involves formal discourse on a particular topic, often including a moderator and audience.",
-      "eventDetail": [
-        "Round 1: Preliminary Round",
-        "Topics will be given 5 minutes before the first round.",
-        "The teams have to present their views on the topic (2+1 minutes).",
-        "Round 2: Finals",
-        "Top 6 teams will compete in a debate face-off (5+1 minutes).",
-        "Topics will be given on spot."
+      "aboutEvent": "Design a manually controlled wired or wireless ROBOT that can be operated manually within the specified dimensions and can travel through both land and water. The robot that will complete the specified task in the least time will be the winner.",
+      "eventDetail": [ "Participation: Team (1-3) || Registration Fee: 750 Rs. Per Team",   
       ],
       "rules": [
-        "Participants can enter the event only as a team of 2 members.",
-        "Registrations can be done prior to the event.",
-        "The mover will get one-minute extra time for winding up.",
-        "Medium of expression should be English.",
-        "Topic of the debate will be announced on spot.",
-        "Reading from paper and vulgar words is strictly prohibited"
+        "The robot starts at the beginning of the track when the timer begins",
+        "To stay in the game, the robot must adhere to the track; otherwise, it restarts from the last crossed checkpoint without stopping the timer.",
+        "Teams are rewarded 5 points for each successfully cleared obstacle, and a deduction of 3 points is applied for any skipped hurdles. Penalties are added to the total time.",
+        "The timer stops when the robot crosses the finish line.",
+        "Specific scoring and penalty rules will be disclosed on the event day.",
+        "Only the elected robot handler from each team is allowed to control the robot during the game; other team members must stay outside the game zone.",
+        "The time limit for completion is approximately 15 minutes, with one trial allowed on the track. Crossing the water hurdle must be completed within 3 minutes, or a 15-second penalty is applied.",
+        "Teams can choose to skip one hurdle on the entire track, and only DC power supply is permitted; no AC power supply will be provided."
       ],
-      "judgingCriteria": [
-        "Participants will be judged based on their organisation of thoughts, clarity, reasoning, research and speaking skills.",
-        "The decision of the judge will be final."
-      ],
+     
       "coordinators": {
         "students": [
-          { "name": "Sushmitha", "phone": "8296362429" },
-          { "name": "Pooja R Shettigar", "phone": "9113276328" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Pallavi", "Sangeetha"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "SLH01",
-        "time": "2:00 PM – 3:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Clash-N-Clatter",
       "image": 'https://i.postimg.cc/5N6PxMGT/Clash-N-Clatter.png',
-      "aboutEvent": "Face paint is a work of art that makes you look like a canvas. Sheets and walls may be too mainstream for your artistic skills, so why not try something different? Introducing ‘Face Art’! Step out of your comfort zone and show off your creativity by painting on the face of your teammate. Get ready to go all out and impress us with your skills!",
+      "aboutEvent": "The game aims at clashing and clattering of two solid bots connected by rope such that they try to pull each other in the famous game ‘TUG of WAR’. The bot wins if it drags the other bot across the center line.",
       "eventDetail": [
-        "Team Size: 2 Members",
-        "Judges’ and Organizers' decisions will be final."
+       "Participation:  Team (1-2) || Registration: 600 Rs. Per Team"
       ],
       "rules": [
-        "Time limit is 90 minutes.",
-        "The theme will be given on the spot, and the participants can refer to internet",
-        "Sources only during the first ten minutes.",
-        "Participants should bring their own colours, brushes, etc.",
-        "Use of stencils, stamps and masks are not allowed.",
-        "Participants should bring own partners to face paint."
+       "Teams must consist of a minimum of 1 and a maximum of 2 participants.",
+       "Teams can include students from different colleges, each with valid college IDs.",
+       "Individuals cannot be part of more than one team.",
+       "During battles, contestants are prohibited from physically touching their bots.",
+       "Only one team member is permitted to control the bot.",
+       "If the bot stops working during the battle, one chance, lasting one minute, is given to fix the issue, with the battle time paused and automatically resuming after the allotted time.",
+       "If the bot fails again, time continues without stopping, and the team can fix their bot. Fixing time is added to the bot's time, but if it takes more than 2 minutes, disqualification occurs.",
+       "The wire must remain slack, and warnings or point deductions are issued for any violations. An overhead camera provided by organizers may record the event."
       ],
-      "judgingCriteria": [
-        "Creativity and originality.",
-        "Quality - composition, design elements and colour – do they all work well together",
-        "Clarity of them",
-        "Overall artistic impression"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Keerthi", "phone": "6361875024" },
-          { "name": "Chaithra", "phone": "8971137290" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Akshatha N M", "Raksha"]
+      
       },
       "schedule": {
-        "day": "19th May",
-        "venue": "SLH02",
-        "time": "2:00 PM – 3:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
-      "alias": "Robosoccer",
+      "alias": "Robo Soccer",
       "image": 'https://i.postimg.cc/XNZHWbth/Robo-Soccer.png',
-      "aboutEvent": "Style is a way to say who you are without having to speak.” It is an event that celebrates fashion, creativity, and individuality. Bring your creativity and skills to the runway as you showcase your unique designs to walk the walk like a pro.",
+      "aboutEvent": "Design a manually controlled robot wired or wireless that can play soccer.",
       "eventDetail": [
-        "Participants get to walk the runway, displaying their outfits and accessories in front of a panel of judges and an enthusiastic audience."
+        "Participation: Team (1-2) || Registration Fee: 600 Rs. Per Team"
       ],
       "rules": [
-        "It is an individual event.",
-        "The participants must wear the designated clothing and explain the details about their attire.",
-        "The participants must walk down the ramp individually, and each participant will be given a maximum of two minutes to complete their walk.",
-        "Any behavior deemed inappropriate by the organizers or the judges will result in immediate disqualification.",
-        "The judges' decision will be final, and no appeals or objections will be entertained."
+        "The game is one-on-one, utilizing 3-inch smiley balls.",
+        "Robots start in separate halves of an 8 feet by 4 feet wooden ply arena with a 15 cm wide goal post on each side.",
+        "One team member is the designated robot handler, controlling the robot during the game, while another handles the wire and battery.",
+        "Only designated team members are allowed within the game zone; others must stay outside.",
+        "Teams aim to score goals by pushing the ball, with the team scoring more goals declared the winner.",
+        "If the ball goes out of the arena, it is placed in the center, and the match resumes.",
+        "In case of a tie, each team takes three penalties.",
+        "The match duration, penalties, and other specific rules are announced on the event day. Only DC power supply is allowed for the bots."
       ],
-      "judgingCriteria": [
-        "Style and Fashion Sense",
-        "Confidence and stage presence",
-        "Walk and posture",
-        "Creativity and originality",
-        "Stage presence and audience engagement",
-        "Overall Impact"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Aslam", "phone": "9739746978" },
-          { "name": "Nireeksha", "phone": "9980302731" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Deeksha K R", "Harikanth"]
+      
       },
       "schedule": {
-        "day": "21st May",
-        "venue": "Concert Stage",
-        "time": "9:00 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Bridge-O-Mania",
       "image": 'https://i.postimg.cc/BQLCrBPG/Bridge-O-Mania.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": "To design and construct the most efficient bridge within the specifications.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+        "Participation: Team (1-3) || Registration Fee: 750 Rs. Per Team"
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "Bridges must be constructed solely from provided Pop-sticks (150) and adhesives, with no use of other materials.",
+        "Participants receive an equal amount of fevicol in a container.",
+        "The bridge may not be stained, painted, or coated, and adhesives are only permitted to join Pop-sticks without enhancing their surface strength.",
+        "Participants have the discretion to choose the type of bridge, but pop-sticks must not be joined in more than three layers at any point.",
+        "Loading is done below the bridge using a 5cm x 10cm loading plate-connecting hook system.",
+        "Bridge elements must be crafted from common wooden sticks with specified dimensions and tolerances.",
+        "Testing involves noting down the dead weight of the bridge before evaluation.",
+        "Disqualification may occur if the bridge exceeds the maximum weight limit, and adherence to construction and material requirements is essential.",
+        
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+      
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "Robotronix",
       "image": 'https://i.postimg.cc/pT6yzHBB/Robotronix.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": "Robots will follow a line from a starting location to a finish line the winner that accomplishes that goal in the shortest time is the winner.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+        "Participation: Team (1-3) Registration Fee: 750 Rs. Per Team"
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "Each team is allowed only one robot.",
+        "Timing for the robot's performance is measured from the start to the finish.",
+        "Stopwatch is used to measure the time taken by the robot.",
+        "Disqualification occurs if the robot moves completely off the arena surface.",
+        "Leaving the arena is defined as any wheel, leg, or truck moving completely off the surface.",
+        "The focus is on the robot's continuous presence within the defined arena.",
+        "Time measurement begins when the robot starts and ends when it finishes its task.",
+        "Precision in robot movement within the arena is crucial to avoid disqualification."
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+      
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
-      "alias": "Snap-Sketch",
+      "alias": "Snap & Sketch",
       "image": 'https://i.postimg.cc/zDyFMD48/Snap-Sketch.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": "An image will be projected for 2 minutes and then the participant is requested to make a replica of it.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+        "Participation: Individual || Registration Fee: 250 Rs. Per Head"
+
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "The total timeline for the event is 1 hour.",
+        "Final decisions rest with the organizing committee.",
+        "Team disqualification follows any misbehavior by a team member.",
+        "Immediate disqualification occurs for any damage to college property.",
+        "Participants are required to bring their laptops for the event.",
+        "The winner is determined based on the team with the most accurate replica of the shown image.",
+        "The 1-hour timeline sets the duration for the competition.",
+        "Adherence to rules is crucial to avoid disqualification, and the organizing committee's decisions are conclusive."
+        
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+        
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
 
     {
       "name": "",
-      "alias": "Boathon",
+      "alias": "Code Bot",
       "image": 'https://i.postimg.cc/QCKCqy4Z/Botathon.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": "This event is your chance to dive into the exciting world of artificial intelligence and machine learning (AI/ML) by building your AI-powered bot. This will provide you with the essential knowledge and skills to create bots that can solve real-world problems.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+        "Participation: Team (1-2) || Registration Fee: 500 Rs. Per Team"
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
+        "Participants must adhere to the specified reporting time and location.",
+        "Internet access is permitted within a designated time interval for participants.",
+        "The Judging Committee reserves the right to request explanations or proof of evidence for provided solutions.",
+        "Decisions made by the Organizing Committee regarding rewards, penalties, gameplay, timings, and participation are final and must be respected by all teams.",
+        "Participants are responsible for bringing their laptops, pen drives or storage drives, and power cords, along with an internet connection. The university and event coordinators are not accountable for connectivity and power issues.",
+        "It is emphasized that students ensure their devices are equipped with necessary accessories and that they are responsible for managing connectivity and power-related concerns during the competition.",
+        "A team may consist of a maximum of 2 participants and a minimum of 1 participant. Students from different educational institutes can form a team.",
+        "Each team can have 2 laptops at most and at least 1 pen drive."
       ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+       
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     { 
       "name": "",
       "alias": "Mind-Mania",
       "image": 'https://i.postimg.cc/0rgQX0FM/Mind-Mania.png',
-      "aboutEvent": "Lights, camera, action! Get ready to be swept away by the magic of Bollywood at our college fest! Do you think you have good knowledge about Bollywood. Then this is for you.",
+      "aboutEvent": "Design a manually controlled wired or wireless ROBOT that can be operated manually within the specified dimensions. The robot that will find its way towards the exit in the least time will be the winner.",
       "eventDetail": [
-        "Event will have prelims that will be conducted online and followed by 3 rounds to be conducted during yensplash."
+        "Participation: Team (1-3) || Registration Fee: 750 Rs. Per Team"
       ],
       "rules": [
-        "Team should consist of two members",
-        "All rounds will be related to Bollywood music",
-        "Specific rules for the round will be announced during the event.",
-        "At the end of each round 2 teams with less score will be disqualified.",
-        "There will be time limit of 2 minutes for every question asked"
-      ],
-      "judgingCriteria": [
-        "A team will be judged on the basis of right answers given by the team"
+        "The robot starts at the start line when the timer begins.",
+        "Continuous track adherence is crucial; failure results in restarting from the last crossed checkpoint, with the timer unaffected.",
+        "Penalties, rewards, and scoring details for obstacles are announced on the event day.",
+        "Only the elected robot handler controls the robot during the game; all other team members remain outside the game zone.",
+        "Final decisions on scoring, gameplay, and timing rest with the Organizing Committee, requiring full team respect.",
+        "Organizers may alter rules as needed, with any changes highlighted on the website and notified to registered teams.",
+        "The time limit for completion is approximately 15 minutes, with one trial allowed.",
+        "The potential between any two points on the robot should not exceed 12V."
+        
       ],
       "coordinators": {
         "students": [
-          { "name": "Narmeen Noor", "phone": "9113616902" },
-          { "name": "Suzan", "phone": "9606185687" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Praveen"]
+
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Seminar Hall",
-        "time": "1:00 PM – 2:00 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
       "alias": "RoboRush",
       "image": 'https://i.postimg.cc/130DSC9b/RoboRush.png',
-      "aboutEvent": "BGMI is a player versus player shooter game in which up to one hundred players fight in a battle royale, a type of large-scale last man standing deathmatch where players fight to remain the last alive. The last person or team alive wins the match",
+      "aboutEvent": "Max weight of bot must not exceed 4kg (excluded battery weight). || NO kind of AC power will be provided at the event. || Each team is allowed to have only one bot. || There must not be a hole on side of the mechanism attached to catch the ball and release it.",
       "eventDetail": [
-        "First round will be Erangel top 4 teams will be selected for the final round from each lobby,",
-        "Final round will be on Livik map."
+        "Participation: Team (1-2)||Registration Fee: 600 Rs. Per Team ",
+
+       
       ],
       "rules": [
-        "All players must be present 15 minutes prior to the event",
-        "No team ups are allowed. if found your team will be eliminated",
-        "No emulators , mod and beta mode to be used.",
-        "Maps to be downloaded before the event Erangel, Livik and all TDM maps.",
-        "Should bring your own accessories(earphone, power bank, charger etc).",
-        "No quarelling with co-ordinators.",
-        "No leaving match room once the match starts and no rematch will be hosted.",
-        "Once your team gets eliminated, you will have to leave the venue immediately.",
-        "Wifi will be provided."
+        "If the bot catches a RED ball, it earns 10 points.",
+	      "If the bot catches a GREEN ball, it earns 20 points. ",
+	      "If the bot catches a BLUE ball, it earns 30 points.", 
+	      "There will be a bonus 50 points ball which will be included in middle of the game.",
+        "There will be 2 flags each consists of 20 points.",
+        "Width – 250mm max",
+        "Length – 250mm max",
+        "Height – 250mm max"
+
       ],
-      "judgingCriteria": ["The last team to survive wins."],
+      
       "coordinators": {
         "students": [
-          { "name": "Mohammed mufeez", "phone": "7624852700" },
-          { "name": "Sufiyan mannah", "phone": "7022840817" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Ganapathi"]
+       
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "MAD Lab-1ST Floor",
-        "time": "1:00 PM – 4:30 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "Valorant",
       "alias": "Valorant",
       "image": 'https://i.postimg.cc/zD9dXQrf/Valorant.png',
-      "aboutEvent": "Valorant is a team-based first-person tactical hero shooter set in the near future. Players play as one of a set of Agents. In the main game mode, players are assigned to either the attacking or defending team with each team having five players on it. Agents have unique abilities, each requiring charges, as well as a unique ultimate ability that requires charging through kills, deaths, orbs, or objectives. the players have to make use of all the utils in order to defend 12 rounds and attack 12 rounds the first team to win 13 rounds win’s the match.",
+      "aboutEvent": "A 5v5 Battle Royale competitive game that requires your Skills, Ability Usage, and Aim. You Pad Up and Overcome the opponents with your IQ and Character Usage!",
       "eventDetail": [
-        "The event will be conducted on the second day of the yen-splash . match up will be made on spot, the game will be single elimination, each team will defend 12 rounds and attack 12 rounds. the first team to win 13 rounds will win the match. in case of draw at 12th round 2 more rounds will be played ."
+        "Participation: Team (6 Participants) || Registration Fee: 1200 Rs. Per Head",
+        
+        
       ],
       "rules": [
-        "Participants can bring their own accesories.",
-        "Headphones and mouse pad will not be provided by the college.",
-        "A team should contain maximum of 5 players and minimum of 4.",
-        "Personal systems are not allowed.",
-        "judges decision will be final.",
-        "No quarelling with co-ordinators.",
-        "Once your team gets eliminated, you will have to leave the venue immediately.",
-        "No team ups allowed if found spot elimination will be done."
+        "Objective: Win against opponents in the custom mode of Valorant.",
+        "Two teams, possibly from the same or different institutes, will participate.",
+        "The event follows a knockout round format.",
+        "Additional details about the event will be communicated at the venue.",
+        "The activity is conducted on the spot, making it an on-the-spot engagement.",
+        "The primary goal is victory in Valorant's custom mode.",
+        "Teams may consist of players from various institutes.",
+        "The knockout rounds add a competitive edge to the event."
       ],
-      "judgingCriteria": ["The First team to win 13 rounds will win the game."],
+  
       "coordinators": {
         "students": [
-          { "name": "Shaikh Mohammed Yaasar", "phone": "6363827044" },
-          { "name": "Zakir Mohammed", "phone": "8296478218" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Basavaraj"]
+      
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "MAD Lab-1ST Floor",
-        "time": "1:00 PM – 4:30 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
    
     {
       "name": "",
-      "alias": "Bgmi",
+      "alias": "BGMI",
       "image": 'https://i.postimg.cc/HLH47GZp/BGMI.png',
-      "aboutEvent": " *Creativity is seeing what others see and thinking what no one else thought.*- Albert Einstein. It’s time to think out of the box and make creativity flow all over the place. Unleash the actor, comedian, writer and entertainer within you to make the best advertisement!",
+      "aboutEvent": "Survive the chaos, eliminate opponents, and be the last one standing to claim the coveted title of the ultimate BGMI champion. (Battle Royale- BGMI) challenges players to navigate a shrinking play zone, scavenge for weapons, and strategize their way to victory.",
       "eventDetail": [
-        "All participants will have to come prepared and present an advertisement for a product/service of their choice.",
-        "The advertisement can be in English, Kannada, Malayalam, Tulu, or Hindi",
-        "The duration of the advertisement must be 5+2 minutes.",
-        "Theme will be Wild Promotion"
+       "Participation: Team (4 Participants) || Registration Fee: 1200 Rs. Per Team"
       ],
       "rules": [
-        "The Ad prepared by the contestants must not contain any obscene words/any subject that could hurt the sentiments of culture/language/religion/institution.",
-        "A team can consist of a maximum of 10 participants (minimum of 4 participants)",
-        "If any vulgarity is found while competing, the team may be disqualified immediately.",
-        "Violation of the rules will result in negative marking.",
-        "The decision of the judges is final and abiding.",
-        "The organizers retain the right to modify any aspect of the event being conducted.",
-        "If any music to be played for the show, the music should be uploaded to a personal pendrive and should be given to the sound system operator before respective show starts and a student should be available to play the music."
+       "Emulators are prohibited; only mobile phones and iPads are allowed for participation.",
+       "Squads are accountable for resolving their technical issues, including hardware and internet problems.",
+       "If a player is disconnected from a match, the Squad has the option to continue playing at a disadvantage.",
+       "Immediate disqualification will occur for the use of hacks or any other 3rd party software/tool.",
+       "Participants must use mobile phones or iPads exclusively; emulators are strictly forbidden.",
+       "Technical problems, including hardware and internet issues, are the responsibility of the participating squads.",
+       "Disconnected players in a match can result in the squad continuing to play, albeit at a disadvantage.",
+       "Utilizing hacks or any unauthorized 3rd party software/tool leads to immediate disqualification from the event."
       ],
-      "judgingCriteria": [
-        "Audience engaging power.",
-        "Concept of the Ad",
-        "Creativity",
-        "Originality",
-        "Humour",
-        "Time Management"
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Ashiq", "phone": "9902774200" },
-          { "name": "Naman", "phone": "6360586392" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Pradeep Udupa", "Guruprasad"]
+       
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "Open-air Auditorium",
-        "time": "9:45 AM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
     {
       "name": "",
-      "alias": "Fifa",
+      "alias": "FIFA",
       "image": 'https://i.postimg.cc/XY9kJNgH/FIFA.png',
-      "aboutEvent": "Hello, clever clogs! Collaborate with your best buddy to code your way out of the problem statements. Get ready for an epic battle of intelligence as you try to figure out the best solution for the given problem and code it.",
-      "eventDetail": [
-        "There will be Four Rounds.",
-        "Round 1: MCQ Questions ( Pre-Elimination Round )",
-        "Round 2: Blind Coding",
-        "One member of the Team must type the code for given problem, with MONITOR SWITCHED OFF",
-        "Participants whose code gets executed will be given higher preference",
-        "Second preference will be given to code with least number of errors",
-        "In case of tie in number of errors, TIME OF SUBMISSION will be considered",
-        "Round 3: Debugging",
-        "Contain set of Question, each Question will have points",
-        "Team that scores minimum points will be eliminated",
-        "Round 4: Betting on Your Code",
-        "Contains a set of Question • Each Team will have 100 points",
-        "Each Team must bet few points to Pool Pot, before start of each round (Max-50 point, Min-25 point)",
-        "Whoever win each round will get points in Pool Pot",
-        "Team with no points will be eliminated Last survival team will be considered as the winner"
+      "aboutEvent": "A recreation of the original FIFA held in stadiums, it is a realistic game with real players and high graphics. It is a fun 1v1 game to play and hop on easily as the controls are simple. FIFA is made by EA Sports and it's cool to play and simple to enjoy upon",
+
+    
+      "eventDetail": [" Participation: Individual||Registration Fee: 300 Rs. Per Head",
+       
       ],
       "rules": [
-        "Participants can enter the event only as a team of 2 members.",
-        "Registrations can be done prior to the event.",
-        "No books or any gadget are allowed, PC will be provided."
+        "To win over an opponent in a single-round match.",
+	      "Half Time - 6 min.",
+	      "Personal save files are not allowed",
+	      "offside and Injuries will be - ON.",
+	      "Game Play: Normal",
+	      "The organizers reserve the right to change any or all of the above rules as they deem fit.",
+	      "Changes in rules, if any will be highlighted on the website and notified to the registered participants.",
+	      "Violation of any of the above rules will lead to disqualification.",
+
+       
       ],
-      "judgingCriteria": [
-        "Participants will be judged based on their performance, time management, coding skills.",
-        "Team who clears all rounds will be the winner."
-      ],
+      
       "coordinators": {
         "students": [
-          { "name": "Srijan R M", "phone": "8971591262" },
-          { "name": "Srichandan", "phone": "8277469073" }
+          { "name": "", "phone": "" },
+          { "name": "", "phone": "" }
         ],
-        "faculty": ["Abdul Majid", "Sanjeev Kulkarni"]
+        "faculty": ["", ""]
       },
       "schedule": {
-        "day": "20th May",
-        "venue": "DS Lab -3rd Floor",
-        "time": "1:30 PM-2:30 PM"
+        "day": "",
+        "venue": "",
+        "time": ""
       }
     },
   
