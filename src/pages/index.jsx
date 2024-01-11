@@ -1,6 +1,5 @@
 import React from 'react';
-import Header from '@/components/Header';
-
+import Header from '@/components/Header'; 
 import Gallery from './gallery';
 import Pronities from './pronities';
 import { useEffect,useState } from 'react';
@@ -8,6 +7,7 @@ import Footer from '@/components/Footer';
 import { useRouter } from 'next/router';
 import NewNavBar from '@/components/NavBar';
 import Image from 'next/image';
+import { Download } from 'lucide-react';
 
 
 
@@ -165,7 +165,7 @@ export default function PreviewPage() {
           <div className=''>
             <div className='flex justify-center gap-10 text-center'>
                 <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl text-bold hover:scale-105 hover:shadow hover:shadow-white'>
-                    <a href=''>Guidelines</a>
+                    <a href='https://i.postimg.cc/V6zqbQ95/Guidlines-Rhythm.png' target='_blank'>Guidelines</a>
                 </div>
 
                 <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl text-bold hover:scale-105 hover:shadow hover:shadow-white '>

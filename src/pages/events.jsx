@@ -2,7 +2,6 @@ import React from 'react'
 import Image from 'next/image';
 import NewNavBar from '@/components/NavBar';
 
-
 const Events =()=>{
     return (
         <>
