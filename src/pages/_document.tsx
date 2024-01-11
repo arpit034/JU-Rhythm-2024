@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head >
-      <link rel="icon" type="favicon" href="https://i.postimg.cc/J4pxPVkX/Jecrc-logo-gradient.png"/>
+      <link rel="icon" type="favicon" href="https://i.postimg.cc/SKMYzprh/rhythm-logo-20240111-165215-0000.png"/>
         </Head>
       <body className='absolute md:relative' >
         <Main />

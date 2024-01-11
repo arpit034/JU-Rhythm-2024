@@ -160,6 +160,55 @@ const teamDetails = [
 
        
     },
+    
+    {
+        name: '',
+        image:'https://i.postimg.cc/y6D02PNJ/Dhruv-Tomar.png' ,
+       year: "",
+
+       
+    },
+    {
+        name: '',
+        image:'https://i.postimg.cc/MGHkTPZ1/Dhruvi-Vaid1.png' ,
+       year: "",
+
+       
+    },
+
+   
+    {
+        name: '',
+        image:'https://i.postimg.cc/W4XYCr3f/Charvi-Agarwal.png' ,
+       year: "",
+
+       
+    },
+    {
+        name: '',
+        image:'https://i.postimg.cc/XY6PC4mx/Devansh-Verma.png' ,
+       year: "",
+
+       
+    },
+   
+    {
+        name: '',
+        image:'https://i.postimg.cc/qRFbMT2s/Akshat-Pratap-Singh.png' ,
+       year: "",
+
+       
+    },
+    {
+        name: '',
+        image:'https://i.postimg.cc/L5ZyJbVr/Nihar-Patel.png' ,
+       year: "",
+
+       
+    },
+    
+   
+
   
     
   
