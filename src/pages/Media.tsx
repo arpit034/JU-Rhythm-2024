@@ -8,22 +8,23 @@ export default function Technical() {
   const events = [
     {
       "name": "",
-      "alias": "AD-MAD",
-      "image": 'https://i.postimg.cc/dtqrjMG3/AD-MAD.png',
-      "aboutEvent": "CAPTURING FROM REAL TO REEL! Reels have surely become a means for the youth of today to exhibit their creativity and bring in the best trends on social media in this digital era. As a result, we've chosen to use this expressive platform to recognize the students' inventiveness. To explore the creative side of the students, we bring to you The Reel Making Competition",
+      "alias": "Pixellate",
+      "image": 'https://i.postimg.cc/VLCjGs2f/Pixellate.png',
+      "aboutEvent": "Designing is a challenge, it requires a pioneering vision strengthened by a curiosity out of the ordinary; yet typical of any man. To design is to invent, innovate, and surprise. All this through a single tool   Pixelate is a contest in which participants are asked to design graphics using the given set of tock images and other resources. The event is divided into two rounds. The first is an   elimination round in which a short design problem will be given.",
       "eventDetail": [
-        "Registration Fee: Rs 700 per team (for two days) || Team Composition: 2"
+        "Registration Fee: Rs 300  || Team Composition: 1"
       ],
       "rules": [
-        "The advertisement should last for about 15-30 seconds with landscape mode.",
-        "The final submission of the advertisement should inculcate a well-defined script along with the screenplay.",
-        "The topic selection is free to choose.",
-        "JUDGING CRITERIA",
-        "The script of the advertisement will be considered.",
-        "Video editing",
-        "Sound and video quality (1080p min-4K max)",
-        "Interaction with the viewer.",
-        "Sound scoring."
+        	"Skill",
+"	Message/ Thought behind the design", 
+	"Only Canva is allowed to make posters.", 
+"	It should be made from scratch, no Templates should be used.",
+	"Eye catching",
+  "The decisions made by the judges would be final and binding.",
+	"Interaction with the viewer.",
+	"Creativity", 
+
+
 
       ],
       
@@ -39,7 +40,7 @@ export default function Technical() {
       "alias": "Quick-Flick",
       "image": 'https://i.postimg.cc/tC2Prrz5/QUICK-FLICK.png',
       "aboutEvent": "Anything that can be written or thought of can be filmed. They say a picture is worth a thousand words then a film is worth a thousand times more. If you are an author whose novels are films, this is right place to publish.",
-      "eventDetail": ["Registration fee: Rs 600 per person (for two days) || Team Composition: 1"],
+      "eventDetail": ["Registration fee: Rs 300  || Team Composition: 1"],
       "rules": [
         "A reel must be made which should cover the whole Rhythm 2024 including all the three days.",
         "The clips must be shooted meanwhile the Rhythm is going on.",
@@ -70,7 +71,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/y6h0R6g2/SHUTTER-SHOTS.png',
       "aboutEvent": "There is a creative fraction of a second when you are taking a picture. Your eye must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera. That is the moment the photographer is creative. Oops! The Moment! Once you miss it, it is gone forever",
       "eventDetail": [
-        "Registration fee: Rs 600 per person (for two days) || Team Composition: 1"
+        "Registration fee: Rs 300 per person || Team Composition: 1"
       ],
       "rules": [
         "Individual Participation",
@@ -102,7 +103,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/pLSjvp45/SNIPPET-STORY.png',
       "aboutEvent": "SHORT FILM MAKING COMPETITION",
       "eventDetail": [
-        "Registration Fee: Rs 1500 per team (for two days) || Team composition:5"
+        "Registration Fee: Rs 2000 per team  || Team composition:4"
       ],
       "rules": [
         "A short film should be made with a duration of 5-10 mins max.",

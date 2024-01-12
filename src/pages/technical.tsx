@@ -68,38 +68,7 @@ export default function Technical() {
         "time": ""
       }
     },
-    {
-      "name": "",
-      "alias": "Pixellate",
-      "image": 'https://i.postimg.cc/VLCjGs2f/Pixellate.png',
-      "aboutEvent": "Designing is a challenge, it requires a pioneering vision strengthened by a curiosity out of the ordinary; yet typical of any man. To design is to invent, innovate, and surprise. All this through a single tool   Pixelate is a contest in which participants are asked to design graphics using the given set of tock images and other resources. The event is divided into two rounds. The first is an   elimination round in which a short design problem will be given.",
-      "eventDetail": ["Participation: Team (1-2)||Registration Fee: 600 Rs. Per Team ",
-      ],
-      "rules": [
-       
-        "A maximum of two participants or a minimum of 1 participant is allowed per team.",
-        "There will be 2 rounds",
-        "No external reference is allowed, only the given set of resources must be used.",
-        "In case of a tie, preference will be given to the criteria mentioned above in decreasing order of weightage.",
-        "The decisions made by the judges would be final and binding.",
-        "The designs must not contain any abusive language, racial slurs, or hateful remarks against any religion, cast, or community.",
-        "The event manager reserves the right to disqualify any team if any section of the content is deemed inappropriate.",
-        "Software like Adobe Photoshop, Adobe Illustrator, etc. can be used."
-      ],
-     
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
-      "schedule": {
-        "day": "",
-        "venue": "",
-        "time": ""
-      }
-    },
+    
     {
       "name": "",
       "alias": "Mopix",
