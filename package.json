@@ -12,6 +12,7 @@
     "@headlessui/react": "^1.7.14",
     "@reduxjs/toolkit": "^1.9.5",
     "@vercel/analytics": "^1.0.1",
+    "@vercel/speed-insights": "^1.0.2",
     "autoprefixer": "10.4.14",
     "bootstrap": "^5.3.2",
     "flowbite-react": "^0.7.2",
