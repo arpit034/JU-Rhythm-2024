@@ -116,7 +116,7 @@ const teamDetails = [
     },
     {
         name: '',
-        image: 'https://i.postimg.cc/x8ffxGvg/ARPIT-SHARMA.png',
+        image: 'https://i.postimg.cc/SQrDwrZj/ANSHIKA-TEJWANI.png',
        year: "",
 
       
