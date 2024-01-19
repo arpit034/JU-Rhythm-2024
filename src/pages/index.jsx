@@ -165,7 +165,9 @@ export default function PreviewPage() {
           <div className=''>
             <div className='flex justify-center gap-10 text-center'>
                 <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl text-bold hover:scale-105 hover:shadow hover:shadow-white'>
-                    <a href='https://i.postimg.cc/V6zqbQ95/Guidlines-Rhythm.png' target='_blank'>Guidelines</a>
+                    {/* <a href='' target='_blank'>Guidelines</a> */}
+                    <a href="guidelines.pdf" download>Guidelines</a>
+
                 </div>
 
                 <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl text-bold hover:scale-105 hover:shadow hover:shadow-white '>

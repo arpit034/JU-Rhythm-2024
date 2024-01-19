@@ -28,7 +28,7 @@ export default function Technical() {
          "All players MUST be wearing Goggles and Face Masks prior to entering playing areas.",
       ],
      
-      "coordinators":{"name":'',"name2":''},
+      "coordinators":{"name":'Kanishk Kumawat: 7014525176',"name2":'Raghav Sharma: 8824489129'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -54,13 +54,7 @@ export default function Technical() {
           "Judges decision will be final.",
       ],
      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Suhasini Shaktawat: 9929361100',"name2":'Dushyant Singh: 7357769662'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -85,14 +79,7 @@ export default function Technical() {
     "There is no limit or point deductions for let serves.",
     "Proper decorum is mandatory and judges decision is final."
       ],
-    
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Shivesh Patidar: 7426966255',"name2":'Raj Trivedi: 9587260753'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -119,13 +106,7 @@ export default function Technical() {
          "Proper decorum is mandatory and judges decision will be final."
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Monalisha Kalita: 6002317641',"name2":'Ashish Yadav: 9928432872'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -148,14 +129,7 @@ export default function Technical() {
        "Proper decorum is mandatory.",
        "Judges decision will be final.",
       ],
-     
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Lakhan Singh Ranawat: 6521270702',"name2":'Kanika Chittora: 7413832588'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -182,15 +156,7 @@ export default function Technical() {
         " Proper decorum is mandatory and judges decision will be final.",
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Jhalak Trivedi: 8081194055',"name2":'Govind Jayswal: 7240240686'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -216,13 +182,7 @@ export default function Technical() {
               "Judges decision would be final.",
       ],
      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Navneet Tondwal: 8769039802',"name2":'Manan Nahar: 9257147005'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -248,13 +208,7 @@ export default function Technical() {
         " Judges decision will be final",
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Aditya Kumar Pandey: 9414669689',"name2":'Chandan Sharma: 8890264530'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -282,14 +236,7 @@ export default function Technical() {
         "Normal outside and corner kicks are allowed. There are No offside.",        
 
       ],
-      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Mudit Sharma: 9509420635',"name2":'Vishrut Vyas: 7415836560'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -321,13 +268,7 @@ export default function Technical() {
        
       ],
      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Teesha Sharma: 7568342366',"name2":'Pawan Kumar: 8003983327'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -356,14 +297,7 @@ export default function Technical() {
          "Proper decorum is mandatory.",
         " Judges decision is final.",
       ],
-     
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Hemendra Singh: 8690818042',"name2":'Shubham Kumar: 8696176787'},
       "schedule": {
         "day": "",
         "venue": "",

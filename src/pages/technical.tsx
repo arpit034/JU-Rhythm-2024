@@ -1,18 +1,11 @@
 
-
 import React from 'react'
 import EventCard from '../components/EventCard.jsx'
-
-
-
 import NewNavBar from '../components/NavBar.jsx'
 export default function Technical() {
 
   const events = [
     {
-      "name": "",
-     
-  
       "alias": "Algo Vs Logic",
       "image": 'https://i.postimg.cc/wBV5XWZD/Algo-vs-Logic.png',
       "aboutEvent": "In this event, we take you on a trip back to the basics of any coding language: data structures and algorithms.",
@@ -32,7 +25,7 @@ export default function Technical() {
        
       ],
       
-      "coordinators":{"name":'',"name2":''},
+      "coordinators":{"name":'Pradhyuman-9664471324',"name2":'Kriti-9460911260'}, 
       "schedule": {
         "day": "",
         "venue": "",
@@ -56,12 +49,10 @@ export default function Technical() {
 	          "Rules for rewards and penalties are disclosed on the event day.",
 	          "Team leaders, elected from each team, are the sole representatives allowed to explain and present solutions.",
             "Participants are responsible for their laptops, pen drives, storage drives, and power cords, with the university and event coordinators not accountable for connectivity and power issues."
-	
-
         
       ],
      
-      "coordinators":{"name":'',"name2":''},
+      "coordinators":{"name":'Anshul:951159308',"name2":'Harsh:7850849081'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -74,16 +65,9 @@ export default function Technical() {
       "alias": "Mopix",
       "image": 'https://i.postimg.cc/QtYpPFXt/Mopix.png',
       "aboutEvent": "This is a Website Design event in which the students will be asked to design a web-based interface for a fictional organization. It aims to highlight the creative and programming capabilities of the students. The work will be judged based on (with weightage Site Navigation, User-friendliness (40%) Presentation, Color Scheme, Attractiveness (35%) Presentation, Color Scheme, Attractiveness (35%) Cross-browser & multi-resolution stability (20%)",
-     
-    
-      
-      	
-      	
+
       "eventDetail": [ 
         "Participation: Team (1-2) || Registration Fee: 600 Rs. Per Team ",
-
-
-      
       ],
       "rules": [
         "Registration: Online & On the Spot No external reference is allowed.",
@@ -96,13 +80,11 @@ export default function Technical() {
           "Certificate of excellence will be awarded to the top 2 winners.", 
       ],
      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+        
+         
+        
+      "coordinators":{"name":'Simran:9664471324' ,"name2":' Saksham:8619964199'},
+      
       "schedule": {
         "day": "",
         "venue": "",
@@ -128,11 +110,9 @@ export default function Technical() {
       ],
       
       "coordinators": {
-        "students": [
-          { "name": "", "phone": "8" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
+        
+           "name": "Ayushi:7014881298",  
+           "name2": "Ajay:9680952327", 
       },
       "schedule": {
         "day": "",
@@ -164,13 +144,12 @@ export default function Technical() {
       ],
     
       "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
+       
+           "name": "Geetanjali:9311675823" ,
+           "name2": "Charvi:9739934322" 
+        
+      
+        
       },
       "schedule": {
         "day": "",
@@ -197,11 +176,10 @@ export default function Technical() {
       ],
      
       "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
+       
+          "name": "Garvit Raj Bhati:8003204877",
+         "name2": "disha:7425020715"  
+      
       },
       "schedule": {
         "day": "",
@@ -229,10 +207,10 @@ export default function Technical() {
       ],
       
       "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
+       
+           "name": "Chirayu:9928832333",
+           "name2": "Priyanshi:8003150294"
+       
       
       },
       "schedule": {
@@ -261,10 +239,10 @@ export default function Technical() {
       ],
       
       "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
+       
+           "name": "Chirag Singh:8824549686" ,
+          //  "name2": "Samyak Jain:8003069203" ,
+      
       
       },
       "schedule": {
@@ -294,10 +272,10 @@ export default function Technical() {
       ],
       
       "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
+        
+           "name": "Sahil Harchandani:7424848598" ,
+           "name2": "Ishank Dosi:7023290671",
+       
       
       },
       "schedule": {
@@ -326,10 +304,10 @@ export default function Technical() {
       ],
       
       "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
+        
+           "name": "Nishant:9649055210" ,
+         "name2": "Nisheet:7014279045" 
+       
       
       },
       "schedule": {
@@ -360,10 +338,10 @@ export default function Technical() {
       ],
       
       "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
+        
+           "name": "Amit:8100257789"  ,
+           "name2": "Lakshay:8871234278",
+        
         
       },
       "schedule": {
@@ -393,10 +371,9 @@ export default function Technical() {
       ],
       
       "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
+       
+           "name": "Devansh:9988893220",  "name2": "Keshav Khandelwal:7999809462" ,
+           
        
       },
       "schedule": {
@@ -425,10 +402,9 @@ export default function Technical() {
         
       ],
       "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
+        
+          "name": "Harshwardhan-8890058795", "name2": "Rohit-8769168787" ,
+           
 
       },
       "schedule": {
@@ -459,13 +435,7 @@ export default function Technical() {
 
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-       
-      },
+      "coordinators":{"name":'Abhinav-8543920154',"name2":'Aditya-8209797105'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -493,13 +463,7 @@ export default function Technical() {
         "The knockout rounds add a competitive edge to the event."
       ],
   
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-      
-      },
+      "coordinators":{"name":'Mukund-9602022035',"name2":'Kriti Bhatt-8209698530'}, 
       "schedule": {
         "day": "",
         "venue": "",
@@ -526,13 +490,7 @@ export default function Technical() {
        "Utilizing hacks or any unauthorized 3rd party software/tool leads to immediate disqualification from the event."
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-       
-      },
+      "coordinators":{"name":'DhruvBhatt-9636036604',"name2":'Ronak -8955060991'}, 
       "schedule": {
         "day": "",
         "venue": "",
@@ -562,13 +520,12 @@ export default function Technical() {
        
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+     
+        "coordinators":{"name":'Ayushman-7073737278',"name2":'Himanshu-9166977499'}, 
+       
+        
+       
+   
       "schedule": {
         "day": "",
         "venue": "",

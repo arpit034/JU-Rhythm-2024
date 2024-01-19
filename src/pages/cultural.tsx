@@ -30,7 +30,7 @@ export default function Technical() {
        
       ],
      
-      "coordinators":{"name":'',"name2":''},
+      "coordinators":{"name":'Meenakshi Lahoti:7014793340',"name2":'Aditya Garg: 9079171380'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -55,14 +55,8 @@ export default function Technical() {
         
        
       ],
-    
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Harshit Sinha: 9799043706',"name2":'Prayushman Kaushal: 8824483045'},
+     
       "schedule": {
         "day": "",
         "venue": "",
@@ -79,25 +73,18 @@ export default function Technical() {
       ],
       "rules": [
         	"Round 1: In this round every participant will get an opportunity to give their best poetry performance. The time of performance will be 3 to 5 min.",
-	"Round 2(final round): In this round every participant will get some words, based on that participants have to create a poem on the spot.",
-	"Use of offensive language or inappropriate content is strictly prohibited.",
-	"Keep the poetry suitable for a diverse audience.",
-	"Dress in accordance to theme will be appreciated.",
-	"Strictly adhere to the specified time limits for each performance.",
-	"Violation of rules may lead to disqualification.",
-   "The decision of the judges and event organisers is final.",
+	        "Round 2(final round): In this round every participant will get some words, based on that participants have to create a poem on the spot.",
+	        "Use of offensive language or inappropriate content is strictly prohibited.",
+	        "Keep the poetry suitable for a diverse audience.",
+	        "Dress in accordance to theme will be appreciated.",
+	        "Strictly adhere to the specified time limits for each performance.",
+	         "Violation of rules may lead to disqualification.",
+          "The decision of the judges and event organisers is final.",
 
 
        
       ],
-     
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -125,13 +112,7 @@ export default function Technical() {
        
       ],
      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Veronica Verma: 9717836602',"name2":'Sahaj Sharma: 74568 37676'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -156,13 +137,8 @@ export default function Technical() {
        
       ],
      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Samridhi Mittal: 8619477854',"name2":'Umang Khandelwal	: 9358381590'
+    },
       "schedule": {
         "day": "",
         "venue": "",
@@ -190,15 +166,7 @@ export default function Technical() {
       
       ],
     
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Vidhi Mathur:9414905666',"name2":'Harshita Meena:7728022721'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -225,13 +193,7 @@ export default function Technical() {
        
       ],
      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Muskan Arora: 6367118126',"name2":'Riya pathak	: 9828677788'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -257,13 +219,7 @@ export default function Technical() {
       
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Bhavesh vaishnav: 6350058320',"name2":'Priyal: 6377769695'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -290,13 +246,7 @@ export default function Technical() {
       "rules": [
       ],
      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": ["", ""]
-      },
+      "coordinators":{"name":'Devang Mathur: 9461154417',"name2":'Aashima Jain: 9664273510'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -324,13 +274,7 @@ export default function Technical() {
        
       ],
     
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Akansha Saini: 8209579884',"name2":'Vini Dixit: 8112243710'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -361,13 +305,7 @@ export default function Technical() {
         
       ],
      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Prabal Jain: 9166134111',"name2":'Priyanshi Makker: 9672483002'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -397,13 +335,7 @@ export default function Technical() {
       "judgingCriteria": [
        
       ],
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Aditya Bhardwaj	: 7425998448',"name2":'Ajay Dwivedi: 9630802137'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -431,13 +363,7 @@ export default function Technical() {
        
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Ayush Choudhary: 6367852280',"name2":'Mynaa Gupta: 9799058221'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -464,13 +390,7 @@ export default function Technical() {
        
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Divyansh Sharma: 	8003620198',"name2":'Badal Sharma	: 7976488380'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -498,14 +418,7 @@ export default function Technical() {
 
        
       ],
-     
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Shivansh Joshi: 8619573165',"name2":'Khushi Khandelwal: 8561072573'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -533,13 +446,7 @@ export default function Technical() {
        
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'Bhavesh Vaishnav: 6350058320',"name2":'Nitika Kapoor	: 7317689079'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -565,13 +472,7 @@ export default function Technical() {
       
       ],
      
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'',"name2":''},
       "schedule": {
         "day": "",
         "venue": "",
@@ -598,13 +499,7 @@ export default function Technical() {
         
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-        "faculty": [""]
-      },
+      "coordinators":{"name":'',"name2":''},
       "schedule": {
         "day": "",
         "venue": "",

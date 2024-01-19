@@ -28,7 +28,7 @@ export default function Technical() {
 
       ],
       
-      "coordinators":{"name":'',"name2":''},
+      "coordinators":{"name":'Piyush Bhagchandani: 8209455601',"name2":'Sanchita: 8078669540'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -53,12 +53,7 @@ export default function Technical() {
 
       ],
     
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-      },
+      "coordinators": {"name":'Kinshuk Mital: 9785246797',"name2":'Rachi Agarwal: 7023316442'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -85,12 +80,7 @@ export default function Technical() {
         
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-      },
+      "coordinators": {"name":'Mohit Sehra: 7023323711',"name2":'Khushi Nagar: 6350392955'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -116,12 +106,7 @@ export default function Technical() {
         "Video editing and sound scoring"
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-      },
+      "coordinators": {"name":'Jaanvi Pareek: 6367573171',"name2":'Chetan: 7733885528'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -132,7 +117,7 @@ export default function Technical() {
       "name": "",
       "alias": "VirtualVerve",
       "image": 'https://i.postimg.cc/J0QJCKCR/VIRTUAL-VERVE.png',
-      "aboutEvent": "Rangoli is drawn in different states with different names and on different themes every region has its own unique way of representing their traditions, folklore and practices. Now it is your chance to showcase your creative skills by participating in the Rangoli Making Competition.",
+      "aboutEvent": "",
       "eventDetail": ["Registration Fee: Rs600 per person (for two days) || Team Composition:1"],
       "rules": [
         "Vlog duration should be about 5-10 mins max.",
@@ -145,12 +130,7 @@ export default function Technical() {
         "Entertainment"
       ],
       
-      "coordinators": {
-        "students": [
-          { "name": "", "phone": "" },
-          { "name": "", "phone": "" }
-        ],
-      },
+      "coordinators": {"name":'Aashi Rathi: 9828292185',"name2":'Kunal Chouhan: 9799834182'},
       "schedule": {
         "day": "",
         "venue": "",

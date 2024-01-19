@@ -55,7 +55,11 @@ console.log(props.rules)
               </div>
               <hr/>
               <div className='flex flex-col md:flex-row team2 py-2'>
-                <h2 className='text-xl'>Event Coordinators:       </h2>
+                <h2 className='text-xl'>Event Coordinators: 
+                <p className='text-lg'> </p>
+                <p className='text-lg'> </p>
+                
+                      </h2>
                 <div className='flex text-bold gap-16'>
                   <div className='flex gap-2'><Phone color='white'/> <p className='text-lg'> {props.coordinator1}</p></div>
                   <div className='flex gap-2'><Phone color='white'/> <p className='text-lg'> {props.coordinator2}</p></div>
