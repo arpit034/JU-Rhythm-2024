@@ -424,24 +424,27 @@ export default function Technical() {
       "name": "",
       "alias": "Bug Bounty",
       "image": 'https://i.postimg.cc/FHTT70sc/BUG-BOUNTY.png',
-      "aboutEvent": "This event is your chance to dive into the exciting world of artificial intelligence and machine learning (AI/ML) by building your AI-powered bot. This will provide you with the essential knowledge and skills to create bots that can solve real-world problems.",
+      "aboutEvent": "In this event, pre-written codes will be provided, and the participants must find and fix the bugs in those programs.",
       "eventDetail": [
         "Participation: Team (1-2) || Registration Fee: 500 Rs. Per Team"
       ],
       "rules": [
-        "Participants must adhere to the specified reporting time and location.",
-        "Internet access is permitted within a designated time interval for participants.",
-        "The Judging Committee reserves the right to request explanations or proof of evidence for provided solutions.",
-        "Decisions made by the Organizing Committee regarding rewards, penalties, gameplay, timings, and participation are final and must be respected by all teams.",
-        "Participants are responsible for bringing their laptops, pen drives or storage drives, and power cords, along with an internet connection. The university and event coordinators are not accountable for connectivity and power issues.",
-        "It is emphasized that students ensure their devices are equipped with necessary accessories and that they are responsible for managing connectivity and power-related concerns during the competition.",
-        "A team may consist of a maximum of 2 participants and a minimum of 1 participant. Students from different educational institutes can form a team.",
-        "Each team can have 2 laptops at most and at least 1 pen drive."
+       " Only individual participation is allowed.",
+       " Participants should report at the given place at the given time.",
+        "The competition is divided into 2 rounds.",
+        "Languages used are C++ and JAVA.",
+       " The use of AI tools is strictly prohibited.",
+       " The event manager reserves the right to disqualify any team if any section of the content is deemed inappropriate.",
+        "The decisions made by the judges would be final and binding.",
+        "No external reference is allowed, only the given set of resources must be used.",
+        "Misbehaving participants may be asked to leave the competition area and risk being disqualified from the contest.",
+        "Rules for rewards and penalties will be announced on the day of the event.",
+        
       ],
       
       "coordinators": {
        
-           "name": "Devansh:9988893220",  "name2": "Keshav Khandelwal:7999809462" ,
+           "name": "Sidharth:9829182382",  "name2": "Viddhi:7340502442" ,
            
        
       },
