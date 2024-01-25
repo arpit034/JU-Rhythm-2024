@@ -33,6 +33,9 @@ console.log(props.rules)
               <div className='flex gap-2'>
                 <MapPin/><p className='text-lg font-bold text-yellow-100'>VENUE: {props.venue}</p>
                 </div>
+                <div className='flex gap-2'>
+                <MapPin/><p className='text-lg font-bold text-yellow-100'>Prize {props.Prize}</p>
+                </div>
               </div>
               <hr/>
               <div className='text-left py-2 '>

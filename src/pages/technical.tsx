@@ -29,7 +29,8 @@ export default function Technical() {
       "schedule": {
         "day": "",
         "venue": "",
-        "time": ""
+        "time": "",
+        "Prize": "",
       }
     },
     {
@@ -37,7 +38,7 @@ export default function Technical() {
       "alias": "Cyberbytes",
       "image": 'https://i.postimg.cc/4dW5g81X/Cyberbytes.png',
       "aboutEvent": "	A series of problems related to cyber security will be solved using various hacking and analysis tools.",
-      "eventDetail": ["Participation: Team (1-2) || Registration Fee: 600 Rs. Per Team "
+      "eventDetail": ["Participation: Team (1-2) || Registration Fee: 500 Rs. Per Team "
      
       ],
       "rules": [
@@ -67,7 +68,7 @@ export default function Technical() {
       "aboutEvent": "This is a Website Design event in which the students will be asked to design a web-based interface for a fictional organization. It aims to highlight the creative and programming capabilities of the students. The work will be judged based on (with weightage Site Navigation, User-friendliness (40%) Presentation, Color Scheme, Attractiveness (35%) Presentation, Color Scheme, Attractiveness (35%) Cross-browser & multi-resolution stability (20%)",
 
       "eventDetail": [ 
-        "Participation: Team (1-2) || Registration Fee: 600 Rs. Per Team ",
+        "Participation: Team (1-2) || Registration Fee: 500 Rs. Per Team ",
       ],
       "rules": [
         "Registration: Online & On the Spot No external reference is allowed.",
@@ -122,8 +123,45 @@ export default function Technical() {
     },
     {
       "name": "",
-      "alias": "Robowar",
+      "alias": "Robowar-Elite",
       "image": 'https://i.postimg.cc/DmkbksR2/Robo-War-Elite.png',
+      "aboutEvent": "The main aim is to design a machine that can fight one another as well as maintain to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wired or wireless robot.  ArenaDimensions:  Total arena dimensions: 20X20 feet,Playing arena dimensions: 17X17 feet, Knock-out arena dimensions: 3X3 feet The base of the arena is made up of a metal sheet of width 5 mm,The walls of the arena will be made up of polycarbonate film of width 6 mm.",
+      "eventDetail": [
+        "Participation: Team (1-6) ||   Registration Fee: 1500 Rs. Per Team ",
+      
+        
+      ],
+      "rules": [
+        	"The competition will be played on a knock-out basis.",
+	        "The maximum duration of each round will be 2 minutes. Any team that is not ready at the time specified will be disqualified from the competition automatically",
+	        "If the bot is unable to displace from its position for more than 30 sec then the bot would be disqualified from the particular round.",
+	        "No AC power supply will be provided for the bots, participants are requested to use only a DC power supply.",
+	        "The machine would be checked for its safety before the competition and would be Discarded if found unsafe for other participants and spectators",
+	        "The organizers reserve the right to change any or all of the above rules as they deem fit",
+         "	Changes in rules, if any will be highlighted on the website and notified to the registered teams.",
+       	"Violation of any of the above rules will lead to disqualification.",
+
+        
+      ],
+    
+      "coordinators": {
+       
+           "name": "Geetanjali:9311675823" ,
+           "name2": "Charvi:9739934322" 
+        
+      
+        
+      },
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
+    {
+      "name": "",
+      "alias": "Robowar-Pro",
+      "image": 'https://i.postimg.cc/7hd85SkH/Robo-Wa-Pro.png',
       "aboutEvent": "The main aim is to design a machine that can fight one another as well as maintain to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wired or wireless robot.  ArenaDimensions:  Total arena dimensions: 20X20 feet,Playing arena dimensions: 17X17 feet, Knock-out arena dimensions: 3X3 feet The base of the arena is made up of a metal sheet of width 5 mm,The walls of the arena will be made up of polycarbonate film of width 6 mm.",
       "eventDetail": [
         "Participation: Team (1-6) ||   Registration Fee: 1500 Rs. Per Team ",
@@ -354,7 +392,38 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Code Bot",
-      "image": 'https://i.postimg.cc/QCKCqy4Z/Botathon.png',
+      "image": 'https://i.postimg.cc/SQZyp6LF/Code-Bot.png',
+      "aboutEvent": "This event is your chance to dive into the exciting world of artificial intelligence and machine learning (AI/ML) by building your AI-powered bot. This will provide you with the essential knowledge and skills to create bots that can solve real-world problems.",
+      "eventDetail": [
+        "Participation: Team (1-2) || Registration Fee: 500 Rs. Per Team"
+      ],
+      "rules": [
+        "Participants must adhere to the specified reporting time and location.",
+        "Internet access is permitted within a designated time interval for participants.",
+        "The Judging Committee reserves the right to request explanations or proof of evidence for provided solutions.",
+        "Decisions made by the Organizing Committee regarding rewards, penalties, gameplay, timings, and participation are final and must be respected by all teams.",
+        "Participants are responsible for bringing their laptops, pen drives or storage drives, and power cords, along with an internet connection. The university and event coordinators are not accountable for connectivity and power issues.",
+        "It is emphasized that students ensure their devices are equipped with necessary accessories and that they are responsible for managing connectivity and power-related concerns during the competition.",
+        "A team may consist of a maximum of 2 participants and a minimum of 1 participant. Students from different educational institutes can form a team.",
+        "Each team can have 2 laptops at most and at least 1 pen drive."
+      ],
+      
+      "coordinators": {
+       
+           "name": "Devansh:9988893220",  "name2": "Keshav Khandelwal:7999809462" ,
+           
+       
+      },
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
+    {
+      "name": "",
+      "alias": "Bug Bounty",
+      "image": 'https://i.postimg.cc/FHTT70sc/BUG-BOUNTY.png',
       "aboutEvent": "This event is your chance to dive into the exciting world of artificial intelligence and machine learning (AI/ML) by building your AI-powered bot. This will provide you with the essential knowledge and skills to create bots that can solve real-world problems.",
       "eventDetail": [
         "Participation: Team (1-2) || Registration Fee: 500 Rs. Per Team"
@@ -448,7 +517,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/zD9dXQrf/Valorant.png',
       "aboutEvent": "A 5v5 Battle Royale competitive game that requires your Skills, Ability Usage, and Aim. You Pad Up and Overcome the opponents with your IQ and Character Usage!",
       "eventDetail": [
-        "Participation: Team (6 Participants) || Registration Fee: 1200 Rs. Per Head",
+        "Participation: Team (6 Participants) || Registration Fee: 1200 Rs. Per Team",
         
         
       ],
@@ -477,7 +546,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/HLH47GZp/BGMI.png',
       "aboutEvent": "Survive the chaos, eliminate opponents, and be the last one standing to claim the coveted title of the ultimate BGMI champion. (Battle Royale- BGMI) challenges players to navigate a shrinking play zone, scavenge for weapons, and strategize their way to victory.",
       "eventDetail": [
-       "Participation: Team (4 Participants) || Registration Fee: 1200 Rs. Per Team"
+       "Participation: Team (4 Participants) || Registration Fee: 1000 Rs. Per Team"
       ],
       "rules": [
        "Emulators are prohibited; only mobile phones and iPads are allowed for participation.",

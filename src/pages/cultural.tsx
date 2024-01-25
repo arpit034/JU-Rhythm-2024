@@ -100,19 +100,20 @@ export default function Technical() {
         
       ],
       "rules": [
-        "Preliminary Round: Duration: 2-4 minutes.",
-        "Showcase Round: Duration: 4-6 minutes.",
-       "Participants must bring their own instrument.",
-       "Original tracks are allowed.",
-       "Dress appropriately for a stage performance.",
-       "Strictly adhere to the specified time limits for each round.",
-       "Violation of rules may lead to disqualification.",
-      "The decision of the judges and event organisers is final.",
-
+         'Preliminary Round: Duration – 2 to 4 mins',
+         'Challenge Round: Duration – 2 to 4 mins',
+         'Showcase Round: Duration – 4 to 6 mins',
+         'Same instrument to be used for all rounds.',
+         'Backing tracks to be submitted in advance.',
+         'All qualifying participants in the Challenge Round will receive pre-chosenbacking tracks and must showcase their instrumental skills through on-thespot improvisation on these tracks.',
+        
+         'Participants selected for Challenge Round will also perform in Showcase Round.',
+        
+         'Performances prepared beforehand by the participants will be showcased in the finals',
        
       ],
      
-      "coordinators":{"name":'Veronica Verma: 9717836602',"name2":'Sahaj Sharma: 74568 37676'},
+      "coordinators":{"name":'Veronica Verma: 9717836602',"name2":'Sahaj Sharma: 7456837676'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -137,7 +138,7 @@ export default function Technical() {
        
       ],
      
-      "coordinators":{"name":'Samridhi Mittal: 8619477854',"name2":'Umang Khandelwal	: 9358381590'
+      "coordinators":{"name":'Samridhi Mittal:8619477854',"name2":'Umang Khandelwal:9358381590'
     },
       "schedule": {
         "day": "",
@@ -219,7 +220,7 @@ export default function Technical() {
       
       ],
       
-      "coordinators":{"name":'Bhavesh vaishnav: 6350058320',"name2":'Priyal: 6377769695'},
+      "coordinators":{"name":'Bhavesh vaishnav: 6350058320',"name2":'Laveena :8890311127'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -322,14 +323,14 @@ export default function Technical() {
         
       ],
       "rules": [
-        "1.	Audition Round: Duration: 2 minutes. No karaoke allowed; participants must sing acapella or with a live instrument.",
-        	"Round 2 - Chit Picking: Participants will randomly pick a chit with the name of a singer. Sing a song by that singer.",
-        	"Round 3 - Stage Performance: Duration: 4 minutes. Participants will perform on stage with their chosen song.",
-        	"Participants are expected to be in proper attire.",
-        	"Participants must submit their music tracks in MP3 format during registration.",
-        	"Strict adherence to time limits for each round is mandatory.",
-        	"Violation of the rules may lead to disqualification.",
-        	"The decision of the judges and event organisers is final.",
+        " Preliminary Round: Duration – 1 min 30 seconds",
+        " Showcase Round: Duration – 5 mins",
+         "Song Choice: Any language and genre, original pieces welcome.",
+        " Instrument being carried should be preferred.",
+         "In preliminary Round, will only be Acapella.",
+        " In Showcase Round, Live instrument allowed (max 2), either being played by the  participant or a companion, karaoke allowed.",
+       
+        " Keep lyrics clean and free from any explicit content",
         
       ],
       "judgingCriteria": [
@@ -390,7 +391,7 @@ export default function Technical() {
        
       ],
       
-      "coordinators":{"name":'Divyansh Sharma: 	8003620198',"name2":'Badal Sharma	: 7976488380'},
+      "coordinators":{"name":'Divyansh Sharma: 	8003620198',"name2":'Badal	: 7976488380'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -446,7 +447,7 @@ export default function Technical() {
        
       ],
       
-      "coordinators":{"name":'Bhavesh Vaishnav: 6350058320',"name2":'Nitika Kapoor	: 7317689079'},
+      "coordinators":{"name":'Garima Bansal: 9358583766',"name2":'Nitika Kapoor	: 7317689079'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -472,7 +473,7 @@ export default function Technical() {
       
       ],
      
-      "coordinators":{"name":'',"name2":''},
+      "coordinators":{"name":'Yoshita:7062424433 Kaushal:8209342328',"name2":'Ishika:8619533919 Chaitanya:9755475340'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -499,7 +500,7 @@ export default function Technical() {
         
       ],
       
-      "coordinators":{"name":'',"name2":''},
+      "coordinators":{"name":'Devang:9461154417',"name2":'vaibhav:6350075085'},
       "schedule": {
         "day": "",
         "venue": "",

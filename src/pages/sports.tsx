@@ -14,7 +14,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/RhG9BJPk/PAINTBALL.png',
       "aboutEvent": "Aim.....shoot.....conquer. Paintball is a challenging team sport that includes strategy, shooting, eliminating, and of course unlimited fun. In this game, generally two (or more) different teams gather in a specially designated area and wage a war against each other.",
       "eventDetail": [
-        "Maximum 4 members || 1500/team"
+        "Maximum 5 members || 1500/team"
       ],
       "rules": [
         
@@ -250,7 +250,7 @@ export default function Technical() {
       "aboutEvent": "3x3 basketball is a variation of basketball played three-a-side, with one backboard and in a half-court setup",
       
       "eventDetail": [
-        "800/team || Minimum 3 Team members  Maximum 4 Team members"
+        "1000/team || Minimum 3 Team members  Maximum 4 Team members"
         
       ],
       "rules": [
