@@ -63,6 +63,8 @@ export default function Technical() {
         "time": ""
       }
     },
+   
+    
     {
       "name": "",
       "alias": "Rhythmic relay",
@@ -501,6 +503,58 @@ export default function Technical() {
       ],
       
       "coordinators":{"name":'Devang:9461154417',"name2":'vaibhav:6350075085'},
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
+    {
+      "name": "",
+      "alias": "YOUNIVERSE(Candle making)",
+      "image": 'https://i.postimg.cc/qRK7ybgw/Candle-Making.jpg',
+      "aboutEvent":": A universe dedicated to you and selfcare. Our Candle making allows you to make customised scented candles  from scratch and take them with you.",
+      "eventDetail": [""],
+      "rules": [
+       
+         "You will be provided with the raw materials to make your own candle.",
+        "⁠You can choose your base and scent to make your own candle.",
+       "After you're done making your candle, you get to keep it.",
+      "There will an instructor to guide you throughout the process.",
+      " Kindly wait patiently for your turn.",
+      "Duration: 11 A.M. to 2 P.M.",
+     "No entries will be allowed after 2 P.M.",
+     " One registration only includes candle making for one participant.",
+       
+      ],
+      "coordinators":{"name":'Bhoomika Rupani: 9079791314',},
+     
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
+    {
+      "name": "",
+      "alias": "YOUNIVERSE(Pottery making)",
+      "image": 'https://i.postimg.cc/tgwT1QR7/Pottery.jpg',
+      "aboutEvent": ": A universe dedicated to you and selfcare. Our pottery making gives you a chance to make your own ceramics and take them with you.  ",
+      "eventDetail": [""],
+      "rules": [
+         "You will be given a wheel and clay to build your ceramics.",
+        " You shall be given 15 minutes to create whatever you want.",
+        " After you're done with building your ceramic you can paint or decorate it using materials provided.",
+         "There will be an instructor throughout the process to guide you.",
+         "Kindly wait patiently for your turn.",
+         "Duration: 11A.M. to 2 P.M.",
+        " No entries will be allowed after 2 P.M.",
+         "One registration only includes 1 ceramic .",
+        
+       
+      ],
+      "coordinators":{"name":'Amardeep Vishnani: 6367958559'},
+     
       "schedule": {
         "day": "",
         "venue": "",
