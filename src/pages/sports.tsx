@@ -67,7 +67,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/4NSkQgjQ/TABLE-TENNIS.png',
       "aboutEvent": "Table tennis is a sport in which two or four players hit a lightweight ball, also known as the ping-pong ball, back and forth across a table using small solid rackets. The game takes place on a hard table divided by a net.",
       "eventDetail": [
-        "250/player||Members: 1player"
+        "300/player||Members: 1player"
       ],
       "rules": [
         "Games are played to 11 points.",
@@ -142,7 +142,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/Z5Xm4Sc5/LIVE-LUDO.png',
       "aboutEvent": "Ludo is a strategy board game , in which the players race their four tokens from start to finish according to the rolls of a single die.",
       
-      "eventDetail": ["Members: 5 players per team ||1250/team ",
+      "eventDetail": ["Members: 5 players per team ||1200/team ",
        
       ],
       "rules": [
@@ -168,7 +168,7 @@ export default function Technical() {
       "alias": "Ipl-Auction",
       "image": 'https://i.postimg.cc/5tvVtR7q/IPL-AUCTION.png',
       "aboutEvent": "Cricket is an emotion and everything else is just a game, so let’s build your ‘dream team’ to acquire  the cup of victory. A championship where you tactically make bids and buy the players that will take  you closer to the trophy. So, unite your love for cricket with your expertise in foretelling and financial management",
-      "eventDetail": [
+      "eventDetail": ["Members:- 4 members||1000/team"
 
       ],
       "rules": [
@@ -236,7 +236,7 @@ export default function Technical() {
         "Normal outside and corner kicks are allowed. There are No offside.",        
 
       ],
-      "coordinators":{"name":'Mudit Sharma: 9509420635',"name2":'Vishrut Vyas: 7415836560'},
+      "coordinators":{"name":'Mudit Sharma: 9509420635',"name2":'Naman: 9928077526'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -284,7 +284,7 @@ export default function Technical() {
 
      
       "eventDetail": [
-       "250/player|| Members: 1 player"
+       "300/player|| Members: 1 player"
       ],
       "rules": [
         "Tournament format will be finalized after the possible number of participants is determined.",

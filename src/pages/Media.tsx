@@ -141,6 +141,111 @@ export default function Technical() {
         "time": ""
       }
     },
+    {
+      "name": "",
+      "alias": " नजरिया board ",
+     
+      "image": 'https://i.postimg.cc/J0RZ1QzG/nazaria-board-UPSCALE.png',
+      "aboutEvent": "The event is about creating your vision boards, using pictures, sketches and anything related to RHYTHM'24. ",
+      "eventDetail":["Registration Fee: Rs300 per person|| Team Composition:1"],
+      "rules": [
+         "Duration - 3 hours. ",
+"Participants must bring their requirements for the competition themselves. ",
+" Participants must bring their cardboard, photocopies, sketches etc required for your competition. ( vision boards) ",
+ "You'll be given 2 days to collect the pictures of the event, i.e, 21st February and 22nd February (Rhythm) ",
+ "You have to prepare the vision board after coming to the event, any vision board prepared beforehand would not be appreciated. ",
+ "Your images should not be copied and are expected to be authentic. ",
+ "Violations of the rules, will lead to disqualification of the participant. ",
+" The decisions of the judges and the event organisers are final.",
+
+        
+      ],
+      
+      "coordinators": {"name":'Divya Mittal: 9828292185',"name2":'Monalika Medatwali: 9799834182'},
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
+    {
+      "name": "",
+      "alias": "VYAPAAR",
+      "image": 'https://i.postimg.cc/4ywtnhYw/VYAPAAR-UPSCALE.png',
+      "aboutEvent": "Roll the dice, acquire fantastical properties, and face enchanting challenges at VYAPAAR. This offline Monopoly experience tests friendships, forms alliances, and creates fortunes. Adapt to market fluctuations, engage in political alliances, and employ psychological strategies to dominate the competition!",
+      "eventDetail": ["Registration Fee: Rs300 per person  || Team Composition:1"],
+      "rules": [
+      " Duration - 6hours There will be single Participation.",
+
+"Players take turns in clockwise order .",
+" Players receive a set amount money and place there tokens on go",
+"Players role dice to determine who goes first.",
+"Follow the instructions on the space where you land. This could involve buying property, paying rent, drawing a Chance or Community Chest card, or other actions.",
+"If a player cannot afford to pay rent, fines, or debts, they are bankrupt and out of the game.",
+"The game continues until all but one player is bankrupt. The last remaining player is the winner.",
+"Violations of rules may lead to disqualification,Decisions of the event organiser will be final.",
+
+      ],
+      
+      "coordinators": {"name":'Joyel Jian:8279286433',"name2":'Vishaka Maheshwari: 6376894850'},
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
+    {
+      "name": "",
+      "alias": "Science Doodle",
+      "image": 'https://i.postimg.cc/xjPL6B6H/science-doodle-UPSCALE.png',
+      "aboutEvent": "",
+      "eventDetail": ["Registration Fee: 300 per person  || Team Composition:1"],
+      "rules": [
+        	"Duration- 2 hours",
+	"No smartphones are allowed during the ongoing of the competition. ",
+	"Participants must bring their own necessary materials for the competition.",
+	"Reference material cannot be carried by the participants.",
+	"Any specific team or requirement will be communicated in advance.",
+	"Violation of any rules will lead to instant disqualification of the team. ",
+	"The decision of the and event organizers and coordinators would be considered final.",
+	"Abusive language and behaviour will not be tolerated during the competition.",
+ 
+      ],
+      
+      "coordinators": {"name":' Aditya Rathore:6376047700',"name2":'Shashank:7294870963 '},
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
+    {
+      "name": "",
+      "alias": "",
+      "image": 'https://i.postimg.cc/bNNkWL55/CID-RHYTHM-UPSCALE.png',
+      "aboutEvent": "",
+      "eventDetail": ["Registration Fee: Rs1200  || Team Composition:1"],
+      "rules": [
+        	"Duration:- 3 hours",
+        	"No smartphones allowed during the competition",
+        	"Violation of any rules will lead to disqualification of team",
+	"Participants have to maintain the discipline and decorum of the event",
+"	Play fair,no cheating",
+"Players act as detectives to solve clues And uncover hidden treasures.",
+	"It involves teamwork, problem solving and creativity to crack code and puzzle leading to the final goal",
+  	"Each team will consist of 4 members",
+
+
+        
+      ],
+      
+      "coordinators": {"name":'Abhay : 7269830922',"name2":'Harshit: 9829875743'},
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
     
   ]
 
