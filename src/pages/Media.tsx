@@ -12,7 +12,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/VLCjGs2f/Pixellate.png',
       "aboutEvent": "Designing is a challenge, it requires a pioneering vision strengthened by a curiosity out of the ordinary; yet typical of any man. To design is to invent, innovate, and surprise. All this through a single tool   Pixelate is a contest in which participants are asked to design graphics using the given set of tock images and other resources. The event is divided into two rounds. The first is an   elimination round in which a short design problem will be given.",
       "eventDetail": [
-        "Registration Fee: Rs 300  per person || Team Composition: 1"
+        "Registration Fee: Rs 450  per person || Team Composition: 1"
       ],
       "rules": [
         	"Skill",
@@ -40,7 +40,7 @@ export default function Technical() {
       "alias": "Quick-Flick",
       "image": 'https://i.postimg.cc/tC2Prrz5/QUICK-FLICK.png',
       "aboutEvent": "Anything that can be written or thought of can be filmed. They say a picture is worth a thousand words then a film is worth a thousand times more. If you are an author whose novels are films, this is right place to publish.",
-      "eventDetail": ["Registration fee: Rs 300 per person|| Team Composition: 1"],
+      "eventDetail": ["Registration fee: Rs 450 per person|| Team Composition: 1"],
       "rules": [
         "	A reel must be made which should cover all the events happening on the day.",
         "	The clips must be recorded while the rhythm is going on.",
@@ -66,7 +66,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/y6h0R6g2/SHUTTER-SHOTS.png',
       "aboutEvent": "There is a creative fraction of a second when you are taking a picture. Your eye must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera. That is the moment the photographer is creative. Oops! The Moment! Once you miss it, it is gone forever",
       "eventDetail": [
-        "Registration fee: Rs 300 per person || Team Composition: 1"
+        "Registration fee: Rs 450 per person || Team Composition: 1"
       ],
       "rules": [
         "Individual Participation",
@@ -93,7 +93,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/pLSjvp45/SNIPPET-STORY.png',
       "aboutEvent": "SHORT FILM MAKING COMPETITION",
       "eventDetail": [
-        "Registration Fee: Rs 2000 per team  || Team composition:4"
+        "Registration Fee: Rs 2400 per team  || Team composition:4"
       ],
       "rules": [
         "A short film should be made with a duration of 4-7 mins max.",
@@ -121,7 +121,7 @@ export default function Technical() {
       "alias": "VirtualVerve",
       "image": 'https://i.postimg.cc/J0QJCKCR/VIRTUAL-VERVE.png',
       "aboutEvent": "",
-      "eventDetail": ["Registration Fee: Rs600 per person (for two days) || Team Composition:1"],
+      "eventDetail": ["Registration Fee: Rs1000 per person (for two days) || Team Composition:1"],
       "rules": [
         "Vlog duration should be about 4-7 mins max.",
         "Day 1 all the events should be covered during this shoot.",
