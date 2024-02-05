@@ -494,7 +494,7 @@ export default function Technical() {
         
       ],
       "rules": [
-        "Performance Rules: Duration: 25-30 minutes.",
+        "Performance Rules: Duration: 35-40 minutes.",
         	"Use of foul language or inappropriate content is strictly prohibited.",
         "Keep the performance suitable for a diverse audience.",
        "Costumes should be appropriate for the theme and characters.",

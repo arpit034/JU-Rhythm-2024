@@ -161,7 +161,7 @@ export default function Technical() {
         
       ],
       
-      "coordinators": {"name":'Divya Mittal: 9828292185',"name2":'Monalika Medatwali: 9799834182'},
+      "coordinators": {"name":'Divya Mittal: 6350577196',"name2":'Monalika Medatwali: 9799834182'},
       "schedule": {
         "day": "",
         "venue": "",
