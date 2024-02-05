@@ -11,7 +11,7 @@ export default function Technical() {
       
   
       "alias": "Paintball",
-      "image": 'https://i.postimg.cc/RhG9BJPk/PAINTBALL.png',
+      "image": 'https://i.postimg.cc/L644yF2Q/paintball.png',
       "aboutEvent": "Aim.....shoot.....conquer. Paintball is a challenging team sport that includes strategy, shooting, eliminating, and of course unlimited fun. In this game, generally two (or more) different teams gather in a specially designated area and wage a war against each other.",
       "eventDetail": [
         "Maximum 5 members || 2000/team"
@@ -38,7 +38,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Roadies",
-      "image": 'https://i.postimg.cc/d1YKZjgM/ROADIES.png',
+      "image": 'https://i.postimg.cc/Cx11KT2n/roadies.png',
       "aboutEvent":" Brain, strength and abilities all come in a single arena. Let your opponent get nervous just by your  moves. Players will participate in various tasks that challenge their physical, social and mental  strength. Participate to experience thrill and fun.",
      
      
@@ -64,7 +64,8 @@ export default function Technical() {
     {
       "name": "",
       "alias": "TableTennis",
-      "image": 'https://i.postimg.cc/4NSkQgjQ/TABLE-TENNIS.png',
+      "image": 'https://i.postimg.cc/mDx2Vcg7/tabletennis.png',
+    
       "aboutEvent": "Table tennis is a sport in which two or four players hit a lightweight ball, also known as the ping-pong ball, back and forth across a table using small solid rackets. The game takes place on a hard table divided by a net.",
       "eventDetail": [
         "450/player||Members: 1player"
@@ -89,7 +90,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "TreasureHunt",
-      "image": 'https://i.postimg.cc/tgFKbVJB/TREASURE-HUNT.png',
+      "image": 'https://i.postimg.cc/3RgrqKkV/treasurehunt.png',
       "aboutEvent": "It is a game in which each person or team attempts to be first in finding something that has been  hidden, using written directions or clues.",
      
       "eventDetail": [
@@ -116,7 +117,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Snake Ladder",
-      "image": 'https://i.postimg.cc/c1TN6Ymj/SNAKE-LADDER.png',
+      "image": 'https://i.postimg.cc/KjxcSdLz/snake-and-ladder.png',
       "aboutEvent": "Players roll a die and navigate the board. Landing on a ladder advances a player to a square further  up the board, while landing on a snake means they have to go back to a previous square. The aim of the game is to reach the final square.",
       "eventDetail": ["900/per team||Members: 2 players per team"],
       "rules": [
@@ -139,7 +140,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Live Ludo",
-      "image": 'https://i.postimg.cc/Z5Xm4Sc5/LIVE-LUDO.png',
+      "image": 'https://i.postimg.cc/43HxzvsJ/live-ludo.png',
       "aboutEvent": "Ludo is a strategy board game , in which the players race their four tokens from start to finish according to the rolls of a single die.",
       
       "eventDetail": ["Members: 5 players per team ||2000/team ",
@@ -166,7 +167,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Ipl-Auction",
-      "image": 'https://i.postimg.cc/5tvVtR7q/IPL-AUCTION.png',
+      "image": 'https://i.postimg.cc/t4MgZv0S/ipl.png',
       "aboutEvent": "Cricket is an emotion and everything else is just a game, so let’s build your ‘dream team’ to acquire  the cup of victory. A championship where you tactically make bids and buy the players that will take  you closer to the trophy. So, unite your love for cricket with your expertise in foretelling and financial management",
       "eventDetail": ["Members:- 4 members||1600/team"
 
@@ -192,7 +193,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Gully Cricket",
-      "image": 'https://i.postimg.cc/Kvvx5Qjx/GULLY-CRICKET.png',
+      "image": 'https://i.postimg.cc/m2Tk0FNw/gully-cricket.png',
       "aboutEvent": "Gully cricket is an unofficial form of cricket originating mainly from India",
       "eventDetail": [
        "Members:- 7 members including one girl mandatory||2800/team"
@@ -218,7 +219,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Futsal",
-      "image": 'https://i.postimg.cc/ZK7Zs3v3/FUTSAL.png',
+      "image": 'https://i.postimg.cc/FH89sfcw/futsal.png',
       "aboutEvent": "Futsal is a variation of mini football. It is played between two teams of five players each, one of whom is the goalkeeper.",
       
       "eventDetail": ["Minimum 5 players Maximum 8 players || 2000/team",
@@ -246,7 +247,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Basketball",
-      "image": 'https://i.postimg.cc/xjP9HB06/BASKETBALL.png',
+      "image": 'https://i.postimg.cc/C1VSkWcN/basketball.png',
       "aboutEvent": "3x3 basketball is a variation of basketball played three-a-side, with one backboard and in a half-court setup",
       
       "eventDetail": [
@@ -278,7 +279,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Chess",
-      "image": 'https://i.postimg.cc/P5CHgx17/CHESS.png',
+      "image": 'https://i.postimg.cc/X7xq37s0/chess.png',
       "aboutEvent": "Chess is an abstract strategy game. It is played on a square chessboard with 64 squares arranged in an eight-by-eight grid. At the start, each player one controlling the white pieces,the other controlling the black pieces controls sixteen pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns The object of the game is to checkmate",
     
 

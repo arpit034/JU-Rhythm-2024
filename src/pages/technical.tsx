@@ -7,7 +7,8 @@ export default function Technical() {
   const events = [
     {
       "alias": "Algo Vs Logic",
-      "image": 'https://i.postimg.cc/wBV5XWZD/Algo-vs-Logic.png',
+      "image": 'https://i.postimg.cc/k4txbvYn/algovslogic.png',
+      
       "aboutEvent": "In this event, we take you on a trip back to the basics of any coding language: data structures and algorithms.",
       "eventDetail": [
         "Participation: Individual ||  Registration Fee: 450 Rs. Per Head "
@@ -36,7 +37,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Cyberbytes",
-      "image": 'https://i.postimg.cc/4dW5g81X/Cyberbytes.png',
+      "image": 'https://i.postimg.cc/NFqR72ZR/cyberbytes.png',
       "aboutEvent": "	A series of problems related to cyber security will be solved using various hacking and analysis tools.",
       "eventDetail": ["Participation: Team (1-2) || Registration Fee: 900 Rs. Per Team "
      
@@ -64,7 +65,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Mopix",
-      "image": 'https://i.postimg.cc/QtYpPFXt/Mopix.png',
+      "image": 'https://i.postimg.cc/zXkTKB7R/mopix.png',
       "aboutEvent": "This is a Website Design event in which the students will be asked to design a web-based interface for a fictional organization. It aims to highlight the creative and programming capabilities of the students. The work will be judged based on (with weightage Site Navigation, User-friendliness (40%) Presentation, Color Scheme, Attractiveness (35%) Presentation, Color Scheme, Attractiveness (35%) Cross-browser & multi-resolution stability (20%)",
 
       "eventDetail": [ 
@@ -95,7 +96,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Codehunt",
-      "image": 'https://i.postimg.cc/gkCKmL3L/CodeHunt.png',
+      "image": 'https://i.postimg.cc/nh0YbzQt/codehunt.png',
       "aboutEvent": " In this event, we test your grasp of programming language through a series of questions about coding and finding an output. It is a competitive Timebound game that consists of 4 knockout levels. You have to solve a About the Event at each level using your desired programming language and reach an output. After each round, you will receive a clue of where to find your next About the Event. The level of questions after each round will increase. ",
       "eventDetail": ["Participation: Team (2-4)|| Registration Fee: 1600 Rs. Per Team"],
       "rules": [
@@ -124,7 +125,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Robowar-Elite",
-      "image": 'https://i.postimg.cc/DmkbksR2/Robo-War-Elite.png',
+      "image": 'https://i.postimg.cc/SQ69bswt/robowar-elite.png',
       "aboutEvent": "The main aim is to design a machine that can fight one another as well as maintain to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wired or wireless robot.  ArenaDimensions:  Total arena dimensions: 20X20 feet,Playing arena dimensions: 17X17 feet, Knock-out arena dimensions: 3X3 feet The base of the arena is made up of a metal sheet of width 5 mm,The walls of the arena will be made up of polycarbonate film of width 6 mm.",
       "eventDetail": [
         "Participation: Team (1-6) ||   Registration Fee: 2000 Rs. Per Team ",
@@ -161,7 +162,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Robowar-Pro",
-      "image": 'https://i.postimg.cc/7hd85SkH/Robo-Wa-Pro.png',
+      "image": 'https://i.postimg.cc/qMQCgFBs/robowar-pro.png',      
       "aboutEvent": "The main aim is to design a machine that can fight one another as well as maintain to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wired or wireless robot.  ArenaDimensions:  Total arena dimensions: 20X20 feet,Playing arena dimensions: 17X17 feet, Knock-out arena dimensions: 3X3 feet The base of the arena is made up of a metal sheet of width 5 mm,The walls of the arena will be made up of polycarbonate film of width 6 mm.",
       "eventDetail": [
         "Participation: Team (1-6) ||   Registration Fee: 2000 Rs. Per Team ",
@@ -198,7 +199,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Amphibot",
-      "image": 'https://i.postimg.cc/tJ7zChrW/Amphibot.png',
+      "image": 'https://i.postimg.cc/m2WS7KGK/amphibot.png',
       "aboutEvent": "Design a manually controlled wired or wireless ROBOT that can be operated manually within the specified dimensions and can travel through both land and water. The robot that will complete the specified task in the least time will be the winner.",
       "eventDetail": [ "Participation: Team (1-3) || Registration Fee: 1000 Rs. Per Team",   
       ],
@@ -228,7 +229,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Clash-N-Clatter",
-      "image": 'https://i.postimg.cc/5N6PxMGT/Clash-N-Clatter.png',
+      "image": 'https://i.postimg.cc/HWy2cdFQ/clashnclatter.png',
       "aboutEvent": "The game aims at clashing and clattering of two solid bots connected by rope such that they try to pull each other in the famous game ‘TUG of WAR’. The bot wins if it drags the other bot across the center line.",
       "eventDetail": [
        "Participation:  Team (1-2) || Registration: 900 Rs. Per Team"
@@ -260,7 +261,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Robo Soccer",
-      "image": 'https://i.postimg.cc/XNZHWbth/Robo-Soccer.png',
+      "image": 'https://i.postimg.cc/BvjFrC0x/robosoccer.png',
       "aboutEvent": "Design a manually controlled robot wired or wireless that can play soccer.",
       "eventDetail": [
         "Participation: Team (1-2) || Registration Fee: 900 Rs. Per Team"
@@ -292,7 +293,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Bridge-O-Mania",
-      "image": 'https://i.postimg.cc/BQLCrBPG/Bridge-O-Mania.png',
+      "image": 'https://i.postimg.cc/3xKCcpNB/bridgeomani.png',
       "aboutEvent": "To design and construct the most efficient bridge within the specifications.",
       "eventDetail": [
         "Participation: Team (1-3) || Registration Fee: 1000 Rs. Per Team"
@@ -325,7 +326,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Robotronix",
-      "image": 'https://i.postimg.cc/pT6yzHBB/Robotronix.png',
+      "image": 'https://i.postimg.cc/qqTCCVCL/robotronix.png',
       "aboutEvent": "Robots will follow a line from a starting location to a finish line the winner that accomplishes that goal in the shortest time is the winner.",
       "eventDetail": [
         "Participation: Team (1-3) Registration Fee: 1600 Rs. Per Team"
@@ -357,7 +358,8 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Snap & Sketch",
-      "image": 'https://i.postimg.cc/zDyFMD48/Snap-Sketch.png',
+      "image": 'https://i.postimg.cc/MpFMmjQX/snap-n-sketch.png',
+      
       "aboutEvent": "An image will be projected for 2 minutes and then the participant is requested to make a replica of it.",
       "eventDetail": [
         "Participation: Individual || Registration Fee: 1000 Rs. Per Head"
@@ -392,7 +394,8 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Code Bot",
-      "image": 'https://i.postimg.cc/SQZyp6LF/Code-Bot.png',
+      "image": 'https://i.postimg.cc/9FPYb1m0/codebot.png',
+      
       "aboutEvent": "This event is your chance to dive into the exciting world of artificial intelligence and machine learning (AI/ML) by building your AI-powered bot. This will provide you with the essential knowledge and skills to create bots that can solve real-world problems.",
       "eventDetail": [
         "Participation: Team (1-2) || Registration Fee: 900 Rs. Per Team"
@@ -423,7 +426,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Bug Bounty",
-      "image": 'https://i.postimg.cc/FHTT70sc/BUG-BOUNTY.png',
+      "image": 'https://i.postimg.cc/wBrXMGVf/bugbounty.png',
       "aboutEvent": "In this event, pre-written codes will be provided, and the participants must find and fix the bugs in those programs.",
       "eventDetail": [
         "Participation: Team (1-2) || Registration Fee: 450 Rs. Per person"
@@ -488,7 +491,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "RoboRush",
-      "image": 'https://i.postimg.cc/130DSC9b/RoboRush.png',
+      "image": 'https://i.postimg.cc/wjfJ4GSq/roborush.png',
       "aboutEvent": "Max weight of bot must not exceed 4kg (excluded battery weight). || NO kind of AC power will be provided at the event. || Each team is allowed to have only one bot. || There must not be a hole on side of the mechanism attached to catch the ball and release it.",
       "eventDetail": [
         "Participation: Team (1-2)||Registration Fee: 900 Rs. Per Team ",
@@ -517,7 +520,7 @@ export default function Technical() {
     {
       "name": "Valorant",
       "alias": "Valorant",
-      "image": 'https://i.postimg.cc/zD9dXQrf/Valorant.png',
+      "image": 'https://i.postimg.cc/yY6DqThk/valorant.png',
       "aboutEvent": "A 5v5 Battle Royale competitive game that requires your Skills, Ability Usage, and Aim. You Pad Up and Overcome the opponents with your IQ and Character Usage!",
       "eventDetail": [
         "Participation: Team (6 Participants) || Registration Fee: 2000 Rs. Per Team",
@@ -546,7 +549,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "BGMI",
-      "image": 'https://i.postimg.cc/HLH47GZp/BGMI.png',
+      "image": 'https://i.postimg.cc/cJC7sSQt/bgmi.png',
       "aboutEvent": "Survive the chaos, eliminate opponents, and be the last one standing to claim the coveted title of the ultimate BGMI champion. (Battle Royale- BGMI) challenges players to navigate a shrinking play zone, scavenge for weapons, and strategize their way to victory.",
       "eventDetail": [
        "Participation: Team (4 Participants) || Registration Fee: 1500 Rs. Per Team"
@@ -572,7 +575,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "FIFA",
-      "image": 'https://i.postimg.cc/XY9kJNgH/FIFA.png',
+      "image": 'https://i.postimg.cc/tJ3WrCHw/fifa.png',
       "aboutEvent": "A recreation of the original FIFA held in stadiums, it is a realistic game with real players and high graphics. It is a fun 1v1 game to play and hop on easily as the controls are simple. FIFA is made by EA Sports and it's cool to play and simple to enjoy upon",
 
     
