@@ -169,10 +169,14 @@ export default function PreviewPage() {
                     <a href="guidelines.pdf" download>Guidelines</a>
 
                 </div>
-
+            
                 <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl text-bold hover:scale-105 hover:shadow hover:shadow-white '>
                     <a href='/events'>Register</a>
                 </div>
+                <div className='team2 border-2 rounded-3xl w-36 p-2 text-2xl text-bold hover:scale-105 hover:shadow hover:shadow-white '>
+                    <a href="Schedule (2).pdf" download >Schedule</a>
+                </div>
+            
               </div>
               </div>
           </div>
