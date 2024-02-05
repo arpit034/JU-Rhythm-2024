@@ -15,7 +15,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/R0XyN467/mono-strokes.png',
       "aboutEvent":": Unleash your creativity on canvas and breathe life into your imagination. Our painting event invites participants to express themselves through vibrant strokes, creating a visual symphony that transcends boundaries and captivates the senses.",
       "eventDetail": [
-       
+       ""
       ],
       "rules": [
         "	Duration: 2 hours.",
@@ -517,7 +517,7 @@ export default function Technical() {
       "alias": "YOUNIVERSE(Candle making)",
       "image": 'https://i.postimg.cc/gkxzpt7t/candel-making-MPOWER.png',
       "aboutEvent":": A universe dedicated to you and selfcare. Our Candle making allows you to make customised scented candles  from scratch and take them with you.",
-      "eventDetail": [""],
+      "eventDetail": ["Registration Fee:  450 per person  || Team Composition:1"],
       "rules": [
        
          "You will be provided with the raw materials to make your own candle.",
@@ -544,7 +544,7 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/bYDYcFWC/pottery-making-MPOWER.png',
     
       "aboutEvent": ": A universe dedicated to you and selfcare. Our pottery making gives you a chance to make your own ceramics and take them with you.  ",
-      "eventDetail": [""],
+      "eventDetail": ["Registration Fee: 450 per person  || Team Composition:1"],
       "rules": [
          "You will be given a wheel and clay to build your ceramics.",
         " You shall be given 15 minutes to create whatever you want.",

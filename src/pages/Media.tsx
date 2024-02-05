@@ -147,7 +147,7 @@ export default function Technical() {
      
       "image": 'https://i.postimg.cc/J0RZ1QzG/nazaria-board-UPSCALE.png',
       "aboutEvent": "The event is about creating your vision boards, using pictures, sketches and anything related to RHYTHM'24. ",
-      "eventDetail":["Registration Fee: Rs300 per person|| Team Composition:1"],
+      "eventDetail":["Registration Fee: Rs700 per person|| Team Composition:1"],
       "rules": [
          "Duration - 3 hours. ",
 "Participants must bring their requirements for the competition themselves. ",
@@ -173,7 +173,7 @@ export default function Technical() {
       "alias": "VYAPAAR",
       "image": 'https://i.postimg.cc/4ywtnhYw/VYAPAAR-UPSCALE.png',
       "aboutEvent": "Roll the dice, acquire fantastical properties, and face enchanting challenges at VYAPAAR. This offline Monopoly experience tests friendships, forms alliances, and creates fortunes. Adapt to market fluctuations, engage in political alliances, and employ psychological strategies to dominate the competition!",
-      "eventDetail": ["Registration Fee: Rs300 per person  || Team Composition:1"],
+      "eventDetail": ["Registration Fee: Rs450 per person  || Team Composition:1"],
       "rules": [
       " Duration - 6hours There will be single Participation.",
 
@@ -199,7 +199,7 @@ export default function Technical() {
       "alias": "Science Doodle",
       "image": 'https://i.postimg.cc/xjPL6B6H/science-doodle-UPSCALE.png',
       "aboutEvent": "",
-      "eventDetail": ["Registration Fee: 300 per person  || Team Composition:1"],
+      "eventDetail": ["Registration Fee:  1800 per team  || Team Composition:4"],
       "rules": [
         	"Duration- 2 hours",
 	"No smartphones are allowed during the ongoing of the competition. ",
@@ -224,7 +224,7 @@ export default function Technical() {
       "alias": "",
       "image": 'https://i.postimg.cc/bNNkWL55/CID-RHYTHM-UPSCALE.png',
       "aboutEvent": "",
-      "eventDetail": ["Registration Fee: Rs1200  || Team Composition:1"],
+      "eventDetail": ["Registration Fee: Rs1800 || Team Composition:4"],
       "rules": [
         	"Duration:- 3 hours",
         	"No smartphones allowed during the competition",
