@@ -12,7 +12,7 @@ export default function Technical() {
 
   
       "alias": "Monostrokes",
-      "image": 'https://i.postimg.cc/KvGGqm6H/MONOSTROKES.png',
+      "image": 'https://i.postimg.cc/R0XyN467/mono-strokes.png',
       "aboutEvent":": Unleash your creativity on canvas and breathe life into your imagination. Our painting event invites participants to express themselves through vibrant strokes, creating a visual symphony that transcends boundaries and captivates the senses.",
       "eventDetail": [
        
@@ -40,7 +40,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Raptrap",
-      "image": 'https://i.postimg.cc/fWjWfVrd/rap-trap.png',
+      "image": 'https://i.postimg.cc/BZrSqBGq/rap-trap.png',
       "aboutEvent": ": Enter the electrifying world of Rap War, where lyrical prowess meets rhythmic mastery. Unleash your verbal dexterity in a fierce battle of words, complemented by the pulsating beats. Only the most skilled wordsmiths will rise victorious in this ultimate test of creative expression and musical finesse.",
       "eventDetail": [""],
       "rules": [
@@ -68,7 +68,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Rhythmic relay",
-      "image": 'https://i.postimg.cc/Gm9cRqhP/rhythmic-relay.png',
+      "image": 'https://i.postimg.cc/021vg5pj/rhytmic-relay-poetry.png',
       "aboutEvent": "Unlock the power of words in our Poetry Corner, where eloquence meets emotion. Immerse yourself in the rhythmic beauty of verse, as players weave linguistic tapestries to captivate hearts and minds.",
       "eventDetail": [
       ""
@@ -96,7 +96,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Symphony",
-      "image": 'https://i.postimg.cc/ZnVStyGD/sYMPHONY.png',
+      "image": 'https://i.postimg.cc/CKzXB9j9/SYMPHONY-solo-instrument.png',
       "aboutEvent": ": Immerse yourself in the rhythmic world of solo instrumental mastery as performers showcase their unique talents, blending intricate melodies and percussive beats. From soulful solos to jaw-dropping symphony this event promises a fusion of musical virtuosity that captivates and electrifies audiences.",
       "eventDetail": [
         
@@ -125,7 +125,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "SpellBound",
-      "image":'https://i.postimg.cc/QtZspDgS/spellbound.png',
+      "image":'https://i.postimg.cc/VkYc67Zc/spell-bound.png',
       "aboutEvent": "Unleash the mystical energies of the arcane with Spellbound, an enchanting event where participants delve into the captivating world of spellcasting. Whether novice or adept, this magical gathering offers a spellbinding experience, combining knowledge from ancient grimoires with modern incantations for a bewitching adventure.",
       "eventDetail": [""],
       "rules": [
@@ -151,7 +151,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Step-Up",
-      "image": 'https://i.postimg.cc/NFgczxzH/step-up.png',
+      "image": 'https://i.postimg.cc/kXvkkQJY/step-up.png',      
       "aboutEvent": "Participants will captivate the audience with their individual flair, showcasing rhythmic movements and artistic expressions. Embracing various dance styles, performers will take centre stage, demonstrating creativity, skill, and passion in this exhilarating solo dance competition.",
       "eventDetail": [
        
@@ -179,7 +179,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Clash-OF-Words",
-      "image": 'https://i.postimg.cc/DwWKH0BB/clash-of-words.png',
+      "image": 'https://i.postimg.cc/sfp8hYhf/word-clash.png',
       "aboutEvent": "Engage in a riveting debate exploring proposed amendments to the rulebook, as participants eloquently present arguments and counterarguments, striving to shape the guidelines that govern our shared endeavours. Delve into the intricacies of each proposed rule, fostering a dynamic exchange of ideas to refine and enhance the framework that guides our collective pursuits.",      
       "eventDetail": [
         
@@ -206,7 +206,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "X-Factor",
-      "image": 'https://i.postimg.cc/ryJctvDC/XFACTOR.png',
+      "image": 'https://i.postimg.cc/7YRLTr7y/x-factor.png',
       "aboutEvent": "Experience the electrifying clash of turntables and vocal percussion in the DJ War! Witness skilled DJs battle through dynamic mixes, as they compete for the ultimate title of sonic supremacy. Get ready for a fusion of beats that will leave the audience captivated and the dance floor ablaze.",
       "eventDetail": [
        
@@ -232,21 +232,22 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Light camera action",
-      "image": 'https://i.postimg.cc/5y3x4rCg/lights-camera-action.png',
+      "image": 'https://i.postimg.cc/XJvM8pS1/mono-act.png',
       "aboutEvent": "A captivating solo performance where a participant takes centre stage, embodying a character or concept through expressive acting and dialogue. The participant, armed with only their talent, brings a compelling narrative to life in this riveting display of individual theatrical prowess.",
       "eventDetail": [
-        	"Performance Rules: Duration: 5-7 minutes.",
-	"Use of foul language or inappropriate content is strictly prohibited.",
-	"Keep the performance suitable for a diverse audience.",
-	"Costumes should be appropriate for the character or theme.",
-	"Limited props are allowed, but they should not hinder the performance.",
-	"Keep in mind the time duration.",
-	"Violation of rules may lead to disqualification.",
-	"The decision of the judges and event organizers is final."
+        	
 
         
       ],
       "rules": [
+        "Performance Rules: Duration: 5-7 minutes.",
+        "Use of foul language or inappropriate content is strictly prohibited.",
+        "Keep the performance suitable for a diverse audience.",
+        "Costumes should be appropriate for the character or theme.",
+        "Limited props are allowed, but they should not hinder the performance.",
+        "Keep in mind the time duration.",
+        "Violation of rules may lead to disqualification.",
+        "The decision of the judges and event organizers is final."
       ],
      
       "coordinators":{"name":'Devang Mathur: 9461154417',"name2":'Aashima Jain: 9664273510'},
@@ -259,7 +260,8 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Just A Minute",
-      "image": 'https://i.postimg.cc/RFwS8hCj/JAM.png',
+      "image": 'https://i.postimg.cc/43gszfxj/just-a-minute.png',
+    
       "aboutEvent": ": Extempore, a thrilling and dynamic event, challenges participants to think on their feet and articulate their thoughts spontaneously. With minimal preparation time, contestants showcase their eloquence, creativity, and quick thinking, captivating audiences with their impromptu speeches on diverse topics.",
       "eventDetail": [
         
@@ -289,7 +291,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Rhythm-Rumble",
-      "image": 'https://i.postimg.cc/K8Vm8BR6/rhythm-rumble.png',
+      "image": 'https://i.postimg.cc/QxcXVKXc/rhythmic-rumble.png',
       "aboutEvent": " Teams of 7-25 participants will showcase synchronized movements and artistic expression in a dynamic display of unity. Judges will evaluate choreography, coordination, and overall creativity to determine the winning performance.",
       "eventDetail": [
         	
@@ -318,7 +320,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Ju Unplugged",
-      "image": 'https://i.postimg.cc/90Vmj2rz/ju-unplugged.png',
+      "image": 'https://i.postimg.cc/j5qTFMNX/JU-UNPLUGGED.png',
       "aboutEvent": ": Participants will have the spotlight to showcase their individual musical prowess in the solo song category. With just a microphone and their talent, contestants will captivate the audience with a unique and soulful performance, vying for the title of the solo song virtuoso.",
       "eventDetail": [
 
@@ -348,7 +350,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Iq Quest",
-      "image": 'https://i.postimg.cc/k5KPMZrS/iq-quest.png',
+      "image": 'https://i.postimg.cc/PqQhygLJ/iq-quest.png',
       "aboutEvent": "Dive into the thrill of knowledge and friendly competition at our Quiz Competition! Test your wits and quick thinking against fellow participants in a battle of intellect. Follow the rulebook for a fair and exciting challenge, and may the brightest minds emerge victorious.",
       "eventDetail": [
         
@@ -376,7 +378,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Beat The Street",
-      "image": 'https://i.postimg.cc/ncSJ3BYX/beat-the-street.png',
+      "image": 'https://i.postimg.cc/0yJyYXdK/beat-the-street.png',
       "aboutEvent": ": Unleash your rhythm and style in this electrifying competition. Show off your urban dance moves, from breakdancing to hip-hop, and captivate the audience with your unique flair. Let the streets be your stage as you bring the beat to life in this fierce battle of style and creativity with team of 3-6 participants.",
       "eventDetail": [
        
@@ -403,7 +405,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Smash The Dub",
-      "image": 'https://i.postimg.cc/0yLqsv4x/dub-the-smash.png',
+      "image": 'https://i.postimg.cc/NMNtqRkw/dubsmash.png',
       "aboutEvent": ": Unleash your mimicry prowess in this unique event. Participants will face the ultimate test as they watch a muted dialogue played on screen and then must flawlessly replicate the lines with precision. Bring your A-game and let your talent shine in this thrilling Dubsmash Mimicry Challenge!",
 
     
@@ -431,7 +433,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Music Mania",
-      "image": 'https://i.postimg.cc/RFwmgx1m/music-mania.png',
+      "image": 'https://i.postimg.cc/XJPPkLgX/music-mania.png',
       "aboutEvent": "Antakshari is a lively musical game where participants take turns singing songs based on a given starting letter. The challenge lies in seamlessly connecting songs and showcasing musical knowledge, creating a vibrant and engaging experience for players.",
       "eventDetail": [
         
@@ -459,7 +461,8 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Vogue Vista",
-      "image": 'https://i.postimg.cc/Wb1VmXrR/vogue-vista.png',
+      "image": 'https://i.postimg.cc/50zrpvK3/vogue-vista.png',
+    
       "aboutEvent": ": Immerse yourself in a dazzling spectacle of style and creativity as our Fashion Show unfolds, showcasing the latest trends and designs from renowned and emerging designers. Witness the fusion of innovation and elegance, where each runway stride becomes a statement of individuality and fashion-forward expression.",
       "eventDetail": [
         ""      ],
@@ -485,7 +488,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Spotlight",
-      "image": 'https://i.postimg.cc/fL7sCPBs/spotlight.png',
+      "image": 'https://i.postimg.cc/6qskNz4g/Spotlight.png',
       "aboutEvent": "Immerse yourself in a riveting stage play where familial bonds unravel in the face of a mysterious inheritance. As secrets are exposed under the spotlight, the characters navigate a gripping tale of love, betrayal, and redemption, leaving the audience on the edge of their seats. Group size should be 10-12 participants.",
       "eventDetail": [
         
@@ -512,7 +515,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "YOUNIVERSE(Candle making)",
-      "image": 'https://i.postimg.cc/qRK7ybgw/Candle-Making.jpg',
+      "image": 'https://i.postimg.cc/gkxzpt7t/candel-making-MPOWER.png',
       "aboutEvent":": A universe dedicated to you and selfcare. Our Candle making allows you to make customised scented candles  from scratch and take them with you.",
       "eventDetail": [""],
       "rules": [
@@ -538,7 +541,8 @@ export default function Technical() {
     {
       "name": "",
       "alias": "YOUNIVERSE(Pottery making)",
-      "image": 'https://i.postimg.cc/tgwT1QR7/Pottery.jpg',
+      "image": 'https://i.postimg.cc/bYDYcFWC/pottery-making-MPOWER.png',
+    
       "aboutEvent": ": A universe dedicated to you and selfcare. Our pottery making gives you a chance to make your own ceramics and take them with you.  ",
       "eventDetail": [""],
       "rules": [

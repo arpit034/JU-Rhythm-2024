@@ -9,7 +9,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Pixellate",
-      "image": 'https://i.postimg.cc/VLCjGs2f/Pixellate.png',
+      "image": 'https://i.postimg.cc/2SmB5Df8/pixellate.png',
       "aboutEvent": "Designing is a challenge, it requires a pioneering vision strengthened by a curiosity out of the ordinary; yet typical of any man. To design is to invent, innovate, and surprise. All this through a single tool   Pixelate is a contest in which participants are asked to design graphics using the given set of tock images and other resources. The event is divided into two rounds. The first is an   elimination round in which a short design problem will be given.",
       "eventDetail": [
         "Registration Fee: Rs 450  per person || Team Composition: 1"
@@ -38,7 +38,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Quick-Flick",
-      "image": 'https://i.postimg.cc/tC2Prrz5/QUICK-FLICK.png',
+      "image": 'https://i.postimg.cc/zv89B78Q/quick-flick.png',
       "aboutEvent": "Anything that can be written or thought of can be filmed. They say a picture is worth a thousand words then a film is worth a thousand times more. If you are an author whose novels are films, this is right place to publish.",
       "eventDetail": ["Registration fee: Rs 450 per person|| Team Composition: 1"],
       "rules": [
@@ -63,7 +63,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "ShutterShots",
-      "image": 'https://i.postimg.cc/y6h0R6g2/SHUTTER-SHOTS.png',
+      "image": 'https://i.postimg.cc/MKsh614s/shutter-shots.png',
       "aboutEvent": "There is a creative fraction of a second when you are taking a picture. Your eye must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera. That is the moment the photographer is creative. Oops! The Moment! Once you miss it, it is gone forever",
       "eventDetail": [
         "Registration fee: Rs 450 per person || Team Composition: 1"
@@ -90,7 +90,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "SnippetStory",
-      "image": 'https://i.postimg.cc/pLSjvp45/SNIPPET-STORY.png',
+      "image": 'https://i.postimg.cc/Rhd2nt0Z/snippet-story.png',
       "aboutEvent": "SHORT FILM MAKING COMPETITION",
       "eventDetail": [
         "Registration Fee: Rs 2400 per team  || Team composition:4"
@@ -119,7 +119,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "VirtualVerve",
-      "image": 'https://i.postimg.cc/J0QJCKCR/VIRTUAL-VERVE.png',
+      "image": 'https://i.postimg.cc/FRjMN85c/virtual-verve.png',
       "aboutEvent": "",
       "eventDetail": ["Registration Fee: Rs1000 per person (for two days) || Team Composition:1"],
       "rules": [
