@@ -467,7 +467,7 @@ export default function Technical() {
       "eventDetail": [
         ""      ],
       "rules": [
-        "Participants: 15-25 individuals in a group.",
+        "Participants: 12-20 individuals in a group.",
         	"Participants must dress appropriately for a fashion show.",
         	"No vulgar or offensive attire is allowed.",
         	"Any specific theme or requirement will be communicated in advance.",
@@ -489,7 +489,7 @@ export default function Technical() {
       "name": "",
       "alias": "Spotlight",
       "image": 'https://i.postimg.cc/6qskNz4g/Spotlight.png',
-      "aboutEvent": "Immerse yourself in a riveting stage play where familial bonds unravel in the face of a mysterious inheritance. As secrets are exposed under the spotlight, the characters navigate a gripping tale of love, betrayal, and redemption, leaving the audience on the edge of their seats. Group size should be 10-12 participants.",
+      "aboutEvent": "Immerse yourself in a riveting stage play where familial bonds unravel in the face of a mysterious inheritance. As secrets are exposed under the spotlight, the characters navigate a gripping tale of love, betrayal, and redemption, leaving the audience on the edge of their seats. Group size should be 10-15 participants.",
       "eventDetail": [
         
       ],
