@@ -85,7 +85,7 @@ export default function Technical() {
         
          
         
-      "coordinators":{"name":'Simran:9664471324' ,"name2":' Saksham:8619964199'},
+      "coordinators":{"name":'Shashwat jain:9009519718' ,"name2":' Saksham:8619964199'},
       
       "schedule": {
         "day": "",
@@ -114,7 +114,7 @@ export default function Technical() {
       "coordinators": {
         
            "name": "Ayushi:7014881298",  
-           "name2": "Ajay:9680952327", 
+           "name2": "Sneha:8000254863", 
       },
       "schedule": {
         "day": "",
@@ -280,7 +280,7 @@ export default function Technical() {
       "coordinators": {
        
            "name": "Chirag Singh:8824549686" ,
-          //  "name2": "Samyak Jain:8003069203" ,
+           "name2": "Harsh Sharma:7014181750" ,
       
       
       },
@@ -313,7 +313,7 @@ export default function Technical() {
       "coordinators": {
         
            "name": "Sahil Harchandani:7424848598" ,
-           "name2": "Ishank Dosi:7023290671",
+           "name2": "Divyanshu Bansal:954964141",
        
       
       },
@@ -457,37 +457,7 @@ export default function Technical() {
         "time": ""
       }
     },
-    { 
-      "name": "",
-      "alias": "Mind-Mania",
-      "image": 'https://i.postimg.cc/0rgQX0FM/Mind-Mania.png',
-      "aboutEvent": "Design a manually controlled wired or wireless ROBOT that can be operated manually within the specified dimensions. The robot that will find its way towards the exit in the least time will be the winner.",
-      "eventDetail": [
-        "Participation: Team (1-3) || Registration Fee: 1200 Rs. Per Team"
-      ],
-      "rules": [
-        "The robot starts at the start line when the timer begins.",
-        "Continuous track adherence is crucial; failure results in restarting from the last crossed checkpoint, with the timer unaffected.",
-        "Penalties, rewards, and scoring details for obstacles are announced on the event day.",
-        "Only the elected robot handler controls the robot during the game; all other team members remain outside the game zone.",
-        "Final decisions on scoring, gameplay, and timing rest with the Organizing Committee, requiring full team respect.",
-        "Organizers may alter rules as needed, with any changes highlighted on the website and notified to registered teams.",
-        "The time limit for completion is approximately 15 minutes, with one trial allowed.",
-        "The potential between any two points on the robot should not exceed 12V."
-        
-      ],
-      "coordinators": {
-        
-          "name": "Harshwardhan-8890058795", "name2": "Rohit-8769168787" ,
-           
-
-      },
-      "schedule": {
-        "day": "",
-        "venue": "",
-        "time": ""
-      }
-    },
+   
     {
       "name": "",
       "alias": "RoboRush",
