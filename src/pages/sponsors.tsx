@@ -6,54 +6,25 @@ import { useRouter } from 'next/router'
 import NewNavBar from '@/components/NavBar'
 const eventSponsors = [
     {
-        image: 'https://i.postimg.cc/pLmtbzVb/upGrad.png'
+        image: 'https://i.postimg.cc/KY5z3DFS/hushjammer.png'
     },
     {
 
-        image: 'https://i.postimg.cc/RhmMvFs1/L-T-Edu-Tech.png'
+        image: 'https://i.postimg.cc/W3W1Xph5/ashokasundari.png'
     },
     {
-        image: 'https://i.postimg.cc/26hkpvw8/DECATHLON.png' 
+        image: 'https://i.postimg.cc/0jz23gSP/colourbar.png' 
     },
     {
-        image: 'https://i.postimg.cc/prBPrH4w/Github.png'
+        image: 'https://i.postimg.cc/50NtBQNH/liberty.png'
     },
     {
-        image: 'https://i.postimg.cc/zXXr749f/nVIDIA.png'
+        image: 'https://i.postimg.cc/Vkn5mcVN/ramas.png'
     },
     {
-        image: 'https://i.postimg.cc/9fT5z2qL/zeeve.png'
+        image: 'https://i.postimg.cc/m2ctp93C/thebodyshop.png'
     },
-    {
-        image: 'https://i.postimg.cc/1tckcKB6/POLYGON.png'
-    },
-    {
-        image:'https://i.postimg.cc/t4cpYDv4/HTL.png' 
-    },
-    
-    {
-        image:'https://i.postimg.cc/FKJmccwg/metacube.png'
-    },
-    {
-        image: 'https://i.postimg.cc/T1TXZs1C/Revolt.png'
-    },
-    
-    {
-        image:'https://i.postimg.cc/VkZLXzv1/KTM.png'
-    },
-    {
-        image: 'https://i.postimg.cc/1R0mJGXv/Meridean-Overseas.png'
-    },
-    {
-        image: 'https://i.postimg.cc/YC0trT3P/atSign.png'
-    },
-    {
-        image: 'https://i.postimg.cc/L4VSzmQ7/MOGO.png'
-    },
-    {
-        image: 'https://i.postimg.cc/cHyWcCSq/Clarks-Amer.png'
-
-    },
+   
     
   
 
@@ -78,7 +49,7 @@ const sponsors = () => {
                             {eventSponsors.map((sponsor) => (
                                 <div className=' p-3 justify-center flex rounded-3xl m-4'>
                                     <div>
-                                        <Image className="h-auto max-w-full  rounded-xl" width={300} height={300} src={sponsor.image} alt="" />
+                                        <Image className="h-auto max-w-full  rounded-xl transition-transform duration-300 transform hover:scale-105 cursor-pointer" width={300} height={300} src={sponsor.image} alt="" />
                                     </div>
                                 </div>
                             ))}

@@ -50,14 +50,7 @@ const teamDetails = [
 
     },
 
-    {
-        name: '',
-        image: 'https://i.postimg.cc/c1hPQYny/PRAYASH-GUPTA.png',
-       year: "",
-
-       
-
-    },
+  
     {
         name: '',
         image: 'https://i.postimg.cc/rwB1dnyV/AWEZ-KHAN.png',
@@ -114,13 +107,7 @@ const teamDetails = [
         
 
     },
-    {
-        name: '',
-        image: 'https://i.postimg.cc/SQrDwrZj/ANSHIKA-TEJWANI.png',
-       year: "",
-
-      
-    },
+  
     {
         name: '',
         image: 'https://i.postimg.cc/LsZMDXMk/SAJAL-BATWARA.png',
