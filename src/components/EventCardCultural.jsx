@@ -13,7 +13,7 @@ export default function EventsCardCultural(props) {
             </div>
             <div className='flex gap-6 p-4 text-center justify-center'>
             <button className='team2 text-xl border-2 px-2 rounded-3xl border-white '>
-                <a href='https://rzp.io/l/77DwJOKu'>
+                <a href='https://rzp.io/l/WMIRyIqG'>
                     Register Now
                 </a>                    
                 </button>
